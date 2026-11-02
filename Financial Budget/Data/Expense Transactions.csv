@@ -1,0 +1,2593 @@
+﻿TransactionID,PlanID,TransactionDate,AmountIDR,Vendor,Description
+TX00001_1,BP00001,2025-01-07,5066743,Vendor 1-1,Personnel expense
+TX00001_2,BP00001,2025-01-13,8866800,Vendor 1-2,Personnel expense
+TX00001_3,BP00001,2025-01-19,11400173,Vendor 1-3,Personnel expense
+TX00002_1,BP00002,2025-01-07,6719889,Vendor 2-1,Software expense
+TX00002_2,BP00002,2025-01-13,11759805,Vendor 2-2,Software expense
+TX00002_3,BP00002,2025-01-19,15119751,Vendor 2-3,Software expense
+TX00003_1,BP00003,2025-01-07,7447579,Vendor 3-1,Infrastructure expense
+TX00003_2,BP00003,2025-01-13,13033263,Vendor 3-2,Infrastructure expense
+TX00003_3,BP00003,2025-01-19,16757053,Vendor 3-3,Infrastructure expense
+TX00004_1,BP00004,2025-01-07,7261120,Vendor 4-1,Professional Services expense
+TX00004_2,BP00004,2025-01-13,12706961,Vendor 4-2,Professional Services expense
+TX00004_3,BP00004,2025-01-19,16337523,Vendor 4-3,Professional Services expense
+TX00005_1,BP00005,2025-01-07,7792992,Vendor 5-1,Travel expense
+TX00005_2,BP00005,2025-01-13,13637736,Vendor 5-2,Travel expense
+TX00005_3,BP00005,2025-01-19,17534233,Vendor 5-3,Travel expense
+TX00006_1,BP00006,2025-01-07,9710145,Vendor 6-1,Training expense
+TX00006_2,BP00006,2025-01-13,16992755,Vendor 6-2,Training expense
+TX00006_3,BP00006,2025-01-19,21847829,Vendor 6-3,Training expense
+TX00007_1,BP00007,2025-01-07,6350105,Vendor 1-1,Personnel expense
+TX00007_2,BP00007,2025-01-13,11112685,Vendor 1-2,Personnel expense
+TX00007_3,BP00007,2025-01-19,14287739,Vendor 1-3,Personnel expense
+TX00008_1,BP00008,2025-01-07,6078215,Vendor 2-1,Software expense
+TX00008_2,BP00008,2025-01-13,10636876,Vendor 2-2,Software expense
+TX00008_3,BP00008,2025-01-19,13675985,Vendor 2-3,Software expense
+TX00009_1,BP00009,2025-01-07,5716767,Vendor 3-1,Infrastructure expense
+TX00009_2,BP00009,2025-01-13,10004342,Vendor 3-2,Infrastructure expense
+TX00009_3,BP00009,2025-01-19,12862726,Vendor 3-3,Infrastructure expense
+TX00010_1,BP00010,2025-01-07,8267286,Vendor 4-1,Professional Services expense
+TX00010_2,BP00010,2025-01-13,14467751,Vendor 4-2,Professional Services expense
+TX00010_3,BP00010,2025-01-19,18601395,Vendor 4-3,Professional Services expense
+TX00011_1,BP00011,2025-01-07,6764407,Vendor 5-1,Travel expense
+TX00011_2,BP00011,2025-01-13,11837713,Vendor 5-2,Travel expense
+TX00011_3,BP00011,2025-01-19,15219918,Vendor 5-3,Travel expense
+TX00012_1,BP00012,2025-01-07,10846997,Vendor 6-1,Training expense
+TX00012_2,BP00012,2025-01-13,18982244,Vendor 6-2,Training expense
+TX00012_3,BP00012,2025-01-19,24405744,Vendor 6-3,Training expense
+TX00013_1,BP00013,2025-01-07,5046166,Vendor 1-1,Personnel expense
+TX00013_2,BP00013,2025-01-13,8830791,Vendor 1-2,Personnel expense
+TX00013_3,BP00013,2025-01-19,11353877,Vendor 1-3,Personnel expense
+TX00014_1,BP00014,2025-01-07,7461969,Vendor 2-1,Software expense
+TX00014_2,BP00014,2025-01-13,13058446,Vendor 2-2,Software expense
+TX00014_3,BP00014,2025-01-19,16789432,Vendor 2-3,Software expense
+TX00015_1,BP00015,2025-01-07,7622622,Vendor 3-1,Infrastructure expense
+TX00015_2,BP00015,2025-01-13,13339588,Vendor 3-2,Infrastructure expense
+TX00015_3,BP00015,2025-01-19,17150900,Vendor 3-3,Infrastructure expense
+TX00016_1,BP00016,2025-01-07,6129839,Vendor 4-1,Professional Services expense
+TX00016_2,BP00016,2025-01-13,10727219,Vendor 4-2,Professional Services expense
+TX00016_3,BP00016,2025-01-19,13792140,Vendor 4-3,Professional Services expense
+TX00017_1,BP00017,2025-01-07,8510383,Vendor 5-1,Travel expense
+TX00017_2,BP00017,2025-01-13,14893171,Vendor 5-2,Travel expense
+TX00017_3,BP00017,2025-01-19,19148365,Vendor 5-3,Travel expense
+TX00018_1,BP00018,2025-01-07,11126782,Vendor 6-1,Training expense
+TX00018_2,BP00018,2025-01-13,19471869,Vendor 6-2,Training expense
+TX00018_3,BP00018,2025-01-19,25035262,Vendor 6-3,Training expense
+TX00019_1,BP00019,2025-01-07,5885271,Vendor 1-1,Personnel expense
+TX00019_2,BP00019,2025-01-13,10299224,Vendor 1-2,Personnel expense
+TX00019_3,BP00019,2025-01-19,13241862,Vendor 1-3,Personnel expense
+TX00020_1,BP00020,2025-01-07,6526102,Vendor 2-1,Software expense
+TX00020_2,BP00020,2025-01-13,11420679,Vendor 2-2,Software expense
+TX00020_3,BP00020,2025-01-19,14683731,Vendor 2-3,Software expense
+TX00021_1,BP00021,2025-01-07,8979514,Vendor 3-1,Infrastructure expense
+TX00021_2,BP00021,2025-01-13,15714149,Vendor 3-2,Infrastructure expense
+TX00021_3,BP00021,2025-01-19,20203908,Vendor 3-3,Infrastructure expense
+TX00022_1,BP00022,2025-01-07,10117700,Vendor 4-1,Professional Services expense
+TX00022_2,BP00022,2025-01-13,17705976,Vendor 4-2,Professional Services expense
+TX00022_3,BP00022,2025-01-19,22764827,Vendor 4-3,Professional Services expense
+TX00023_1,BP00023,2025-01-07,10939590,Vendor 5-1,Travel expense
+TX00023_2,BP00023,2025-01-13,19144283,Vendor 5-2,Travel expense
+TX00023_3,BP00023,2025-01-19,24614080,Vendor 5-3,Travel expense
+TX00024_1,BP00024,2025-01-07,8221198,Vendor 6-1,Training expense
+TX00024_2,BP00024,2025-01-13,14387097,Vendor 6-2,Training expense
+TX00024_3,BP00024,2025-01-19,18497698,Vendor 6-3,Training expense
+TX00025_1,BP00025,2025-01-07,8663886,Vendor 1-1,Personnel expense
+TX00025_2,BP00025,2025-01-13,15161801,Vendor 1-2,Personnel expense
+TX00025_3,BP00025,2025-01-19,19493747,Vendor 1-3,Personnel expense
+TX00026_1,BP00026,2025-01-07,6437266,Vendor 2-1,Software expense
+TX00026_2,BP00026,2025-01-13,11265215,Vendor 2-2,Software expense
+TX00026_3,BP00026,2025-01-19,14483849,Vendor 2-3,Software expense
+TX00027_1,BP00027,2025-01-07,10604258,Vendor 3-1,Infrastructure expense
+TX00027_2,BP00027,2025-01-13,18557451,Vendor 3-2,Infrastructure expense
+TX00027_3,BP00027,2025-01-19,23859581,Vendor 3-3,Infrastructure expense
+TX00028_1,BP00028,2025-01-07,8295647,Vendor 4-1,Professional Services expense
+TX00028_2,BP00028,2025-01-13,14517382,Vendor 4-2,Professional Services expense
+TX00028_3,BP00028,2025-01-19,18665207,Vendor 4-3,Professional Services expense
+TX00029_1,BP00029,2025-01-07,8032611,Vendor 5-1,Travel expense
+TX00029_2,BP00029,2025-01-13,14057069,Vendor 5-2,Travel expense
+TX00029_3,BP00029,2025-01-19,18073375,Vendor 5-3,Travel expense
+TX00030_1,BP00030,2025-01-07,8647161,Vendor 6-1,Training expense
+TX00030_2,BP00030,2025-01-13,15132532,Vendor 6-2,Training expense
+TX00030_3,BP00030,2025-01-19,19456113,Vendor 6-3,Training expense
+TX00031_1,BP00031,2025-01-07,8464592,Vendor 1-1,Personnel expense
+TX00031_2,BP00031,2025-01-13,14813035,Vendor 1-2,Personnel expense
+TX00031_3,BP00031,2025-01-19,19045333,Vendor 1-3,Personnel expense
+TX00032_1,BP00032,2025-01-07,9487749,Vendor 2-1,Software expense
+TX00032_2,BP00032,2025-01-13,16603561,Vendor 2-2,Software expense
+TX00032_3,BP00032,2025-01-19,21347436,Vendor 2-3,Software expense
+TX00033_1,BP00033,2025-01-07,8749503,Vendor 3-1,Infrastructure expense
+TX00033_2,BP00033,2025-01-13,15311631,Vendor 3-2,Infrastructure expense
+TX00033_3,BP00033,2025-01-19,19686384,Vendor 3-3,Infrastructure expense
+TX00034_1,BP00034,2025-01-07,10059558,Vendor 4-1,Professional Services expense
+TX00034_2,BP00034,2025-01-13,17604227,Vendor 4-2,Professional Services expense
+TX00034_3,BP00034,2025-01-19,22634009,Vendor 4-3,Professional Services expense
+TX00035_1,BP00035,2025-01-07,7717522,Vendor 5-1,Travel expense
+TX00035_2,BP00035,2025-01-13,13505663,Vendor 5-2,Travel expense
+TX00035_3,BP00035,2025-01-19,17364426,Vendor 5-3,Travel expense
+TX00036_1,BP00036,2025-01-07,13710288,Vendor 6-1,Training expense
+TX00036_2,BP00036,2025-01-13,23993004,Vendor 6-2,Training expense
+TX00036_3,BP00036,2025-01-19,30848150,Vendor 6-3,Training expense
+TX00037_1,BP00037,2025-02-07,5987053,Vendor 1-1,Personnel expense
+TX00037_2,BP00037,2025-02-13,10477343,Vendor 1-2,Personnel expense
+TX00037_3,BP00037,2025-02-19,13470872,Vendor 1-3,Personnel expense
+TX00038_1,BP00038,2025-02-07,4572384,Vendor 2-1,Software expense
+TX00038_2,BP00038,2025-02-13,8001671,Vendor 2-2,Software expense
+TX00038_3,BP00038,2025-02-19,10287865,Vendor 2-3,Software expense
+TX00039_1,BP00039,2025-02-07,6903724,Vendor 3-1,Infrastructure expense
+TX00039_2,BP00039,2025-02-13,12081517,Vendor 3-2,Infrastructure expense
+TX00039_3,BP00039,2025-02-19,15533381,Vendor 3-3,Infrastructure expense
+TX00040_1,BP00040,2025-02-07,7482955,Vendor 4-1,Professional Services expense
+TX00040_2,BP00040,2025-02-13,13095171,Vendor 4-2,Professional Services expense
+TX00040_3,BP00040,2025-02-19,16836649,Vendor 4-3,Professional Services expense
+TX00041_1,BP00041,2025-02-07,7116213,Vendor 5-1,Travel expense
+TX00041_2,BP00041,2025-02-13,12453373,Vendor 5-2,Travel expense
+TX00041_3,BP00041,2025-02-19,16011480,Vendor 5-3,Travel expense
+TX00042_1,BP00042,2025-02-07,8723764,Vendor 6-1,Training expense
+TX00042_2,BP00042,2025-02-13,15266588,Vendor 6-2,Training expense
+TX00042_3,BP00042,2025-02-19,19628471,Vendor 6-3,Training expense
+TX00043_1,BP00043,2025-02-07,5258568,Vendor 1-1,Personnel expense
+TX00043_2,BP00043,2025-02-13,9202495,Vendor 1-2,Personnel expense
+TX00043_3,BP00043,2025-02-19,11831781,Vendor 1-3,Personnel expense
+TX00044_1,BP00044,2025-02-07,6985572,Vendor 2-1,Software expense
+TX00044_2,BP00044,2025-02-13,12224752,Vendor 2-2,Software expense
+TX00044_3,BP00044,2025-02-19,15717540,Vendor 2-3,Software expense
+TX00045_1,BP00045,2025-02-07,6433245,Vendor 3-1,Infrastructure expense
+TX00045_2,BP00045,2025-02-13,11258178,Vendor 3-2,Infrastructure expense
+TX00045_3,BP00045,2025-02-19,14474802,Vendor 3-3,Infrastructure expense
+TX00046_1,BP00046,2025-02-07,7100536,Vendor 4-1,Professional Services expense
+TX00046_2,BP00046,2025-02-13,12425938,Vendor 4-2,Professional Services expense
+TX00046_3,BP00046,2025-02-19,15976208,Vendor 4-3,Professional Services expense
+TX00047_1,BP00047,2025-02-07,9388701,Vendor 5-1,Travel expense
+TX00047_2,BP00047,2025-02-13,16430227,Vendor 5-2,Travel expense
+TX00047_3,BP00047,2025-02-19,21124580,Vendor 5-3,Travel expense
+TX00048_1,BP00048,2025-02-07,6440779,Vendor 6-1,Training expense
+TX00048_2,BP00048,2025-02-13,11271364,Vendor 6-2,Training expense
+TX00048_3,BP00048,2025-02-19,14491756,Vendor 6-3,Training expense
+TX00049_1,BP00049,2025-02-07,7278006,Vendor 1-1,Personnel expense
+TX00049_2,BP00049,2025-02-13,12736511,Vendor 1-2,Personnel expense
+TX00049_3,BP00049,2025-02-19,16375516,Vendor 1-3,Personnel expense
+TX00050_1,BP00050,2025-02-07,8287979,Vendor 2-1,Software expense
+TX00050_2,BP00050,2025-02-13,14503963,Vendor 2-2,Software expense
+TX00050_3,BP00050,2025-02-19,18647953,Vendor 2-3,Software expense
+TX00051_1,BP00051,2025-02-07,9152514,Vendor 3-1,Infrastructure expense
+TX00051_2,BP00051,2025-02-13,16016899,Vendor 3-2,Infrastructure expense
+TX00051_3,BP00051,2025-02-19,20593158,Vendor 3-3,Infrastructure expense
+TX00052_1,BP00052,2025-02-07,7913340,Vendor 4-1,Professional Services expense
+TX00052_2,BP00052,2025-02-13,13848345,Vendor 4-2,Professional Services expense
+TX00052_3,BP00052,2025-02-19,17805016,Vendor 4-3,Professional Services expense
+TX00053_1,BP00053,2025-02-07,6568238,Vendor 5-1,Travel expense
+TX00053_2,BP00053,2025-02-13,11494416,Vendor 5-2,Travel expense
+TX00053_3,BP00053,2025-02-19,14778537,Vendor 5-3,Travel expense
+TX00054_1,BP00054,2025-02-07,9696882,Vendor 6-1,Training expense
+TX00054_2,BP00054,2025-02-13,16969544,Vendor 6-2,Training expense
+TX00054_3,BP00054,2025-02-19,21817988,Vendor 6-3,Training expense
+TX00055_1,BP00055,2025-02-07,5907431,Vendor 1-1,Personnel expense
+TX00055_2,BP00055,2025-02-13,10338005,Vendor 1-2,Personnel expense
+TX00055_3,BP00055,2025-02-19,13291722,Vendor 1-3,Personnel expense
+TX00056_1,BP00056,2025-02-07,7143168,Vendor 2-1,Software expense
+TX00056_2,BP00056,2025-02-13,12500544,Vendor 2-2,Software expense
+TX00056_3,BP00056,2025-02-19,16072130,Vendor 2-3,Software expense
+TX00057_1,BP00057,2025-02-07,6732338,Vendor 3-1,Infrastructure expense
+TX00057_2,BP00057,2025-02-13,11781592,Vendor 3-2,Infrastructure expense
+TX00057_3,BP00057,2025-02-19,15147764,Vendor 3-3,Infrastructure expense
+TX00058_1,BP00058,2025-02-07,7920016,Vendor 4-1,Professional Services expense
+TX00058_2,BP00058,2025-02-13,13860028,Vendor 4-2,Professional Services expense
+TX00058_3,BP00058,2025-02-19,17820037,Vendor 4-3,Professional Services expense
+TX00059_1,BP00059,2025-02-07,10432583,Vendor 5-1,Travel expense
+TX00059_2,BP00059,2025-02-13,18257020,Vendor 5-2,Travel expense
+TX00059_3,BP00059,2025-02-19,23473314,Vendor 5-3,Travel expense
+TX00060_1,BP00060,2025-02-07,7996920,Vendor 6-1,Training expense
+TX00060_2,BP00060,2025-02-13,13994610,Vendor 6-2,Training expense
+TX00060_3,BP00060,2025-02-19,17993071,Vendor 6-3,Training expense
+TX00061_1,BP00061,2025-02-07,7067819,Vendor 1-1,Personnel expense
+TX00061_2,BP00061,2025-02-13,12368683,Vendor 1-2,Personnel expense
+TX00061_3,BP00061,2025-02-19,15902594,Vendor 1-3,Personnel expense
+TX00062_1,BP00062,2025-02-07,10128209,Vendor 2-1,Software expense
+TX00062_2,BP00062,2025-02-13,17724367,Vendor 2-2,Software expense
+TX00062_3,BP00062,2025-02-19,22788473,Vendor 2-3,Software expense
+TX00063_1,BP00063,2025-02-07,10589982,Vendor 3-1,Infrastructure expense
+TX00063_2,BP00063,2025-02-13,18532468,Vendor 3-2,Infrastructure expense
+TX00063_3,BP00063,2025-02-19,23827461,Vendor 3-3,Infrastructure expense
+TX00064_1,BP00064,2025-02-07,7417739,Vendor 4-1,Professional Services expense
+TX00064_2,BP00064,2025-02-13,12981043,Vendor 4-2,Professional Services expense
+TX00064_3,BP00064,2025-02-19,16689914,Vendor 4-3,Professional Services expense
+TX00065_1,BP00065,2025-02-07,8081597,Vendor 5-1,Travel expense
+TX00065_2,BP00065,2025-02-13,14142795,Vendor 5-2,Travel expense
+TX00065_3,BP00065,2025-02-19,18183596,Vendor 5-3,Travel expense
+TX00066_1,BP00066,2025-02-07,7964537,Vendor 6-1,Training expense
+TX00066_2,BP00066,2025-02-13,13937941,Vendor 6-2,Training expense
+TX00066_3,BP00066,2025-02-19,17920211,Vendor 6-3,Training expense
+TX00067_1,BP00067,2025-02-07,6911550,Vendor 1-1,Personnel expense
+TX00067_2,BP00067,2025-02-13,12095212,Vendor 1-2,Personnel expense
+TX00067_3,BP00067,2025-02-19,15550989,Vendor 1-3,Personnel expense
+TX00068_1,BP00068,2025-02-07,10930761,Vendor 2-1,Software expense
+TX00068_2,BP00068,2025-02-13,19128833,Vendor 2-2,Software expense
+TX00068_3,BP00068,2025-02-19,24594215,Vendor 2-3,Software expense
+TX00069_1,BP00069,2025-02-07,7368291,Vendor 3-1,Infrastructure expense
+TX00069_2,BP00069,2025-02-13,12894510,Vendor 3-2,Infrastructure expense
+TX00069_3,BP00069,2025-02-19,16578657,Vendor 3-3,Infrastructure expense
+TX00070_1,BP00070,2025-02-07,8936737,Vendor 4-1,Professional Services expense
+TX00070_2,BP00070,2025-02-13,15639290,Vendor 4-2,Professional Services expense
+TX00070_3,BP00070,2025-02-19,20107659,Vendor 4-3,Professional Services expense
+TX00071_1,BP00071,2025-02-07,8599183,Vendor 5-1,Travel expense
+TX00071_2,BP00071,2025-02-13,15048570,Vendor 5-2,Travel expense
+TX00071_3,BP00071,2025-02-19,19348162,Vendor 5-3,Travel expense
+TX00072_1,BP00072,2025-02-07,10660902,Vendor 6-1,Training expense
+TX00072_2,BP00072,2025-02-13,18656578,Vendor 6-2,Training expense
+TX00072_3,BP00072,2025-02-19,23987030,Vendor 6-3,Training expense
+TX00073_1,BP00073,2025-03-07,4059383,Vendor 1-1,Personnel expense
+TX00073_2,BP00073,2025-03-13,7103921,Vendor 1-2,Personnel expense
+TX00073_3,BP00073,2025-03-19,9133614,Vendor 1-3,Personnel expense
+TX00074_1,BP00074,2025-03-07,4277267,Vendor 2-1,Software expense
+TX00074_2,BP00074,2025-03-13,7485217,Vendor 2-2,Software expense
+TX00074_3,BP00074,2025-03-19,9623852,Vendor 2-3,Software expense
+TX00075_1,BP00075,2025-03-07,7355090,Vendor 3-1,Infrastructure expense
+TX00075_2,BP00075,2025-03-13,12871407,Vendor 3-2,Infrastructure expense
+TX00075_3,BP00075,2025-03-19,16548954,Vendor 3-3,Infrastructure expense
+TX00076_1,BP00076,2025-03-07,7350952,Vendor 4-1,Professional Services expense
+TX00076_2,BP00076,2025-03-13,12864166,Vendor 4-2,Professional Services expense
+TX00076_3,BP00076,2025-03-19,16539642,Vendor 4-3,Professional Services expense
+TX00077_1,BP00077,2025-03-07,7873592,Vendor 5-1,Travel expense
+TX00077_2,BP00077,2025-03-13,13778786,Vendor 5-2,Travel expense
+TX00077_3,BP00077,2025-03-19,17715584,Vendor 5-3,Travel expense
+TX00078_1,BP00078,2025-03-07,6043086,Vendor 6-1,Training expense
+TX00078_2,BP00078,2025-03-13,10575401,Vendor 6-2,Training expense
+TX00078_3,BP00078,2025-03-19,13596946,Vendor 6-3,Training expense
+TX00079_1,BP00079,2025-03-07,5727592,Vendor 1-1,Personnel expense
+TX00079_2,BP00079,2025-03-13,10023286,Vendor 1-2,Personnel expense
+TX00079_3,BP00079,2025-03-19,12887084,Vendor 1-3,Personnel expense
+TX00080_1,BP00080,2025-03-07,6629206,Vendor 2-1,Software expense
+TX00080_2,BP00080,2025-03-13,11601111,Vendor 2-2,Software expense
+TX00080_3,BP00080,2025-03-19,14915717,Vendor 2-3,Software expense
+TX00081_1,BP00081,2025-03-07,7176082,Vendor 3-1,Infrastructure expense
+TX00081_2,BP00081,2025-03-13,12558143,Vendor 3-2,Infrastructure expense
+TX00081_3,BP00081,2025-03-19,16146185,Vendor 3-3,Infrastructure expense
+TX00082_1,BP00082,2025-03-07,8222644,Vendor 4-1,Professional Services expense
+TX00082_2,BP00082,2025-03-13,14389627,Vendor 4-2,Professional Services expense
+TX00082_3,BP00082,2025-03-19,18500950,Vendor 4-3,Professional Services expense
+TX00083_1,BP00083,2025-03-07,6634766,Vendor 5-1,Travel expense
+TX00083_2,BP00083,2025-03-13,11610841,Vendor 5-2,Travel expense
+TX00083_3,BP00083,2025-03-19,14928226,Vendor 5-3,Travel expense
+TX00084_1,BP00084,2025-03-07,7067734,Vendor 6-1,Training expense
+TX00084_2,BP00084,2025-03-13,12368535,Vendor 6-2,Training expense
+TX00084_3,BP00084,2025-03-19,15902405,Vendor 6-3,Training expense
+TX00085_1,BP00085,2025-03-07,7518299,Vendor 1-1,Personnel expense
+TX00085_2,BP00085,2025-03-13,13157023,Vendor 1-2,Personnel expense
+TX00085_3,BP00085,2025-03-19,16916174,Vendor 1-3,Personnel expense
+TX00086_1,BP00086,2025-03-07,5394792,Vendor 2-1,Software expense
+TX00086_2,BP00086,2025-03-13,9440886,Vendor 2-2,Software expense
+TX00086_3,BP00086,2025-03-19,12138282,Vendor 2-3,Software expense
+TX00087_1,BP00087,2025-03-07,7304953,Vendor 3-1,Infrastructure expense
+TX00087_2,BP00087,2025-03-13,12783667,Vendor 3-2,Infrastructure expense
+TX00087_3,BP00087,2025-03-19,16436145,Vendor 3-3,Infrastructure expense
+TX00088_1,BP00088,2025-03-07,9276300,Vendor 4-1,Professional Services expense
+TX00088_2,BP00088,2025-03-13,16233526,Vendor 4-2,Professional Services expense
+TX00088_3,BP00088,2025-03-19,20871678,Vendor 4-3,Professional Services expense
+TX00089_1,BP00089,2025-03-07,6810831,Vendor 5-1,Travel expense
+TX00089_2,BP00089,2025-03-13,11918954,Vendor 5-2,Travel expense
+TX00089_3,BP00089,2025-03-19,15324371,Vendor 5-3,Travel expense
+TX00090_1,BP00090,2025-03-07,10588517,Vendor 6-1,Training expense
+TX00090_2,BP00090,2025-03-13,18529904,Vendor 6-2,Training expense
+TX00090_3,BP00090,2025-03-19,23824164,Vendor 6-3,Training expense
+TX00091_1,BP00091,2025-03-07,5953513,Vendor 1-1,Personnel expense
+TX00091_2,BP00091,2025-03-13,10418648,Vendor 1-2,Personnel expense
+TX00091_3,BP00091,2025-03-19,13395406,Vendor 1-3,Personnel expense
+TX00092_1,BP00092,2025-03-07,8669581,Vendor 2-1,Software expense
+TX00092_2,BP00092,2025-03-13,15171767,Vendor 2-2,Software expense
+TX00092_3,BP00092,2025-03-19,19506558,Vendor 2-3,Software expense
+TX00093_1,BP00093,2025-03-07,9719118,Vendor 3-1,Infrastructure expense
+TX00093_2,BP00093,2025-03-13,17008456,Vendor 3-2,Infrastructure expense
+TX00093_3,BP00093,2025-03-19,21868017,Vendor 3-3,Infrastructure expense
+TX00094_1,BP00094,2025-03-07,10501481,Vendor 4-1,Professional Services expense
+TX00094_2,BP00094,2025-03-13,18377591,Vendor 4-2,Professional Services expense
+TX00094_3,BP00094,2025-03-19,23628333,Vendor 4-3,Professional Services expense
+TX00095_1,BP00095,2025-03-07,10777875,Vendor 5-1,Travel expense
+TX00095_2,BP00095,2025-03-13,18861281,Vendor 5-2,Travel expense
+TX00095_3,BP00095,2025-03-19,24250220,Vendor 5-3,Travel expense
+TX00096_1,BP00096,2025-03-07,11363312,Vendor 6-1,Training expense
+TX00096_2,BP00096,2025-03-13,19885796,Vendor 6-2,Training expense
+TX00096_3,BP00096,2025-03-19,25567454,Vendor 6-3,Training expense
+TX00097_1,BP00097,2025-03-07,6482135,Vendor 1-1,Personnel expense
+TX00097_2,BP00097,2025-03-13,11343737,Vendor 1-2,Personnel expense
+TX00097_3,BP00097,2025-03-19,14584807,Vendor 1-3,Personnel expense
+TX00098_1,BP00098,2025-03-07,8109060,Vendor 2-1,Software expense
+TX00098_2,BP00098,2025-03-13,14190855,Vendor 2-2,Software expense
+TX00098_3,BP00098,2025-03-19,18245385,Vendor 2-3,Software expense
+TX00099_1,BP00099,2025-03-07,8781069,Vendor 3-1,Infrastructure expense
+TX00099_2,BP00099,2025-03-13,15366870,Vendor 3-2,Infrastructure expense
+TX00099_3,BP00099,2025-03-19,19757406,Vendor 3-3,Infrastructure expense
+TX00100_1,BP00100,2025-03-07,9247027,Vendor 4-1,Professional Services expense
+TX00100_2,BP00100,2025-03-13,16182298,Vendor 4-2,Professional Services expense
+TX00100_3,BP00100,2025-03-19,20805814,Vendor 4-3,Professional Services expense
+TX00101_1,BP00101,2025-03-07,7822149,Vendor 5-1,Travel expense
+TX00101_2,BP00101,2025-03-13,13688762,Vendor 5-2,Travel expense
+TX00101_3,BP00101,2025-03-19,17599838,Vendor 5-3,Travel expense
+TX00102_1,BP00102,2025-03-07,12815082,Vendor 6-1,Training expense
+TX00102_2,BP00102,2025-03-13,22426394,Vendor 6-2,Training expense
+TX00102_3,BP00102,2025-03-19,28833937,Vendor 6-3,Training expense
+TX00103_1,BP00103,2025-03-07,10596990,Vendor 1-1,Personnel expense
+TX00103_2,BP00103,2025-03-13,18544732,Vendor 1-2,Personnel expense
+TX00103_3,BP00103,2025-03-19,23843228,Vendor 1-3,Personnel expense
+TX00104_1,BP00104,2025-03-07,9819685,Vendor 2-1,Software expense
+TX00104_2,BP00104,2025-03-13,17184449,Vendor 2-2,Software expense
+TX00104_3,BP00104,2025-03-19,22094293,Vendor 2-3,Software expense
+TX00105_1,BP00105,2025-03-07,9880909,Vendor 3-1,Infrastructure expense
+TX00105_2,BP00105,2025-03-13,17291591,Vendor 3-2,Infrastructure expense
+TX00105_3,BP00105,2025-03-19,22232046,Vendor 3-3,Infrastructure expense
+TX00106_1,BP00106,2025-03-07,11102320,Vendor 4-1,Professional Services expense
+TX00106_2,BP00106,2025-03-13,19429060,Vendor 4-2,Professional Services expense
+TX00106_3,BP00106,2025-03-19,24980221,Vendor 4-3,Professional Services expense
+TX00107_1,BP00107,2025-03-07,11155499,Vendor 5-1,Travel expense
+TX00107_2,BP00107,2025-03-13,19522123,Vendor 5-2,Travel expense
+TX00107_3,BP00107,2025-03-19,25099875,Vendor 5-3,Travel expense
+TX00108_1,BP00108,2025-03-07,12477420,Vendor 6-1,Training expense
+TX00108_2,BP00108,2025-03-13,21835485,Vendor 6-2,Training expense
+TX00108_3,BP00108,2025-03-19,28074195,Vendor 6-3,Training expense
+TX00109_1,BP00109,2025-04-07,4020748,Vendor 1-1,Personnel expense
+TX00109_2,BP00109,2025-04-13,7036309,Vendor 1-2,Personnel expense
+TX00109_3,BP00109,2025-04-19,9046683,Vendor 1-3,Personnel expense
+TX00110_1,BP00110,2025-04-07,6208933,Vendor 2-1,Software expense
+TX00110_2,BP00110,2025-04-13,10865633,Vendor 2-2,Software expense
+TX00110_3,BP00110,2025-04-19,13970100,Vendor 2-3,Software expense
+TX00111_1,BP00111,2025-04-07,5495922,Vendor 3-1,Infrastructure expense
+TX00111_2,BP00111,2025-04-13,9617864,Vendor 3-2,Infrastructure expense
+TX00111_3,BP00111,2025-04-19,12365828,Vendor 3-3,Infrastructure expense
+TX00112_1,BP00112,2025-04-07,6718872,Vendor 4-1,Professional Services expense
+TX00112_2,BP00112,2025-04-13,11758026,Vendor 4-2,Professional Services expense
+TX00112_3,BP00112,2025-04-19,15117463,Vendor 4-3,Professional Services expense
+TX00113_1,BP00113,2025-04-07,6407668,Vendor 5-1,Travel expense
+TX00113_2,BP00113,2025-04-13,11213419,Vendor 5-2,Travel expense
+TX00113_3,BP00113,2025-04-19,14417255,Vendor 5-3,Travel expense
+TX00114_1,BP00114,2025-04-07,8365945,Vendor 6-1,Training expense
+TX00114_2,BP00114,2025-04-13,14640404,Vendor 6-2,Training expense
+TX00114_3,BP00114,2025-04-19,18823378,Vendor 6-3,Training expense
+TX00115_1,BP00115,2025-04-07,6795080,Vendor 1-1,Personnel expense
+TX00115_2,BP00115,2025-04-13,11891390,Vendor 1-2,Personnel expense
+TX00115_3,BP00115,2025-04-19,15288932,Vendor 1-3,Personnel expense
+TX00116_1,BP00116,2025-04-07,6505691,Vendor 2-1,Software expense
+TX00116_2,BP00116,2025-04-13,11384960,Vendor 2-2,Software expense
+TX00116_3,BP00116,2025-04-19,14637808,Vendor 2-3,Software expense
+TX00117_1,BP00117,2025-04-07,8183259,Vendor 3-1,Infrastructure expense
+TX00117_2,BP00117,2025-04-13,14320703,Vendor 3-2,Infrastructure expense
+TX00117_3,BP00117,2025-04-19,18412335,Vendor 3-3,Infrastructure expense
+TX00118_1,BP00118,2025-04-07,6507399,Vendor 4-1,Professional Services expense
+TX00118_2,BP00118,2025-04-13,11387948,Vendor 4-2,Professional Services expense
+TX00118_3,BP00118,2025-04-19,14641650,Vendor 4-3,Professional Services expense
+TX00119_1,BP00119,2025-04-07,8381320,Vendor 5-1,Travel expense
+TX00119_2,BP00119,2025-04-13,14667310,Vendor 5-2,Travel expense
+TX00119_3,BP00119,2025-04-19,18857971,Vendor 5-3,Travel expense
+TX00120_1,BP00120,2025-04-07,6594422,Vendor 6-1,Training expense
+TX00120_2,BP00120,2025-04-13,11540239,Vendor 6-2,Training expense
+TX00120_3,BP00120,2025-04-19,14837452,Vendor 6-3,Training expense
+TX00121_1,BP00121,2025-04-07,4723990,Vendor 1-1,Personnel expense
+TX00121_2,BP00121,2025-04-13,8266982,Vendor 1-2,Personnel expense
+TX00121_3,BP00121,2025-04-19,10628979,Vendor 1-3,Personnel expense
+TX00122_1,BP00122,2025-04-07,8936858,Vendor 2-1,Software expense
+TX00122_2,BP00122,2025-04-13,15639501,Vendor 2-2,Software expense
+TX00122_3,BP00122,2025-04-19,20107932,Vendor 2-3,Software expense
+TX00123_1,BP00123,2025-04-07,5750366,Vendor 3-1,Infrastructure expense
+TX00123_2,BP00123,2025-04-13,10063140,Vendor 3-2,Infrastructure expense
+TX00123_3,BP00123,2025-04-19,12938324,Vendor 3-3,Infrastructure expense
+TX00124_1,BP00124,2025-04-07,9663624,Vendor 4-1,Professional Services expense
+TX00124_2,BP00124,2025-04-13,16911342,Vendor 4-2,Professional Services expense
+TX00124_3,BP00124,2025-04-19,21743155,Vendor 4-3,Professional Services expense
+TX00125_1,BP00125,2025-04-07,10612030,Vendor 5-1,Travel expense
+TX00125_2,BP00125,2025-04-13,18571053,Vendor 5-2,Travel expense
+TX00125_3,BP00125,2025-04-19,23877070,Vendor 5-3,Travel expense
+TX00126_1,BP00126,2025-04-07,7476497,Vendor 6-1,Training expense
+TX00126_2,BP00126,2025-04-13,13083870,Vendor 6-2,Training expense
+TX00126_3,BP00126,2025-04-19,16822121,Vendor 6-3,Training expense
+TX00127_1,BP00127,2025-04-07,7630137,Vendor 1-1,Personnel expense
+TX00127_2,BP00127,2025-04-13,13352741,Vendor 1-2,Personnel expense
+TX00127_3,BP00127,2025-04-19,17167811,Vendor 1-3,Personnel expense
+TX00128_1,BP00128,2025-04-07,8376845,Vendor 2-1,Software expense
+TX00128_2,BP00128,2025-04-13,14659479,Vendor 2-2,Software expense
+TX00128_3,BP00128,2025-04-19,18847902,Vendor 2-3,Software expense
+TX00129_1,BP00129,2025-04-07,6250906,Vendor 3-1,Infrastructure expense
+TX00129_2,BP00129,2025-04-13,10939086,Vendor 3-2,Infrastructure expense
+TX00129_3,BP00129,2025-04-19,14064540,Vendor 3-3,Infrastructure expense
+TX00130_1,BP00130,2025-04-07,8549378,Vendor 4-1,Professional Services expense
+TX00130_2,BP00130,2025-04-13,14961412,Vendor 4-2,Professional Services expense
+TX00130_3,BP00130,2025-04-19,19236103,Vendor 4-3,Professional Services expense
+TX00131_1,BP00131,2025-04-07,7144854,Vendor 5-1,Travel expense
+TX00131_2,BP00131,2025-04-13,12503495,Vendor 5-2,Travel expense
+TX00131_3,BP00131,2025-04-19,16075923,Vendor 5-3,Travel expense
+TX00132_1,BP00132,2025-04-07,10924848,Vendor 6-1,Training expense
+TX00132_2,BP00132,2025-04-13,19118484,Vendor 6-2,Training expense
+TX00132_3,BP00132,2025-04-19,24580909,Vendor 6-3,Training expense
+TX00133_1,BP00133,2025-04-07,6680786,Vendor 1-1,Personnel expense
+TX00133_2,BP00133,2025-04-13,11691376,Vendor 1-2,Personnel expense
+TX00133_3,BP00133,2025-04-19,15031771,Vendor 1-3,Personnel expense
+TX00134_1,BP00134,2025-04-07,7318813,Vendor 2-1,Software expense
+TX00134_2,BP00134,2025-04-13,12807924,Vendor 2-2,Software expense
+TX00134_3,BP00134,2025-04-19,16467332,Vendor 2-3,Software expense
+TX00135_1,BP00135,2025-04-07,10413479,Vendor 3-1,Infrastructure expense
+TX00135_2,BP00135,2025-04-13,18223589,Vendor 3-2,Infrastructure expense
+TX00135_3,BP00135,2025-04-19,23430331,Vendor 3-3,Infrastructure expense
+TX00136_1,BP00136,2025-04-07,10124130,Vendor 4-1,Professional Services expense
+TX00136_2,BP00136,2025-04-13,17717228,Vendor 4-2,Professional Services expense
+TX00136_3,BP00136,2025-04-19,22779296,Vendor 4-3,Professional Services expense
+TX00137_1,BP00137,2025-04-07,8720131,Vendor 5-1,Travel expense
+TX00137_2,BP00137,2025-04-13,15260229,Vendor 5-2,Travel expense
+TX00137_3,BP00137,2025-04-19,19620295,Vendor 5-3,Travel expense
+TX00138_1,BP00138,2025-04-07,13055448,Vendor 6-1,Training expense
+TX00138_2,BP00138,2025-04-13,22847034,Vendor 6-2,Training expense
+TX00138_3,BP00138,2025-04-19,29374759,Vendor 6-3,Training expense
+TX00139_1,BP00139,2025-04-07,10293289,Vendor 1-1,Personnel expense
+TX00139_2,BP00139,2025-04-13,18013256,Vendor 1-2,Personnel expense
+TX00139_3,BP00139,2025-04-19,23159903,Vendor 1-3,Personnel expense
+TX00140_1,BP00140,2025-04-07,10826337,Vendor 2-1,Software expense
+TX00140_2,BP00140,2025-04-13,18946090,Vendor 2-2,Software expense
+TX00140_3,BP00140,2025-04-19,24359261,Vendor 2-3,Software expense
+TX00141_1,BP00141,2025-04-07,10279145,Vendor 3-1,Infrastructure expense
+TX00141_2,BP00141,2025-04-13,17988504,Vendor 3-2,Infrastructure expense
+TX00141_3,BP00141,2025-04-19,23128078,Vendor 3-3,Infrastructure expense
+TX00142_1,BP00142,2025-04-07,11884260,Vendor 4-1,Professional Services expense
+TX00142_2,BP00142,2025-04-13,20797455,Vendor 4-2,Professional Services expense
+TX00142_3,BP00142,2025-04-19,26739585,Vendor 4-3,Professional Services expense
+TX00143_1,BP00143,2025-04-07,12224403,Vendor 5-1,Travel expense
+TX00143_2,BP00143,2025-04-13,21392705,Vendor 5-2,Travel expense
+TX00143_3,BP00143,2025-04-19,27504909,Vendor 5-3,Travel expense
+TX00144_1,BP00144,2025-04-07,10123314,Vendor 6-1,Training expense
+TX00144_2,BP00144,2025-04-13,17715799,Vendor 6-2,Training expense
+TX00144_3,BP00144,2025-04-19,22777458,Vendor 6-3,Training expense
+TX00145_1,BP00145,2025-05-07,4318315,Vendor 1-1,Personnel expense
+TX00145_2,BP00145,2025-05-13,7557051,Vendor 1-2,Personnel expense
+TX00145_3,BP00145,2025-05-19,9716210,Vendor 1-3,Personnel expense
+TX00146_1,BP00146,2025-05-07,6617776,Vendor 2-1,Software expense
+TX00146_2,BP00146,2025-05-13,11581108,Vendor 2-2,Software expense
+TX00146_3,BP00146,2025-05-19,14889998,Vendor 2-3,Software expense
+TX00147_1,BP00147,2025-05-07,4670115,Vendor 3-1,Infrastructure expense
+TX00147_2,BP00147,2025-05-13,8172701,Vendor 3-2,Infrastructure expense
+TX00147_3,BP00147,2025-05-19,10507761,Vendor 3-3,Infrastructure expense
+TX00148_1,BP00148,2025-05-07,6775031,Vendor 4-1,Professional Services expense
+TX00148_2,BP00148,2025-05-13,11856305,Vendor 4-2,Professional Services expense
+TX00148_3,BP00148,2025-05-19,15243822,Vendor 4-3,Professional Services expense
+TX00149_1,BP00149,2025-05-07,6298611,Vendor 5-1,Travel expense
+TX00149_2,BP00149,2025-05-13,11022570,Vendor 5-2,Travel expense
+TX00149_3,BP00149,2025-05-19,14171878,Vendor 5-3,Travel expense
+TX00150_1,BP00150,2025-05-07,9471534,Vendor 6-1,Training expense
+TX00150_2,BP00150,2025-05-13,16575184,Vendor 6-2,Training expense
+TX00150_3,BP00150,2025-05-19,21310953,Vendor 6-3,Training expense
+TX00151_1,BP00151,2025-05-07,4799725,Vendor 1-1,Personnel expense
+TX00151_2,BP00151,2025-05-13,8399519,Vendor 1-2,Personnel expense
+TX00151_3,BP00151,2025-05-19,10799384,Vendor 1-3,Personnel expense
+TX00152_1,BP00152,2025-05-07,5220697,Vendor 2-1,Software expense
+TX00152_2,BP00152,2025-05-13,9136219,Vendor 2-2,Software expense
+TX00152_3,BP00152,2025-05-19,11746569,Vendor 2-3,Software expense
+TX00153_1,BP00153,2025-05-07,5547419,Vendor 3-1,Infrastructure expense
+TX00153_2,BP00153,2025-05-13,9707983,Vendor 3-2,Infrastructure expense
+TX00153_3,BP00153,2025-05-19,12481695,Vendor 3-3,Infrastructure expense
+TX00154_1,BP00154,2025-05-07,5481611,Vendor 4-1,Professional Services expense
+TX00154_2,BP00154,2025-05-13,9592820,Vendor 4-2,Professional Services expense
+TX00154_3,BP00154,2025-05-19,12333627,Vendor 4-3,Professional Services expense
+TX00155_1,BP00155,2025-05-07,7442868,Vendor 5-1,Travel expense
+TX00155_2,BP00155,2025-05-13,13025020,Vendor 5-2,Travel expense
+TX00155_3,BP00155,2025-05-19,16746455,Vendor 5-3,Travel expense
+TX00156_1,BP00156,2025-05-07,6198895,Vendor 6-1,Training expense
+TX00156_2,BP00156,2025-05-13,10848067,Vendor 6-2,Training expense
+TX00156_3,BP00156,2025-05-19,13947517,Vendor 6-3,Training expense
+TX00157_1,BP00157,2025-05-07,7942735,Vendor 1-1,Personnel expense
+TX00157_2,BP00157,2025-05-13,13899786,Vendor 1-2,Personnel expense
+TX00157_3,BP00157,2025-05-19,17871154,Vendor 1-3,Personnel expense
+TX00158_1,BP00158,2025-05-07,5654521,Vendor 2-1,Software expense
+TX00158_2,BP00158,2025-05-13,9895412,Vendor 2-2,Software expense
+TX00158_3,BP00158,2025-05-19,12722674,Vendor 2-3,Software expense
+TX00159_1,BP00159,2025-05-07,9716553,Vendor 3-1,Infrastructure expense
+TX00159_2,BP00159,2025-05-13,17003968,Vendor 3-2,Infrastructure expense
+TX00159_3,BP00159,2025-05-19,21862246,Vendor 3-3,Infrastructure expense
+TX00160_1,BP00160,2025-05-07,6813280,Vendor 4-1,Professional Services expense
+TX00160_2,BP00160,2025-05-13,11923240,Vendor 4-2,Professional Services expense
+TX00160_3,BP00160,2025-05-19,15329881,Vendor 4-3,Professional Services expense
+TX00161_1,BP00161,2025-05-07,7538492,Vendor 5-1,Travel expense
+TX00161_2,BP00161,2025-05-13,13192361,Vendor 5-2,Travel expense
+TX00161_3,BP00161,2025-05-19,16961609,Vendor 5-3,Travel expense
+TX00162_1,BP00162,2025-05-07,8911092,Vendor 6-1,Training expense
+TX00162_2,BP00162,2025-05-13,15594410,Vendor 6-2,Training expense
+TX00162_3,BP00162,2025-05-19,20049958,Vendor 6-3,Training expense
+TX00163_1,BP00163,2025-05-07,5604866,Vendor 1-1,Personnel expense
+TX00163_2,BP00163,2025-05-13,9808515,Vendor 1-2,Personnel expense
+TX00163_3,BP00163,2025-05-19,12610949,Vendor 1-3,Personnel expense
+TX00164_1,BP00164,2025-05-07,6058540,Vendor 2-1,Software expense
+TX00164_2,BP00164,2025-05-13,10602445,Vendor 2-2,Software expense
+TX00164_3,BP00164,2025-05-19,13631716,Vendor 2-3,Software expense
+TX00165_1,BP00165,2025-05-07,6855490,Vendor 3-1,Infrastructure expense
+TX00165_2,BP00165,2025-05-13,11997108,Vendor 3-2,Infrastructure expense
+TX00165_3,BP00165,2025-05-19,15424855,Vendor 3-3,Infrastructure expense
+TX00166_1,BP00166,2025-05-07,10586836,Vendor 4-1,Professional Services expense
+TX00166_2,BP00166,2025-05-13,18526964,Vendor 4-2,Professional Services expense
+TX00166_3,BP00166,2025-05-19,23820384,Vendor 4-3,Professional Services expense
+TX00167_1,BP00167,2025-05-07,10747023,Vendor 5-1,Travel expense
+TX00167_2,BP00167,2025-05-13,18807290,Vendor 5-2,Travel expense
+TX00167_3,BP00167,2025-05-19,24180803,Vendor 5-3,Travel expense
+TX00168_1,BP00168,2025-05-07,10647281,Vendor 6-1,Training expense
+TX00168_2,BP00168,2025-05-13,18632742,Vendor 6-2,Training expense
+TX00168_3,BP00168,2025-05-19,23956383,Vendor 6-3,Training expense
+TX00169_1,BP00169,2025-05-07,7450145,Vendor 1-1,Personnel expense
+TX00169_2,BP00169,2025-05-13,13037755,Vendor 1-2,Personnel expense
+TX00169_3,BP00169,2025-05-19,16762829,Vendor 1-3,Personnel expense
+TX00170_1,BP00170,2025-05-07,10156262,Vendor 2-1,Software expense
+TX00170_2,BP00170,2025-05-13,17773459,Vendor 2-2,Software expense
+TX00170_3,BP00170,2025-05-19,22851593,Vendor 2-3,Software expense
+TX00171_1,BP00171,2025-05-07,7922216,Vendor 3-1,Infrastructure expense
+TX00171_2,BP00171,2025-05-13,13863879,Vendor 3-2,Infrastructure expense
+TX00171_3,BP00171,2025-05-19,17824988,Vendor 3-3,Infrastructure expense
+TX00172_1,BP00172,2025-05-07,7597038,Vendor 4-1,Professional Services expense
+TX00172_2,BP00172,2025-05-13,13294816,Vendor 4-2,Professional Services expense
+TX00172_3,BP00172,2025-05-19,17093337,Vendor 4-3,Professional Services expense
+TX00173_1,BP00173,2025-05-07,11214194,Vendor 5-1,Travel expense
+TX00173_2,BP00173,2025-05-13,19624839,Vendor 5-2,Travel expense
+TX00173_3,BP00173,2025-05-19,25231938,Vendor 5-3,Travel expense
+TX00174_1,BP00174,2025-05-07,9198729,Vendor 6-1,Training expense
+TX00174_2,BP00174,2025-05-13,16097777,Vendor 6-2,Training expense
+TX00174_3,BP00174,2025-05-19,20697143,Vendor 6-3,Training expense
+TX00175_1,BP00175,2025-05-07,10192278,Vendor 1-1,Personnel expense
+TX00175_2,BP00175,2025-05-13,17836487,Vendor 1-2,Personnel expense
+TX00175_3,BP00175,2025-05-19,22932627,Vendor 1-3,Personnel expense
+TX00176_1,BP00176,2025-05-07,9196257,Vendor 2-1,Software expense
+TX00176_2,BP00176,2025-05-13,16093450,Vendor 2-2,Software expense
+TX00176_3,BP00176,2025-05-19,20691579,Vendor 2-3,Software expense
+TX00177_1,BP00177,2025-05-07,9445749,Vendor 3-1,Infrastructure expense
+TX00177_2,BP00177,2025-05-13,16530061,Vendor 3-2,Infrastructure expense
+TX00177_3,BP00177,2025-05-19,21252937,Vendor 3-3,Infrastructure expense
+TX00178_1,BP00178,2025-05-07,12254521,Vendor 4-1,Professional Services expense
+TX00178_2,BP00178,2025-05-13,21445413,Vendor 4-2,Professional Services expense
+TX00178_3,BP00178,2025-05-19,27572675,Vendor 4-3,Professional Services expense
+TX00179_1,BP00179,2025-05-07,13305493,Vendor 5-1,Travel expense
+TX00179_2,BP00179,2025-05-13,23284613,Vendor 5-2,Travel expense
+TX00179_3,BP00179,2025-05-19,29937360,Vendor 5-3,Travel expense
+TX00180_1,BP00180,2025-05-07,12811567,Vendor 6-1,Training expense
+TX00180_2,BP00180,2025-05-13,22420242,Vendor 6-2,Training expense
+TX00180_3,BP00180,2025-05-19,28826026,Vendor 6-3,Training expense
+TX00181_1,BP00181,2025-06-07,4186168,Vendor 1-1,Personnel expense
+TX00181_2,BP00181,2025-06-13,7325795,Vendor 1-2,Personnel expense
+TX00181_3,BP00181,2025-06-19,9418881,Vendor 1-3,Personnel expense
+TX00182_1,BP00182,2025-06-07,6427013,Vendor 2-1,Software expense
+TX00182_2,BP00182,2025-06-13,11247273,Vendor 2-2,Software expense
+TX00182_3,BP00182,2025-06-19,14460780,Vendor 2-3,Software expense
+TX00183_1,BP00183,2025-06-07,7194738,Vendor 3-1,Infrastructure expense
+TX00183_2,BP00183,2025-06-13,12590791,Vendor 3-2,Infrastructure expense
+TX00183_3,BP00183,2025-06-19,16188161,Vendor 3-3,Infrastructure expense
+TX00184_1,BP00184,2025-06-07,8333856,Vendor 4-1,Professional Services expense
+TX00184_2,BP00184,2025-06-13,14584249,Vendor 4-2,Professional Services expense
+TX00184_3,BP00184,2025-06-19,18751178,Vendor 4-3,Professional Services expense
+TX00185_1,BP00185,2025-06-07,5367559,Vendor 5-1,Travel expense
+TX00185_2,BP00185,2025-06-13,9393228,Vendor 5-2,Travel expense
+TX00185_3,BP00185,2025-06-19,12077010,Vendor 5-3,Travel expense
+TX00186_1,BP00186,2025-06-07,8286793,Vendor 6-1,Training expense
+TX00186_2,BP00186,2025-06-13,14501887,Vendor 6-2,Training expense
+TX00186_3,BP00186,2025-06-19,18645285,Vendor 6-3,Training expense
+TX00187_1,BP00187,2025-06-07,7079542,Vendor 1-1,Personnel expense
+TX00187_2,BP00187,2025-06-13,12389199,Vendor 1-2,Personnel expense
+TX00187_3,BP00187,2025-06-19,15928973,Vendor 1-3,Personnel expense
+TX00188_1,BP00188,2025-06-07,4810092,Vendor 2-1,Software expense
+TX00188_2,BP00188,2025-06-13,8417661,Vendor 2-2,Software expense
+TX00188_3,BP00188,2025-06-19,10822709,Vendor 2-3,Software expense
+TX00189_1,BP00189,2025-06-07,6793597,Vendor 3-1,Infrastructure expense
+TX00189_2,BP00189,2025-06-13,11888795,Vendor 3-2,Infrastructure expense
+TX00189_3,BP00189,2025-06-19,15285594,Vendor 3-3,Infrastructure expense
+TX00190_1,BP00190,2025-06-07,7523140,Vendor 4-1,Professional Services expense
+TX00190_2,BP00190,2025-06-13,13165495,Vendor 4-2,Professional Services expense
+TX00190_3,BP00190,2025-06-19,16927065,Vendor 4-3,Professional Services expense
+TX00191_1,BP00191,2025-06-07,7871924,Vendor 5-1,Travel expense
+TX00191_2,BP00191,2025-06-13,13775867,Vendor 5-2,Travel expense
+TX00191_3,BP00191,2025-06-19,17711829,Vendor 5-3,Travel expense
+TX00192_1,BP00192,2025-06-07,9781331,Vendor 6-1,Training expense
+TX00192_2,BP00192,2025-06-13,17117329,Vendor 6-2,Training expense
+TX00192_3,BP00192,2025-06-19,22007997,Vendor 6-3,Training expense
+TX00193_1,BP00193,2025-06-07,5898790,Vendor 1-1,Personnel expense
+TX00193_2,BP00193,2025-06-13,10322883,Vendor 1-2,Personnel expense
+TX00193_3,BP00193,2025-06-19,13272280,Vendor 1-3,Personnel expense
+TX00194_1,BP00194,2025-06-07,5472849,Vendor 2-1,Software expense
+TX00194_2,BP00194,2025-06-13,9577486,Vendor 2-2,Software expense
+TX00194_3,BP00194,2025-06-19,12313913,Vendor 2-3,Software expense
+TX00195_1,BP00195,2025-06-07,7090204,Vendor 3-1,Infrastructure expense
+TX00195_2,BP00195,2025-06-13,12407858,Vendor 3-2,Infrastructure expense
+TX00195_3,BP00195,2025-06-19,15952962,Vendor 3-3,Infrastructure expense
+TX00196_1,BP00196,2025-06-07,9891883,Vendor 4-1,Professional Services expense
+TX00196_2,BP00196,2025-06-13,17310795,Vendor 4-2,Professional Services expense
+TX00196_3,BP00196,2025-06-19,22256737,Vendor 4-3,Professional Services expense
+TX00197_1,BP00197,2025-06-07,8472272,Vendor 5-1,Travel expense
+TX00197_2,BP00197,2025-06-13,14826477,Vendor 5-2,Travel expense
+TX00197_3,BP00197,2025-06-19,19062614,Vendor 5-3,Travel expense
+TX00198_1,BP00198,2025-06-07,7439881,Vendor 6-1,Training expense
+TX00198_2,BP00198,2025-06-13,13019792,Vendor 6-2,Training expense
+TX00198_3,BP00198,2025-06-19,16739733,Vendor 6-3,Training expense
+TX00199_1,BP00199,2025-06-07,5354953,Vendor 1-1,Personnel expense
+TX00199_2,BP00199,2025-06-13,9371167,Vendor 1-2,Personnel expense
+TX00199_3,BP00199,2025-06-19,12048645,Vendor 1-3,Personnel expense
+TX00200_1,BP00200,2025-06-07,7463849,Vendor 2-1,Software expense
+TX00200_2,BP00200,2025-06-13,13061736,Vendor 2-2,Software expense
+TX00200_3,BP00200,2025-06-19,16793662,Vendor 2-3,Software expense
+TX00201_1,BP00201,2025-06-07,6573020,Vendor 3-1,Infrastructure expense
+TX00201_2,BP00201,2025-06-13,11502786,Vendor 3-2,Infrastructure expense
+TX00201_3,BP00201,2025-06-19,14789297,Vendor 3-3,Infrastructure expense
+TX00202_1,BP00202,2025-06-07,6766192,Vendor 4-1,Professional Services expense
+TX00202_2,BP00202,2025-06-13,11840836,Vendor 4-2,Professional Services expense
+TX00202_3,BP00202,2025-06-19,15223933,Vendor 4-3,Professional Services expense
+TX00203_1,BP00203,2025-06-07,10218359,Vendor 5-1,Travel expense
+TX00203_2,BP00203,2025-06-13,17882129,Vendor 5-2,Travel expense
+TX00203_3,BP00203,2025-06-19,22991310,Vendor 5-3,Travel expense
+TX00204_1,BP00204,2025-06-07,9192486,Vendor 6-1,Training expense
+TX00204_2,BP00204,2025-06-13,16086850,Vendor 6-2,Training expense
+TX00204_3,BP00204,2025-06-19,20683094,Vendor 6-3,Training expense
+TX00205_1,BP00205,2025-06-07,6372770,Vendor 1-1,Personnel expense
+TX00205_2,BP00205,2025-06-13,11152347,Vendor 1-2,Personnel expense
+TX00205_3,BP00205,2025-06-19,14338734,Vendor 1-3,Personnel expense
+TX00206_1,BP00206,2025-06-07,8726997,Vendor 2-1,Software expense
+TX00206_2,BP00206,2025-06-13,15272244,Vendor 2-2,Software expense
+TX00206_3,BP00206,2025-06-19,19635744,Vendor 2-3,Software expense
+TX00207_1,BP00207,2025-06-07,10789001,Vendor 3-1,Infrastructure expense
+TX00207_2,BP00207,2025-06-13,18880752,Vendor 3-2,Infrastructure expense
+TX00207_3,BP00207,2025-06-19,24275254,Vendor 3-3,Infrastructure expense
+TX00208_1,BP00208,2025-06-07,7547377,Vendor 4-1,Professional Services expense
+TX00208_2,BP00208,2025-06-13,13207910,Vendor 4-2,Professional Services expense
+TX00208_3,BP00208,2025-06-19,16981600,Vendor 4-3,Professional Services expense
+TX00209_1,BP00209,2025-06-07,11981087,Vendor 5-1,Travel expense
+TX00209_2,BP00209,2025-06-13,20966902,Vendor 5-2,Travel expense
+TX00209_3,BP00209,2025-06-19,26957448,Vendor 5-3,Travel expense
+TX00210_1,BP00210,2025-06-07,12913927,Vendor 6-1,Training expense
+TX00210_2,BP00210,2025-06-13,22599372,Vendor 6-2,Training expense
+TX00210_3,BP00210,2025-06-19,29056338,Vendor 6-3,Training expense
+TX00211_1,BP00211,2025-06-07,7136941,Vendor 1-1,Personnel expense
+TX00211_2,BP00211,2025-06-13,12489647,Vendor 1-2,Personnel expense
+TX00211_3,BP00211,2025-06-19,16058119,Vendor 1-3,Personnel expense
+TX00212_1,BP00212,2025-06-07,9505679,Vendor 2-1,Software expense
+TX00212_2,BP00212,2025-06-13,16634938,Vendor 2-2,Software expense
+TX00212_3,BP00212,2025-06-19,21387779,Vendor 2-3,Software expense
+TX00213_1,BP00213,2025-06-07,9978840,Vendor 3-1,Infrastructure expense
+TX00213_2,BP00213,2025-06-13,17462970,Vendor 3-2,Infrastructure expense
+TX00213_3,BP00213,2025-06-19,22452392,Vendor 3-3,Infrastructure expense
+TX00214_1,BP00214,2025-06-07,7758450,Vendor 4-1,Professional Services expense
+TX00214_2,BP00214,2025-06-13,13577287,Vendor 4-2,Professional Services expense
+TX00214_3,BP00214,2025-06-19,17456513,Vendor 4-3,Professional Services expense
+TX00215_1,BP00215,2025-06-07,13093923,Vendor 5-1,Travel expense
+TX00215_2,BP00215,2025-06-13,22914365,Vendor 5-2,Travel expense
+TX00215_3,BP00215,2025-06-19,29461327,Vendor 5-3,Travel expense
+TX00216_1,BP00216,2025-06-07,11491395,Vendor 6-1,Training expense
+TX00216_2,BP00216,2025-06-13,20109942,Vendor 6-2,Training expense
+TX00216_3,BP00216,2025-06-19,25855641,Vendor 6-3,Training expense
+TX00217_1,BP00217,2025-07-07,6068539,Vendor 1-1,Personnel expense
+TX00217_2,BP00217,2025-07-13,10619944,Vendor 1-2,Personnel expense
+TX00217_3,BP00217,2025-07-19,13654216,Vendor 1-3,Personnel expense
+TX00218_1,BP00218,2025-07-07,6171786,Vendor 2-1,Software expense
+TX00218_2,BP00218,2025-07-13,10800625,Vendor 2-2,Software expense
+TX00218_3,BP00218,2025-07-19,13886520,Vendor 2-3,Software expense
+TX00219_1,BP00219,2025-07-07,6084533,Vendor 3-1,Infrastructure expense
+TX00219_2,BP00219,2025-07-13,10647934,Vendor 3-2,Infrastructure expense
+TX00219_3,BP00219,2025-07-19,13690202,Vendor 3-3,Infrastructure expense
+TX00220_1,BP00220,2025-07-07,6560671,Vendor 4-1,Professional Services expense
+TX00220_2,BP00220,2025-07-13,11481174,Vendor 4-2,Professional Services expense
+TX00220_3,BP00220,2025-07-19,14761512,Vendor 4-3,Professional Services expense
+TX00221_1,BP00221,2025-07-07,7496502,Vendor 5-1,Travel expense
+TX00221_2,BP00221,2025-07-13,13118879,Vendor 5-2,Travel expense
+TX00221_3,BP00221,2025-07-19,16867131,Vendor 5-3,Travel expense
+TX00222_1,BP00222,2025-07-07,8926250,Vendor 6-1,Training expense
+TX00222_2,BP00222,2025-07-13,15620938,Vendor 6-2,Training expense
+TX00222_3,BP00222,2025-07-19,20084065,Vendor 6-3,Training expense
+TX00223_1,BP00223,2025-07-07,7419930,Vendor 1-1,Personnel expense
+TX00223_2,BP00223,2025-07-13,12984877,Vendor 1-2,Personnel expense
+TX00223_3,BP00223,2025-07-19,16694843,Vendor 1-3,Personnel expense
+TX00224_1,BP00224,2025-07-07,5134241,Vendor 2-1,Software expense
+TX00224_2,BP00224,2025-07-13,8984922,Vendor 2-2,Software expense
+TX00224_3,BP00224,2025-07-19,11552045,Vendor 2-3,Software expense
+TX00225_1,BP00225,2025-07-07,5196006,Vendor 3-1,Infrastructure expense
+TX00225_2,BP00225,2025-07-13,9093011,Vendor 3-2,Infrastructure expense
+TX00225_3,BP00225,2025-07-19,11691015,Vendor 3-3,Infrastructure expense
+TX00226_1,BP00226,2025-07-07,7470534,Vendor 4-1,Professional Services expense
+TX00226_2,BP00226,2025-07-13,13073434,Vendor 4-2,Professional Services expense
+TX00226_3,BP00226,2025-07-19,16808703,Vendor 4-3,Professional Services expense
+TX00227_1,BP00227,2025-07-07,6685364,Vendor 5-1,Travel expense
+TX00227_2,BP00227,2025-07-13,11699387,Vendor 5-2,Travel expense
+TX00227_3,BP00227,2025-07-19,15042069,Vendor 5-3,Travel expense
+TX00228_1,BP00228,2025-07-07,9988374,Vendor 6-1,Training expense
+TX00228_2,BP00228,2025-07-13,17479654,Vendor 6-2,Training expense
+TX00228_3,BP00228,2025-07-19,22473843,Vendor 6-3,Training expense
+TX00229_1,BP00229,2025-07-07,5546007,Vendor 1-1,Personnel expense
+TX00229_2,BP00229,2025-07-13,9705512,Vendor 1-2,Personnel expense
+TX00229_3,BP00229,2025-07-19,12478517,Vendor 1-3,Personnel expense
+TX00230_1,BP00230,2025-07-07,7292347,Vendor 2-1,Software expense
+TX00230_2,BP00230,2025-07-13,12761607,Vendor 2-2,Software expense
+TX00230_3,BP00230,2025-07-19,16407781,Vendor 2-3,Software expense
+TX00231_1,BP00231,2025-07-07,7859429,Vendor 3-1,Infrastructure expense
+TX00231_2,BP00231,2025-07-13,13754001,Vendor 3-2,Infrastructure expense
+TX00231_3,BP00231,2025-07-19,17683717,Vendor 3-3,Infrastructure expense
+TX00232_1,BP00232,2025-07-07,7148430,Vendor 4-1,Professional Services expense
+TX00232_2,BP00232,2025-07-13,12509753,Vendor 4-2,Professional Services expense
+TX00232_3,BP00232,2025-07-19,16083971,Vendor 4-3,Professional Services expense
+TX00233_1,BP00233,2025-07-07,9418471,Vendor 5-1,Travel expense
+TX00233_2,BP00233,2025-07-13,16482324,Vendor 5-2,Travel expense
+TX00233_3,BP00233,2025-07-19,21191560,Vendor 5-3,Travel expense
+TX00234_1,BP00234,2025-07-07,9535525,Vendor 6-1,Training expense
+TX00234_2,BP00234,2025-07-13,16687169,Vendor 6-2,Training expense
+TX00234_3,BP00234,2025-07-19,21454932,Vendor 6-3,Training expense
+TX00235_1,BP00235,2025-07-07,9011455,Vendor 1-1,Personnel expense
+TX00235_2,BP00235,2025-07-13,15770046,Vendor 1-2,Personnel expense
+TX00235_3,BP00235,2025-07-19,20275774,Vendor 1-3,Personnel expense
+TX00236_1,BP00236,2025-07-07,6368272,Vendor 2-1,Software expense
+TX00236_2,BP00236,2025-07-13,11144476,Vendor 2-2,Software expense
+TX00236_3,BP00236,2025-07-19,14328613,Vendor 2-3,Software expense
+TX00237_1,BP00237,2025-07-07,9050641,Vendor 3-1,Infrastructure expense
+TX00237_2,BP00237,2025-07-13,15838621,Vendor 3-2,Infrastructure expense
+TX00237_3,BP00237,2025-07-19,20363943,Vendor 3-3,Infrastructure expense
+TX00238_1,BP00238,2025-07-07,10073542,Vendor 4-1,Professional Services expense
+TX00238_2,BP00238,2025-07-13,17628699,Vendor 4-2,Professional Services expense
+TX00238_3,BP00238,2025-07-19,22665473,Vendor 4-3,Professional Services expense
+TX00239_1,BP00239,2025-07-07,8876109,Vendor 5-1,Travel expense
+TX00239_2,BP00239,2025-07-13,15533191,Vendor 5-2,Travel expense
+TX00239_3,BP00239,2025-07-19,19971247,Vendor 5-3,Travel expense
+TX00240_1,BP00240,2025-07-07,11623483,Vendor 6-1,Training expense
+TX00240_2,BP00240,2025-07-13,20341096,Vendor 6-2,Training expense
+TX00240_3,BP00240,2025-07-19,26152840,Vendor 6-3,Training expense
+TX00241_1,BP00241,2025-07-07,7593381,Vendor 1-1,Personnel expense
+TX00241_2,BP00241,2025-07-13,13288417,Vendor 1-2,Personnel expense
+TX00241_3,BP00241,2025-07-19,17085108,Vendor 1-3,Personnel expense
+TX00242_1,BP00242,2025-07-07,7194823,Vendor 2-1,Software expense
+TX00242_2,BP00242,2025-07-13,12590940,Vendor 2-2,Software expense
+TX00242_3,BP00242,2025-07-19,16188354,Vendor 2-3,Software expense
+TX00243_1,BP00243,2025-07-07,9886236,Vendor 3-1,Infrastructure expense
+TX00243_2,BP00243,2025-07-13,17300914,Vendor 3-2,Infrastructure expense
+TX00243_3,BP00243,2025-07-19,22244034,Vendor 3-3,Infrastructure expense
+TX00244_1,BP00244,2025-07-07,7915940,Vendor 4-1,Professional Services expense
+TX00244_2,BP00244,2025-07-13,13852895,Vendor 4-2,Professional Services expense
+TX00244_3,BP00244,2025-07-19,17810865,Vendor 4-3,Professional Services expense
+TX00245_1,BP00245,2025-07-07,11376269,Vendor 5-1,Travel expense
+TX00245_2,BP00245,2025-07-13,19908471,Vendor 5-2,Travel expense
+TX00245_3,BP00245,2025-07-19,25596606,Vendor 5-3,Travel expense
+TX00246_1,BP00246,2025-07-07,13362331,Vendor 6-1,Training expense
+TX00246_2,BP00246,2025-07-13,23384079,Vendor 6-2,Training expense
+TX00246_3,BP00246,2025-07-19,30065247,Vendor 6-3,Training expense
+TX00247_1,BP00247,2025-07-07,6309918,Vendor 1-1,Personnel expense
+TX00247_2,BP00247,2025-07-13,11042356,Vendor 1-2,Personnel expense
+TX00247_3,BP00247,2025-07-19,14197316,Vendor 1-3,Personnel expense
+TX00248_1,BP00248,2025-07-07,7296438,Vendor 2-1,Software expense
+TX00248_2,BP00248,2025-07-13,12768766,Vendor 2-2,Software expense
+TX00248_3,BP00248,2025-07-19,16416986,Vendor 2-3,Software expense
+TX00249_1,BP00249,2025-07-07,8315562,Vendor 3-1,Infrastructure expense
+TX00249_2,BP00249,2025-07-13,14552234,Vendor 3-2,Infrastructure expense
+TX00249_3,BP00249,2025-07-19,18710016,Vendor 3-3,Infrastructure expense
+TX00250_1,BP00250,2025-07-07,7515498,Vendor 4-1,Professional Services expense
+TX00250_2,BP00250,2025-07-13,13152122,Vendor 4-2,Professional Services expense
+TX00250_3,BP00250,2025-07-19,16909873,Vendor 4-3,Professional Services expense
+TX00251_1,BP00251,2025-07-07,13660667,Vendor 5-1,Travel expense
+TX00251_2,BP00251,2025-07-13,23906167,Vendor 5-2,Travel expense
+TX00251_3,BP00251,2025-07-19,30736502,Vendor 5-3,Travel expense
+TX00252_1,BP00252,2025-07-07,12422383,Vendor 6-1,Training expense
+TX00252_2,BP00252,2025-07-13,21739171,Vendor 6-2,Training expense
+TX00252_3,BP00252,2025-07-19,27950365,Vendor 6-3,Training expense
+TX00253_1,BP00253,2025-08-07,4444368,Vendor 1-1,Personnel expense
+TX00253_2,BP00253,2025-08-13,7777643,Vendor 1-2,Personnel expense
+TX00253_3,BP00253,2025-08-19,9999829,Vendor 1-3,Personnel expense
+TX00254_1,BP00254,2025-08-07,6690862,Vendor 2-1,Software expense
+TX00254_2,BP00254,2025-08-13,11709008,Vendor 2-2,Software expense
+TX00254_3,BP00254,2025-08-19,15054441,Vendor 2-3,Software expense
+TX00255_1,BP00255,2025-08-07,7345956,Vendor 3-1,Infrastructure expense
+TX00255_2,BP00255,2025-08-13,12855423,Vendor 3-2,Infrastructure expense
+TX00255_3,BP00255,2025-08-19,16528402,Vendor 3-3,Infrastructure expense
+TX00256_1,BP00256,2025-08-07,5947194,Vendor 4-1,Professional Services expense
+TX00256_2,BP00256,2025-08-13,10407590,Vendor 4-2,Professional Services expense
+TX00256_3,BP00256,2025-08-19,13381190,Vendor 4-3,Professional Services expense
+TX00257_1,BP00257,2025-08-07,5692649,Vendor 5-1,Travel expense
+TX00257_2,BP00257,2025-08-13,9962136,Vendor 5-2,Travel expense
+TX00257_3,BP00257,2025-08-19,12808461,Vendor 5-3,Travel expense
+TX00258_1,BP00258,2025-08-07,5852971,Vendor 6-1,Training expense
+TX00258_2,BP00258,2025-08-13,10242699,Vendor 6-2,Training expense
+TX00258_3,BP00258,2025-08-19,13169186,Vendor 6-3,Training expense
+TX00259_1,BP00259,2025-08-07,4792610,Vendor 1-1,Personnel expense
+TX00259_2,BP00259,2025-08-13,8387067,Vendor 1-2,Personnel expense
+TX00259_3,BP00259,2025-08-19,10783374,Vendor 1-3,Personnel expense
+TX00260_1,BP00260,2025-08-07,5585497,Vendor 2-1,Software expense
+TX00260_2,BP00260,2025-08-13,9774620,Vendor 2-2,Software expense
+TX00260_3,BP00260,2025-08-19,12567371,Vendor 2-3,Software expense
+TX00261_1,BP00261,2025-08-07,6997875,Vendor 3-1,Infrastructure expense
+TX00261_2,BP00261,2025-08-13,12246281,Vendor 3-2,Infrastructure expense
+TX00261_3,BP00261,2025-08-19,15745221,Vendor 3-3,Infrastructure expense
+TX00262_1,BP00262,2025-08-07,5681813,Vendor 4-1,Professional Services expense
+TX00262_2,BP00262,2025-08-13,9943174,Vendor 4-2,Professional Services expense
+TX00262_3,BP00262,2025-08-19,12784082,Vendor 4-3,Professional Services expense
+TX00263_1,BP00263,2025-08-07,7095594,Vendor 5-1,Travel expense
+TX00263_2,BP00263,2025-08-13,12417289,Vendor 5-2,Travel expense
+TX00263_3,BP00263,2025-08-19,15965088,Vendor 5-3,Travel expense
+TX00264_1,BP00264,2025-08-07,10411086,Vendor 6-1,Training expense
+TX00264_2,BP00264,2025-08-13,18219401,Vendor 6-2,Training expense
+TX00264_3,BP00264,2025-08-19,23424946,Vendor 6-3,Training expense
+TX00265_1,BP00265,2025-08-07,8038746,Vendor 1-1,Personnel expense
+TX00265_2,BP00265,2025-08-13,14067805,Vendor 1-2,Personnel expense
+TX00265_3,BP00265,2025-08-19,18087180,Vendor 1-3,Personnel expense
+TX00266_1,BP00266,2025-08-07,5428563,Vendor 2-1,Software expense
+TX00266_2,BP00266,2025-08-13,9499986,Vendor 2-2,Software expense
+TX00266_3,BP00266,2025-08-19,12214269,Vendor 2-3,Software expense
+TX00267_1,BP00267,2025-08-07,7350337,Vendor 3-1,Infrastructure expense
+TX00267_2,BP00267,2025-08-13,12863090,Vendor 3-2,Infrastructure expense
+TX00267_3,BP00267,2025-08-19,16538260,Vendor 3-3,Infrastructure expense
+TX00268_1,BP00268,2025-08-07,6803652,Vendor 4-1,Professional Services expense
+TX00268_2,BP00268,2025-08-13,11906392,Vendor 4-2,Professional Services expense
+TX00268_3,BP00268,2025-08-19,15308220,Vendor 4-3,Professional Services expense
+TX00269_1,BP00269,2025-08-07,8594123,Vendor 5-1,Travel expense
+TX00269_2,BP00269,2025-08-13,15039716,Vendor 5-2,Travel expense
+TX00269_3,BP00269,2025-08-19,19336779,Vendor 5-3,Travel expense
+TX00270_1,BP00270,2025-08-07,10223433,Vendor 6-1,Training expense
+TX00270_2,BP00270,2025-08-13,17891008,Vendor 6-2,Training expense
+TX00270_3,BP00270,2025-08-19,23002726,Vendor 6-3,Training expense
+TX00271_1,BP00271,2025-08-07,6745148,Vendor 1-1,Personnel expense
+TX00271_2,BP00271,2025-08-13,11804009,Vendor 1-2,Personnel expense
+TX00271_3,BP00271,2025-08-19,15176583,Vendor 1-3,Personnel expense
+TX00272_1,BP00272,2025-08-07,7664411,Vendor 2-1,Software expense
+TX00272_2,BP00272,2025-08-13,13412719,Vendor 2-2,Software expense
+TX00272_3,BP00272,2025-08-19,17244926,Vendor 2-3,Software expense
+TX00273_1,BP00273,2025-08-07,8431271,Vendor 3-1,Infrastructure expense
+TX00273_2,BP00273,2025-08-13,14754724,Vendor 3-2,Infrastructure expense
+TX00273_3,BP00273,2025-08-19,18970362,Vendor 3-3,Infrastructure expense
+TX00274_1,BP00274,2025-08-07,9037985,Vendor 4-1,Professional Services expense
+TX00274_2,BP00274,2025-08-13,15816473,Vendor 4-2,Professional Services expense
+TX00274_3,BP00274,2025-08-19,20335467,Vendor 4-3,Professional Services expense
+TX00275_1,BP00275,2025-08-07,9210345,Vendor 5-1,Travel expense
+TX00275_2,BP00275,2025-08-13,16118104,Vendor 5-2,Travel expense
+TX00275_3,BP00275,2025-08-19,20723277,Vendor 5-3,Travel expense
+TX00276_1,BP00276,2025-08-07,7590945,Vendor 6-1,Training expense
+TX00276_2,BP00276,2025-08-13,13284153,Vendor 6-2,Training expense
+TX00276_3,BP00276,2025-08-19,17079627,Vendor 6-3,Training expense
+TX00277_1,BP00277,2025-08-07,9629377,Vendor 1-1,Personnel expense
+TX00277_2,BP00277,2025-08-13,16851410,Vendor 1-2,Personnel expense
+TX00277_3,BP00277,2025-08-19,21666101,Vendor 1-3,Personnel expense
+TX00278_1,BP00278,2025-08-07,7127392,Vendor 2-1,Software expense
+TX00278_2,BP00278,2025-08-13,12472936,Vendor 2-2,Software expense
+TX00278_3,BP00278,2025-08-19,16036634,Vendor 2-3,Software expense
+TX00279_1,BP00279,2025-08-07,8268879,Vendor 3-1,Infrastructure expense
+TX00279_2,BP00279,2025-08-13,14470538,Vendor 3-2,Infrastructure expense
+TX00279_3,BP00279,2025-08-19,18604978,Vendor 3-3,Infrastructure expense
+TX00280_1,BP00280,2025-08-07,8829268,Vendor 4-1,Professional Services expense
+TX00280_2,BP00280,2025-08-13,15451220,Vendor 4-2,Professional Services expense
+TX00280_3,BP00280,2025-08-19,19865856,Vendor 4-3,Professional Services expense
+TX00281_1,BP00281,2025-08-07,10055476,Vendor 5-1,Travel expense
+TX00281_2,BP00281,2025-08-13,17597083,Vendor 5-2,Travel expense
+TX00281_3,BP00281,2025-08-19,22624821,Vendor 5-3,Travel expense
+TX00282_1,BP00282,2025-08-07,10885754,Vendor 6-1,Training expense
+TX00282_2,BP00282,2025-08-13,19050070,Vendor 6-2,Training expense
+TX00282_3,BP00282,2025-08-19,24492950,Vendor 6-3,Training expense
+TX00283_1,BP00283,2025-08-07,6432916,Vendor 1-1,Personnel expense
+TX00283_2,BP00283,2025-08-13,11257603,Vendor 1-2,Personnel expense
+TX00283_3,BP00283,2025-08-19,14474062,Vendor 1-3,Personnel expense
+TX00284_1,BP00284,2025-08-07,8688109,Vendor 2-1,Software expense
+TX00284_2,BP00284,2025-08-13,15204191,Vendor 2-2,Software expense
+TX00284_3,BP00284,2025-08-19,19548247,Vendor 2-3,Software expense
+TX00285_1,BP00285,2025-08-07,11459369,Vendor 3-1,Infrastructure expense
+TX00285_2,BP00285,2025-08-13,20053895,Vendor 3-2,Infrastructure expense
+TX00285_3,BP00285,2025-08-19,25783581,Vendor 3-3,Infrastructure expense
+TX00286_1,BP00286,2025-08-07,9593194,Vendor 4-1,Professional Services expense
+TX00286_2,BP00286,2025-08-13,16788089,Vendor 4-2,Professional Services expense
+TX00286_3,BP00286,2025-08-19,21584688,Vendor 4-3,Professional Services expense
+TX00287_1,BP00287,2025-08-07,9678743,Vendor 5-1,Travel expense
+TX00287_2,BP00287,2025-08-13,16937800,Vendor 5-2,Travel expense
+TX00287_3,BP00287,2025-08-19,21777173,Vendor 5-3,Travel expense
+TX00288_1,BP00288,2025-08-07,11613155,Vendor 6-1,Training expense
+TX00288_2,BP00288,2025-08-13,20323022,Vendor 6-2,Training expense
+TX00288_3,BP00288,2025-08-19,26129601,Vendor 6-3,Training expense
+TX00289_1,BP00289,2025-09-07,4915449,Vendor 1-1,Personnel expense
+TX00289_2,BP00289,2025-09-13,8602036,Vendor 1-2,Personnel expense
+TX00289_3,BP00289,2025-09-19,11059762,Vendor 1-3,Personnel expense
+TX00290_1,BP00290,2025-09-07,4897787,Vendor 2-1,Software expense
+TX00290_2,BP00290,2025-09-13,8571128,Vendor 2-2,Software expense
+TX00290_3,BP00290,2025-09-19,11020024,Vendor 2-3,Software expense
+TX00291_1,BP00291,2025-09-07,7627938,Vendor 3-1,Infrastructure expense
+TX00291_2,BP00291,2025-09-13,13348892,Vendor 3-2,Infrastructure expense
+TX00291_3,BP00291,2025-09-19,17162862,Vendor 3-3,Infrastructure expense
+TX00292_1,BP00292,2025-09-07,5016485,Vendor 4-1,Professional Services expense
+TX00292_2,BP00292,2025-09-13,8778848,Vendor 4-2,Professional Services expense
+TX00292_3,BP00292,2025-09-19,11287092,Vendor 4-3,Professional Services expense
+TX00293_1,BP00293,2025-09-07,8162968,Vendor 5-1,Travel expense
+TX00293_2,BP00293,2025-09-13,14285194,Vendor 5-2,Travel expense
+TX00293_3,BP00293,2025-09-19,18366678,Vendor 5-3,Travel expense
+TX00294_1,BP00294,2025-09-07,9008331,Vendor 6-1,Training expense
+TX00294_2,BP00294,2025-09-13,15764579,Vendor 6-2,Training expense
+TX00294_3,BP00294,2025-09-19,20268746,Vendor 6-3,Training expense
+TX00295_1,BP00295,2025-09-07,5824402,Vendor 1-1,Personnel expense
+TX00295_2,BP00295,2025-09-13,10192703,Vendor 1-2,Personnel expense
+TX00295_3,BP00295,2025-09-19,13104906,Vendor 1-3,Personnel expense
+TX00296_1,BP00296,2025-09-07,5260508,Vendor 2-1,Software expense
+TX00296_2,BP00296,2025-09-13,9205890,Vendor 2-2,Software expense
+TX00296_3,BP00296,2025-09-19,11836145,Vendor 2-3,Software expense
+TX00297_1,BP00297,2025-09-07,6103431,Vendor 3-1,Infrastructure expense
+TX00297_2,BP00297,2025-09-13,10681005,Vendor 3-2,Infrastructure expense
+TX00297_3,BP00297,2025-09-19,13732723,Vendor 3-3,Infrastructure expense
+TX00298_1,BP00298,2025-09-07,6306385,Vendor 4-1,Professional Services expense
+TX00298_2,BP00298,2025-09-13,11036174,Vendor 4-2,Professional Services expense
+TX00298_3,BP00298,2025-09-19,14189368,Vendor 4-3,Professional Services expense
+TX00299_1,BP00299,2025-09-07,8725808,Vendor 5-1,Travel expense
+TX00299_2,BP00299,2025-09-13,15270165,Vendor 5-2,Travel expense
+TX00299_3,BP00299,2025-09-19,19633071,Vendor 5-3,Travel expense
+TX00300_1,BP00300,2025-09-07,10012614,Vendor 6-1,Training expense
+TX00300_2,BP00300,2025-09-13,17522074,Vendor 6-2,Training expense
+TX00300_3,BP00300,2025-09-19,22528383,Vendor 6-3,Training expense
+TX00301_1,BP00301,2025-09-07,7804423,Vendor 1-1,Personnel expense
+TX00301_2,BP00301,2025-09-13,13657740,Vendor 1-2,Personnel expense
+TX00301_3,BP00301,2025-09-19,17559952,Vendor 1-3,Personnel expense
+TX00302_1,BP00302,2025-09-07,8761528,Vendor 2-1,Software expense
+TX00302_2,BP00302,2025-09-13,15332673,Vendor 2-2,Software expense
+TX00302_3,BP00302,2025-09-19,19713439,Vendor 2-3,Software expense
+TX00303_1,BP00303,2025-09-07,6834140,Vendor 3-1,Infrastructure expense
+TX00303_2,BP00303,2025-09-13,11959745,Vendor 3-2,Infrastructure expense
+TX00303_3,BP00303,2025-09-19,15376817,Vendor 3-3,Infrastructure expense
+TX00304_1,BP00304,2025-09-07,8218483,Vendor 4-1,Professional Services expense
+TX00304_2,BP00304,2025-09-13,14382345,Vendor 4-2,Professional Services expense
+TX00304_3,BP00304,2025-09-19,18491587,Vendor 4-3,Professional Services expense
+TX00305_1,BP00305,2025-09-07,8141198,Vendor 5-1,Travel expense
+TX00305_2,BP00305,2025-09-13,14247096,Vendor 5-2,Travel expense
+TX00305_3,BP00305,2025-09-19,18317697,Vendor 5-3,Travel expense
+TX00306_1,BP00306,2025-09-07,7548514,Vendor 6-1,Training expense
+TX00306_2,BP00306,2025-09-13,13209899,Vendor 6-2,Training expense
+TX00306_3,BP00306,2025-09-19,16984157,Vendor 6-3,Training expense
+TX00307_1,BP00307,2025-09-07,8383112,Vendor 1-1,Personnel expense
+TX00307_2,BP00307,2025-09-13,14670447,Vendor 1-2,Personnel expense
+TX00307_3,BP00307,2025-09-19,18862005,Vendor 1-3,Personnel expense
+TX00308_1,BP00308,2025-09-07,9404217,Vendor 2-1,Software expense
+TX00308_2,BP00308,2025-09-13,16457381,Vendor 2-2,Software expense
+TX00308_3,BP00308,2025-09-19,21159491,Vendor 2-3,Software expense
+TX00309_1,BP00309,2025-09-07,7969566,Vendor 3-1,Infrastructure expense
+TX00309_2,BP00309,2025-09-13,13946741,Vendor 3-2,Infrastructure expense
+TX00309_3,BP00309,2025-09-19,17931527,Vendor 3-3,Infrastructure expense
+TX00310_1,BP00310,2025-09-07,10137627,Vendor 4-1,Professional Services expense
+TX00310_2,BP00310,2025-09-13,17740847,Vendor 4-2,Professional Services expense
+TX00310_3,BP00310,2025-09-19,22809661,Vendor 4-3,Professional Services expense
+TX00311_1,BP00311,2025-09-07,10115024,Vendor 5-1,Travel expense
+TX00311_2,BP00311,2025-09-13,17701292,Vendor 5-2,Travel expense
+TX00311_3,BP00311,2025-09-19,22758806,Vendor 5-3,Travel expense
+TX00312_1,BP00312,2025-09-07,8606228,Vendor 6-1,Training expense
+TX00312_2,BP00312,2025-09-13,15060899,Vendor 6-2,Training expense
+TX00312_3,BP00312,2025-09-19,19364015,Vendor 6-3,Training expense
+TX00313_1,BP00313,2025-09-07,5991907,Vendor 1-1,Personnel expense
+TX00313_2,BP00313,2025-09-13,10485837,Vendor 1-2,Personnel expense
+TX00313_3,BP00313,2025-09-19,13481791,Vendor 1-3,Personnel expense
+TX00314_1,BP00314,2025-09-07,8128138,Vendor 2-1,Software expense
+TX00314_2,BP00314,2025-09-13,14224242,Vendor 2-2,Software expense
+TX00314_3,BP00314,2025-09-19,18288312,Vendor 2-3,Software expense
+TX00315_1,BP00315,2025-09-07,8385253,Vendor 3-1,Infrastructure expense
+TX00315_2,BP00315,2025-09-13,14674194,Vendor 3-2,Infrastructure expense
+TX00315_3,BP00315,2025-09-19,18866822,Vendor 3-3,Infrastructure expense
+TX00316_1,BP00316,2025-09-07,10529209,Vendor 4-1,Professional Services expense
+TX00316_2,BP00316,2025-09-13,18426116,Vendor 4-2,Professional Services expense
+TX00316_3,BP00316,2025-09-19,23690722,Vendor 4-3,Professional Services expense
+TX00317_1,BP00317,2025-09-07,8974380,Vendor 5-1,Travel expense
+TX00317_2,BP00317,2025-09-13,15705165,Vendor 5-2,Travel expense
+TX00317_3,BP00317,2025-09-19,20192356,Vendor 5-3,Travel expense
+TX00318_1,BP00318,2025-09-07,8446968,Vendor 6-1,Training expense
+TX00318_2,BP00318,2025-09-13,14782194,Vendor 6-2,Training expense
+TX00318_3,BP00318,2025-09-19,19005679,Vendor 6-3,Training expense
+TX00319_1,BP00319,2025-09-07,9062322,Vendor 1-1,Personnel expense
+TX00319_2,BP00319,2025-09-13,15859064,Vendor 1-2,Personnel expense
+TX00319_3,BP00319,2025-09-19,20390227,Vendor 1-3,Personnel expense
+TX00320_1,BP00320,2025-09-07,8419720,Vendor 2-1,Software expense
+TX00320_2,BP00320,2025-09-13,14734511,Vendor 2-2,Software expense
+TX00320_3,BP00320,2025-09-19,18944372,Vendor 2-3,Software expense
+TX00321_1,BP00321,2025-09-07,10344294,Vendor 3-1,Infrastructure expense
+TX00321_2,BP00321,2025-09-13,18102514,Vendor 3-2,Infrastructure expense
+TX00321_3,BP00321,2025-09-19,23274663,Vendor 3-3,Infrastructure expense
+TX00322_1,BP00322,2025-09-07,8563808,Vendor 4-1,Professional Services expense
+TX00322_2,BP00322,2025-09-13,14986665,Vendor 4-2,Professional Services expense
+TX00322_3,BP00322,2025-09-19,19268571,Vendor 4-3,Professional Services expense
+TX00323_1,BP00323,2025-09-07,9188444,Vendor 5-1,Travel expense
+TX00323_2,BP00323,2025-09-13,16079776,Vendor 5-2,Travel expense
+TX00323_3,BP00323,2025-09-19,20674000,Vendor 5-3,Travel expense
+TX00324_1,BP00324,2025-09-07,12274451,Vendor 6-1,Training expense
+TX00324_2,BP00324,2025-09-13,21480289,Vendor 6-2,Training expense
+TX00324_3,BP00324,2025-09-19,27617515,Vendor 6-3,Training expense
+TX00325_1,BP00325,2025-10-07,5252098,Vendor 1-1,Personnel expense
+TX00325_2,BP00325,2025-10-13,9191172,Vendor 1-2,Personnel expense
+TX00325_3,BP00325,2025-10-19,11817222,Vendor 1-3,Personnel expense
+TX00326_1,BP00326,2025-10-07,6300334,Vendor 2-1,Software expense
+TX00326_2,BP00326,2025-10-13,11025585,Vendor 2-2,Software expense
+TX00326_3,BP00326,2025-10-19,14175755,Vendor 2-3,Software expense
+TX00327_1,BP00327,2025-10-07,6264045,Vendor 3-1,Infrastructure expense
+TX00327_2,BP00327,2025-10-13,10962079,Vendor 3-2,Infrastructure expense
+TX00327_3,BP00327,2025-10-19,14094103,Vendor 3-3,Infrastructure expense
+TX00328_1,BP00328,2025-10-07,8205357,Vendor 4-1,Professional Services expense
+TX00328_2,BP00328,2025-10-13,14359374,Vendor 4-2,Professional Services expense
+TX00328_3,BP00328,2025-10-19,18462054,Vendor 4-3,Professional Services expense
+TX00329_1,BP00329,2025-10-07,8770694,Vendor 5-1,Travel expense
+TX00329_2,BP00329,2025-10-13,15348715,Vendor 5-2,Travel expense
+TX00329_3,BP00329,2025-10-19,19734064,Vendor 5-3,Travel expense
+TX00330_1,BP00330,2025-10-07,8705942,Vendor 6-1,Training expense
+TX00330_2,BP00330,2025-10-13,15235399,Vendor 6-2,Training expense
+TX00330_3,BP00330,2025-10-19,19588371,Vendor 6-3,Training expense
+TX00331_1,BP00331,2025-10-07,5194195,Vendor 1-1,Personnel expense
+TX00331_2,BP00331,2025-10-13,9089842,Vendor 1-2,Personnel expense
+TX00331_3,BP00331,2025-10-19,11686941,Vendor 1-3,Personnel expense
+TX00332_1,BP00332,2025-10-07,5367158,Vendor 2-1,Software expense
+TX00332_2,BP00332,2025-10-13,9392527,Vendor 2-2,Software expense
+TX00332_3,BP00332,2025-10-19,12076109,Vendor 2-3,Software expense
+TX00333_1,BP00333,2025-10-07,5447204,Vendor 3-1,Infrastructure expense
+TX00333_2,BP00333,2025-10-13,9532608,Vendor 3-2,Infrastructure expense
+TX00333_3,BP00333,2025-10-19,12256212,Vendor 3-3,Infrastructure expense
+TX00334_1,BP00334,2025-10-07,8213712,Vendor 4-1,Professional Services expense
+TX00334_2,BP00334,2025-10-13,14373996,Vendor 4-2,Professional Services expense
+TX00334_3,BP00334,2025-10-19,18480852,Vendor 4-3,Professional Services expense
+TX00335_1,BP00335,2025-10-07,9256628,Vendor 5-1,Travel expense
+TX00335_2,BP00335,2025-10-13,16199099,Vendor 5-2,Travel expense
+TX00335_3,BP00335,2025-10-19,20827414,Vendor 5-3,Travel expense
+TX00336_1,BP00336,2025-10-07,10193310,Vendor 6-1,Training expense
+TX00336_2,BP00336,2025-10-13,17838292,Vendor 6-2,Training expense
+TX00336_3,BP00336,2025-10-19,22934948,Vendor 6-3,Training expense
+TX00337_1,BP00337,2025-10-07,5071896,Vendor 1-1,Personnel expense
+TX00337_2,BP00337,2025-10-13,8875818,Vendor 1-2,Personnel expense
+TX00337_3,BP00337,2025-10-19,11411766,Vendor 1-3,Personnel expense
+TX00338_1,BP00338,2025-10-07,7106613,Vendor 2-1,Software expense
+TX00338_2,BP00338,2025-10-13,12436574,Vendor 2-2,Software expense
+TX00338_3,BP00338,2025-10-19,15989882,Vendor 2-3,Software expense
+TX00339_1,BP00339,2025-10-07,9067030,Vendor 3-1,Infrastructure expense
+TX00339_2,BP00339,2025-10-13,15867302,Vendor 3-2,Infrastructure expense
+TX00339_3,BP00339,2025-10-19,20400819,Vendor 3-3,Infrastructure expense
+TX00340_1,BP00340,2025-10-07,8465260,Vendor 4-1,Professional Services expense
+TX00340_2,BP00340,2025-10-13,14814205,Vendor 4-2,Professional Services expense
+TX00340_3,BP00340,2025-10-19,19046837,Vendor 4-3,Professional Services expense
+TX00341_1,BP00341,2025-10-07,9901258,Vendor 5-1,Travel expense
+TX00341_2,BP00341,2025-10-13,17327202,Vendor 5-2,Travel expense
+TX00341_3,BP00341,2025-10-19,22277833,Vendor 5-3,Travel expense
+TX00342_1,BP00342,2025-10-07,11177441,Vendor 6-1,Training expense
+TX00342_2,BP00342,2025-10-13,19560523,Vendor 6-2,Training expense
+TX00342_3,BP00342,2025-10-19,25149245,Vendor 6-3,Training expense
+TX00343_1,BP00343,2025-10-07,5797871,Vendor 1-1,Personnel expense
+TX00343_2,BP00343,2025-10-13,10146274,Vendor 1-2,Personnel expense
+TX00343_3,BP00343,2025-10-19,13045211,Vendor 1-3,Personnel expense
+TX00344_1,BP00344,2025-10-07,7292878,Vendor 2-1,Software expense
+TX00344_2,BP00344,2025-10-13,12762536,Vendor 2-2,Software expense
+TX00344_3,BP00344,2025-10-19,16408977,Vendor 2-3,Software expense
+TX00345_1,BP00345,2025-10-07,7277006,Vendor 3-1,Infrastructure expense
+TX00345_2,BP00345,2025-10-13,12734761,Vendor 3-2,Infrastructure expense
+TX00345_3,BP00345,2025-10-19,16373265,Vendor 3-3,Infrastructure expense
+TX00346_1,BP00346,2025-10-07,10665155,Vendor 4-1,Professional Services expense
+TX00346_2,BP00346,2025-10-13,18664022,Vendor 4-2,Professional Services expense
+TX00346_3,BP00346,2025-10-19,23996601,Vendor 4-3,Professional Services expense
+TX00347_1,BP00347,2025-10-07,11539991,Vendor 5-1,Travel expense
+TX00347_2,BP00347,2025-10-13,20194984,Vendor 5-2,Travel expense
+TX00347_3,BP00347,2025-10-19,25964982,Vendor 5-3,Travel expense
+TX00348_1,BP00348,2025-10-07,8796950,Vendor 6-1,Training expense
+TX00348_2,BP00348,2025-10-13,15394663,Vendor 6-2,Training expense
+TX00348_3,BP00348,2025-10-19,19793140,Vendor 6-3,Training expense
+TX00349_1,BP00349,2025-10-07,9125111,Vendor 1-1,Personnel expense
+TX00349_2,BP00349,2025-10-13,15968944,Vendor 1-2,Personnel expense
+TX00349_3,BP00349,2025-10-19,20531500,Vendor 1-3,Personnel expense
+TX00350_1,BP00350,2025-10-07,7295382,Vendor 2-1,Software expense
+TX00350_2,BP00350,2025-10-13,12766919,Vendor 2-2,Software expense
+TX00350_3,BP00350,2025-10-19,16414612,Vendor 2-3,Software expense
+TX00351_1,BP00351,2025-10-07,9455015,Vendor 3-1,Infrastructure expense
+TX00351_2,BP00351,2025-10-13,16546276,Vendor 3-2,Infrastructure expense
+TX00351_3,BP00351,2025-10-19,21273785,Vendor 3-3,Infrastructure expense
+TX00352_1,BP00352,2025-10-07,8725239,Vendor 4-1,Professional Services expense
+TX00352_2,BP00352,2025-10-13,15269169,Vendor 4-2,Professional Services expense
+TX00352_3,BP00352,2025-10-19,19631790,Vendor 4-3,Professional Services expense
+TX00353_1,BP00353,2025-10-07,11930239,Vendor 5-1,Travel expense
+TX00353_2,BP00353,2025-10-13,20877919,Vendor 5-2,Travel expense
+TX00353_3,BP00353,2025-10-19,26843041,Vendor 5-3,Travel expense
+TX00354_1,BP00354,2025-10-07,10893925,Vendor 6-1,Training expense
+TX00354_2,BP00354,2025-10-13,19064369,Vendor 6-2,Training expense
+TX00354_3,BP00354,2025-10-19,24511333,Vendor 6-3,Training expense
+TX00355_1,BP00355,2025-10-07,9484771,Vendor 1-1,Personnel expense
+TX00355_2,BP00355,2025-10-13,16598349,Vendor 1-2,Personnel expense
+TX00355_3,BP00355,2025-10-19,21340737,Vendor 1-3,Personnel expense
+TX00356_1,BP00356,2025-10-07,8828359,Vendor 2-1,Software expense
+TX00356_2,BP00356,2025-10-13,15449628,Vendor 2-2,Software expense
+TX00356_3,BP00356,2025-10-19,19863808,Vendor 2-3,Software expense
+TX00357_1,BP00357,2025-10-07,9136093,Vendor 3-1,Infrastructure expense
+TX00357_2,BP00357,2025-10-13,15988163,Vendor 3-2,Infrastructure expense
+TX00357_3,BP00357,2025-10-19,20556211,Vendor 3-3,Infrastructure expense
+TX00358_1,BP00358,2025-10-07,11219031,Vendor 4-1,Professional Services expense
+TX00358_2,BP00358,2025-10-13,19633304,Vendor 4-2,Professional Services expense
+TX00358_3,BP00358,2025-10-19,25242820,Vendor 4-3,Professional Services expense
+TX00359_1,BP00359,2025-10-07,8586946,Vendor 5-1,Travel expense
+TX00359_2,BP00359,2025-10-13,15027155,Vendor 5-2,Travel expense
+TX00359_3,BP00359,2025-10-19,19320629,Vendor 5-3,Travel expense
+TX00360_1,BP00360,2025-10-07,10123025,Vendor 6-1,Training expense
+TX00360_2,BP00360,2025-10-13,17715294,Vendor 6-2,Training expense
+TX00360_3,BP00360,2025-10-19,22776808,Vendor 6-3,Training expense
+TX00361_1,BP00361,2025-11-07,5015516,Vendor 1-1,Personnel expense
+TX00361_2,BP00361,2025-11-13,8777153,Vendor 1-2,Personnel expense
+TX00361_3,BP00361,2025-11-19,11284913,Vendor 1-3,Personnel expense
+TX00362_1,BP00362,2025-11-07,5247605,Vendor 2-1,Software expense
+TX00362_2,BP00362,2025-11-13,9183308,Vendor 2-2,Software expense
+TX00362_3,BP00362,2025-11-19,11807112,Vendor 2-3,Software expense
+TX00363_1,BP00363,2025-11-07,5231769,Vendor 3-1,Infrastructure expense
+TX00363_2,BP00363,2025-11-13,9155596,Vendor 3-2,Infrastructure expense
+TX00363_3,BP00363,2025-11-19,11771483,Vendor 3-3,Infrastructure expense
+TX00364_1,BP00364,2025-11-07,5059084,Vendor 4-1,Professional Services expense
+TX00364_2,BP00364,2025-11-13,8853398,Vendor 4-2,Professional Services expense
+TX00364_3,BP00364,2025-11-19,11382941,Vendor 4-3,Professional Services expense
+TX00365_1,BP00365,2025-11-07,7793642,Vendor 5-1,Travel expense
+TX00365_2,BP00365,2025-11-13,13638874,Vendor 5-2,Travel expense
+TX00365_3,BP00365,2025-11-19,17535696,Vendor 5-3,Travel expense
+TX00366_1,BP00366,2025-11-07,9760476,Vendor 6-1,Training expense
+TX00366_2,BP00366,2025-11-13,17080833,Vendor 6-2,Training expense
+TX00366_3,BP00366,2025-11-19,21961073,Vendor 6-3,Training expense
+TX00367_1,BP00367,2025-11-07,7093389,Vendor 1-1,Personnel expense
+TX00367_2,BP00367,2025-11-13,12413431,Vendor 1-2,Personnel expense
+TX00367_3,BP00367,2025-11-19,15960127,Vendor 1-3,Personnel expense
+TX00368_1,BP00368,2025-11-07,7106021,Vendor 2-1,Software expense
+TX00368_2,BP00368,2025-11-13,12435538,Vendor 2-2,Software expense
+TX00368_3,BP00368,2025-11-19,15988550,Vendor 2-3,Software expense
+TX00369_1,BP00369,2025-11-07,7018727,Vendor 3-1,Infrastructure expense
+TX00369_2,BP00369,2025-11-13,12282772,Vendor 3-2,Infrastructure expense
+TX00369_3,BP00369,2025-11-19,15792138,Vendor 3-3,Infrastructure expense
+TX00370_1,BP00370,2025-11-07,7734408,Vendor 4-1,Professional Services expense
+TX00370_2,BP00370,2025-11-13,13535214,Vendor 4-2,Professional Services expense
+TX00370_3,BP00370,2025-11-19,17402418,Vendor 4-3,Professional Services expense
+TX00371_1,BP00371,2025-11-07,6719994,Vendor 5-1,Travel expense
+TX00371_2,BP00371,2025-11-13,11759990,Vendor 5-2,Travel expense
+TX00371_3,BP00371,2025-11-19,15119989,Vendor 5-3,Travel expense
+TX00372_1,BP00372,2025-11-07,9183511,Vendor 6-1,Training expense
+TX00372_2,BP00372,2025-11-13,16071144,Vendor 6-2,Training expense
+TX00372_3,BP00372,2025-11-19,20662901,Vendor 6-3,Training expense
+TX00373_1,BP00373,2025-11-07,5440009,Vendor 1-1,Personnel expense
+TX00373_2,BP00373,2025-11-13,9520016,Vendor 1-2,Personnel expense
+TX00373_3,BP00373,2025-11-19,12240021,Vendor 1-3,Personnel expense
+TX00374_1,BP00374,2025-11-07,5352562,Vendor 2-1,Software expense
+TX00374_2,BP00374,2025-11-13,9366984,Vendor 2-2,Software expense
+TX00374_3,BP00374,2025-11-19,12043268,Vendor 2-3,Software expense
+TX00375_1,BP00375,2025-11-07,8047737,Vendor 3-1,Infrastructure expense
+TX00375_2,BP00375,2025-11-13,14083539,Vendor 3-2,Infrastructure expense
+TX00375_3,BP00375,2025-11-19,18107409,Vendor 3-3,Infrastructure expense
+TX00376_1,BP00376,2025-11-07,9761047,Vendor 4-1,Professional Services expense
+TX00376_2,BP00376,2025-11-13,17081832,Vendor 4-2,Professional Services expense
+TX00376_3,BP00376,2025-11-19,21962358,Vendor 4-3,Professional Services expense
+TX00377_1,BP00377,2025-11-07,10976033,Vendor 5-1,Travel expense
+TX00377_2,BP00377,2025-11-13,19208059,Vendor 5-2,Travel expense
+TX00377_3,BP00377,2025-11-19,24696077,Vendor 5-3,Travel expense
+TX00378_1,BP00378,2025-11-07,7481181,Vendor 6-1,Training expense
+TX00378_2,BP00378,2025-11-13,13092067,Vendor 6-2,Training expense
+TX00378_3,BP00378,2025-11-19,16832659,Vendor 6-3,Training expense
+TX00379_1,BP00379,2025-11-07,7472384,Vendor 1-1,Personnel expense
+TX00379_2,BP00379,2025-11-13,13076672,Vendor 1-2,Personnel expense
+TX00379_3,BP00379,2025-11-19,16812864,Vendor 1-3,Personnel expense
+TX00380_1,BP00380,2025-11-07,8233658,Vendor 2-1,Software expense
+TX00380_2,BP00380,2025-11-13,14408902,Vendor 2-2,Software expense
+TX00380_3,BP00380,2025-11-19,18525734,Vendor 2-3,Software expense
+TX00381_1,BP00381,2025-11-07,7344124,Vendor 3-1,Infrastructure expense
+TX00381_2,BP00381,2025-11-13,12852218,Vendor 3-2,Infrastructure expense
+TX00381_3,BP00381,2025-11-19,16524281,Vendor 3-3,Infrastructure expense
+TX00382_1,BP00382,2025-11-07,10957156,Vendor 4-1,Professional Services expense
+TX00382_2,BP00382,2025-11-13,19175024,Vendor 4-2,Professional Services expense
+TX00382_3,BP00382,2025-11-19,24653604,Vendor 4-3,Professional Services expense
+TX00383_1,BP00383,2025-11-07,9901001,Vendor 5-1,Travel expense
+TX00383_2,BP00383,2025-11-13,17326752,Vendor 5-2,Travel expense
+TX00383_3,BP00383,2025-11-19,22277255,Vendor 5-3,Travel expense
+TX00384_1,BP00384,2025-11-07,12251294,Vendor 6-1,Training expense
+TX00384_2,BP00384,2025-11-13,21439765,Vendor 6-2,Training expense
+TX00384_3,BP00384,2025-11-19,27565415,Vendor 6-3,Training expense
+TX00385_1,BP00385,2025-11-07,8261582,Vendor 1-1,Personnel expense
+TX00385_2,BP00385,2025-11-13,14457769,Vendor 1-2,Personnel expense
+TX00385_3,BP00385,2025-11-19,18588563,Vendor 1-3,Personnel expense
+TX00386_1,BP00386,2025-11-07,8496863,Vendor 2-1,Software expense
+TX00386_2,BP00386,2025-11-13,14869510,Vendor 2-2,Software expense
+TX00386_3,BP00386,2025-11-19,19117944,Vendor 2-3,Software expense
+TX00387_1,BP00387,2025-11-07,7625692,Vendor 3-1,Infrastructure expense
+TX00387_2,BP00387,2025-11-13,13344962,Vendor 3-2,Infrastructure expense
+TX00387_3,BP00387,2025-11-19,17157810,Vendor 3-3,Infrastructure expense
+TX00388_1,BP00388,2025-11-07,8180022,Vendor 4-1,Professional Services expense
+TX00388_2,BP00388,2025-11-13,14315039,Vendor 4-2,Professional Services expense
+TX00388_3,BP00388,2025-11-19,18405053,Vendor 4-3,Professional Services expense
+TX00389_1,BP00389,2025-11-07,10540018,Vendor 5-1,Travel expense
+TX00389_2,BP00389,2025-11-13,18445031,Vendor 5-2,Travel expense
+TX00389_3,BP00389,2025-11-19,23715042,Vendor 5-3,Travel expense
+TX00390_1,BP00390,2025-11-07,8807916,Vendor 6-1,Training expense
+TX00390_2,BP00390,2025-11-13,15413854,Vendor 6-2,Training expense
+TX00390_3,BP00390,2025-11-19,19817814,Vendor 6-3,Training expense
+TX00391_1,BP00391,2025-11-07,7006862,Vendor 1-1,Personnel expense
+TX00391_2,BP00391,2025-11-13,12262008,Vendor 1-2,Personnel expense
+TX00391_3,BP00391,2025-11-19,15765440,Vendor 1-3,Personnel expense
+TX00392_1,BP00392,2025-11-07,7992578,Vendor 2-1,Software expense
+TX00392_2,BP00392,2025-11-13,13987012,Vendor 2-2,Software expense
+TX00392_3,BP00392,2025-11-19,17983304,Vendor 2-3,Software expense
+TX00393_1,BP00393,2025-11-07,7498618,Vendor 3-1,Infrastructure expense
+TX00393_2,BP00393,2025-11-13,13122582,Vendor 3-2,Infrastructure expense
+TX00393_3,BP00393,2025-11-19,16871893,Vendor 3-3,Infrastructure expense
+TX00394_1,BP00394,2025-11-07,8355893,Vendor 4-1,Professional Services expense
+TX00394_2,BP00394,2025-11-13,14622813,Vendor 4-2,Professional Services expense
+TX00394_3,BP00394,2025-11-19,18800761,Vendor 4-3,Professional Services expense
+TX00395_1,BP00395,2025-11-07,8504558,Vendor 5-1,Travel expense
+TX00395_2,BP00395,2025-11-13,14882976,Vendor 5-2,Travel expense
+TX00395_3,BP00395,2025-11-19,19135257,Vendor 5-3,Travel expense
+TX00396_1,BP00396,2025-11-07,13257422,Vendor 6-1,Training expense
+TX00396_2,BP00396,2025-11-13,23200489,Vendor 6-2,Training expense
+TX00396_3,BP00396,2025-11-19,29829201,Vendor 6-3,Training expense
+TX00397_1,BP00397,2025-12-07,4080390,Vendor 1-1,Personnel expense
+TX00397_2,BP00397,2025-12-13,7140682,Vendor 1-2,Personnel expense
+TX00397_3,BP00397,2025-12-19,9180879,Vendor 1-3,Personnel expense
+TX00398_1,BP00398,2025-12-07,6532298,Vendor 2-1,Software expense
+TX00398_2,BP00398,2025-12-13,11431522,Vendor 2-2,Software expense
+TX00398_3,BP00398,2025-12-19,14697674,Vendor 2-3,Software expense
+TX00399_1,BP00399,2025-12-07,6609518,Vendor 3-1,Infrastructure expense
+TX00399_2,BP00399,2025-12-13,11566656,Vendor 3-2,Infrastructure expense
+TX00399_3,BP00399,2025-12-19,14871416,Vendor 3-3,Infrastructure expense
+TX00400_1,BP00400,2025-12-07,8353917,Vendor 4-1,Professional Services expense
+TX00400_2,BP00400,2025-12-13,14619355,Vendor 4-2,Professional Services expense
+TX00400_3,BP00400,2025-12-19,18796316,Vendor 4-3,Professional Services expense
+TX00401_1,BP00401,2025-12-07,5381124,Vendor 5-1,Travel expense
+TX00401_2,BP00401,2025-12-13,9416967,Vendor 5-2,Travel expense
+TX00401_3,BP00401,2025-12-19,12107531,Vendor 5-3,Travel expense
+TX00402_1,BP00402,2025-12-07,7564840,Vendor 6-1,Training expense
+TX00402_2,BP00402,2025-12-13,13238470,Vendor 6-2,Training expense
+TX00402_3,BP00402,2025-12-19,17020891,Vendor 6-3,Training expense
+TX00403_1,BP00403,2025-12-07,5213484,Vendor 1-1,Personnel expense
+TX00403_2,BP00403,2025-12-13,9123597,Vendor 1-2,Personnel expense
+TX00403_3,BP00403,2025-12-19,11730340,Vendor 1-3,Personnel expense
+TX00404_1,BP00404,2025-12-07,6222317,Vendor 2-1,Software expense
+TX00404_2,BP00404,2025-12-13,10889055,Vendor 2-2,Software expense
+TX00404_3,BP00404,2025-12-19,14000216,Vendor 2-3,Software expense
+TX00405_1,BP00405,2025-12-07,5549355,Vendor 3-1,Infrastructure expense
+TX00405_2,BP00405,2025-12-13,9711371,Vendor 3-2,Infrastructure expense
+TX00405_3,BP00405,2025-12-19,12486050,Vendor 3-3,Infrastructure expense
+TX00406_1,BP00406,2025-12-07,6156850,Vendor 4-1,Professional Services expense
+TX00406_2,BP00406,2025-12-13,10774487,Vendor 4-2,Professional Services expense
+TX00406_3,BP00406,2025-12-19,13852914,Vendor 4-3,Professional Services expense
+TX00407_1,BP00407,2025-12-07,6868732,Vendor 5-1,Travel expense
+TX00407_2,BP00407,2025-12-13,12020282,Vendor 5-2,Travel expense
+TX00407_3,BP00407,2025-12-19,15454650,Vendor 5-3,Travel expense
+TX00408_1,BP00408,2025-12-07,9510620,Vendor 6-1,Training expense
+TX00408_2,BP00408,2025-12-13,16643586,Vendor 6-2,Training expense
+TX00408_3,BP00408,2025-12-19,21398897,Vendor 6-3,Training expense
+TX00409_1,BP00409,2025-12-07,5456002,Vendor 1-1,Personnel expense
+TX00409_2,BP00409,2025-12-13,9548004,Vendor 1-2,Personnel expense
+TX00409_3,BP00409,2025-12-19,12276006,Vendor 1-3,Personnel expense
+TX00410_1,BP00410,2025-12-07,7927307,Vendor 2-1,Software expense
+TX00410_2,BP00410,2025-12-13,13872787,Vendor 2-2,Software expense
+TX00410_3,BP00410,2025-12-19,17836443,Vendor 2-3,Software expense
+TX00411_1,BP00411,2025-12-07,6705452,Vendor 3-1,Infrastructure expense
+TX00411_2,BP00411,2025-12-13,11734542,Vendor 3-2,Infrastructure expense
+TX00411_3,BP00411,2025-12-19,15087269,Vendor 3-3,Infrastructure expense
+TX00412_1,BP00412,2025-12-07,8526636,Vendor 4-1,Professional Services expense
+TX00412_2,BP00412,2025-12-13,14921614,Vendor 4-2,Professional Services expense
+TX00412_3,BP00412,2025-12-19,19184933,Vendor 4-3,Professional Services expense
+TX00413_1,BP00413,2025-12-07,9227718,Vendor 5-1,Travel expense
+TX00413_2,BP00413,2025-12-13,16148506,Vendor 5-2,Travel expense
+TX00413_3,BP00413,2025-12-19,20762367,Vendor 5-3,Travel expense
+TX00414_1,BP00414,2025-12-07,11215161,Vendor 6-1,Training expense
+TX00414_2,BP00414,2025-12-13,19626532,Vendor 6-2,Training expense
+TX00414_3,BP00414,2025-12-19,25234115,Vendor 6-3,Training expense
+TX00415_1,BP00415,2025-12-07,5847586,Vendor 1-1,Personnel expense
+TX00415_2,BP00415,2025-12-13,10233275,Vendor 1-2,Personnel expense
+TX00415_3,BP00415,2025-12-19,13157069,Vendor 1-3,Personnel expense
+TX00416_1,BP00416,2025-12-07,8710858,Vendor 2-1,Software expense
+TX00416_2,BP00416,2025-12-13,15244001,Vendor 2-2,Software expense
+TX00416_3,BP00416,2025-12-19,19599431,Vendor 2-3,Software expense
+TX00417_1,BP00417,2025-12-07,8792520,Vendor 3-1,Infrastructure expense
+TX00417_2,BP00417,2025-12-13,15386909,Vendor 3-2,Infrastructure expense
+TX00417_3,BP00417,2025-12-19,19783171,Vendor 3-3,Infrastructure expense
+TX00418_1,BP00418,2025-12-07,7061890,Vendor 4-1,Professional Services expense
+TX00418_2,BP00418,2025-12-13,12358308,Vendor 4-2,Professional Services expense
+TX00418_3,BP00418,2025-12-19,15889254,Vendor 4-3,Professional Services expense
+TX00419_1,BP00419,2025-12-07,11718570,Vendor 5-1,Travel expense
+TX00419_2,BP00419,2025-12-13,20507497,Vendor 5-2,Travel expense
+TX00419_3,BP00419,2025-12-19,26366784,Vendor 5-3,Travel expense
+TX00420_1,BP00420,2025-12-07,11509183,Vendor 6-1,Training expense
+TX00420_2,BP00420,2025-12-13,20141070,Vendor 6-2,Training expense
+TX00420_3,BP00420,2025-12-19,25895664,Vendor 6-3,Training expense
+TX00421_1,BP00421,2025-12-07,9215472,Vendor 1-1,Personnel expense
+TX00421_2,BP00421,2025-12-13,16127077,Vendor 1-2,Personnel expense
+TX00421_3,BP00421,2025-12-19,20734815,Vendor 1-3,Personnel expense
+TX00422_1,BP00422,2025-12-07,9050659,Vendor 2-1,Software expense
+TX00422_2,BP00422,2025-12-13,15838653,Vendor 2-2,Software expense
+TX00422_3,BP00422,2025-12-19,20363984,Vendor 2-3,Software expense
+TX00423_1,BP00423,2025-12-07,10952603,Vendor 3-1,Infrastructure expense
+TX00423_2,BP00423,2025-12-13,19167055,Vendor 3-2,Infrastructure expense
+TX00423_3,BP00423,2025-12-19,24643357,Vendor 3-3,Infrastructure expense
+TX00424_1,BP00424,2025-12-07,10853611,Vendor 4-1,Professional Services expense
+TX00424_2,BP00424,2025-12-13,18993820,Vendor 4-2,Professional Services expense
+TX00424_3,BP00424,2025-12-19,24420628,Vendor 4-3,Professional Services expense
+TX00425_1,BP00425,2025-12-07,9986677,Vendor 5-1,Travel expense
+TX00425_2,BP00425,2025-12-13,17476685,Vendor 5-2,Travel expense
+TX00425_3,BP00425,2025-12-19,22470024,Vendor 5-3,Travel expense
+TX00426_1,BP00426,2025-12-07,9068268,Vendor 6-1,Training expense
+TX00426_2,BP00426,2025-12-13,15869470,Vendor 6-2,Training expense
+TX00426_3,BP00426,2025-12-19,20403605,Vendor 6-3,Training expense
+TX00427_1,BP00427,2025-12-07,10276937,Vendor 1-1,Personnel expense
+TX00427_2,BP00427,2025-12-13,17984640,Vendor 1-2,Personnel expense
+TX00427_3,BP00427,2025-12-19,23123111,Vendor 1-3,Personnel expense
+TX00428_1,BP00428,2025-12-07,6817324,Vendor 2-1,Software expense
+TX00428_2,BP00428,2025-12-13,11930318,Vendor 2-2,Software expense
+TX00428_3,BP00428,2025-12-19,15338982,Vendor 2-3,Software expense
+TX00429_1,BP00429,2025-12-07,12367002,Vendor 3-1,Infrastructure expense
+TX00429_2,BP00429,2025-12-13,21642254,Vendor 3-2,Infrastructure expense
+TX00429_3,BP00429,2025-12-19,27825756,Vendor 3-3,Infrastructure expense
+TX00430_1,BP00430,2025-12-07,7659878,Vendor 4-1,Professional Services expense
+TX00430_2,BP00430,2025-12-13,13404787,Vendor 4-2,Professional Services expense
+TX00430_3,BP00430,2025-12-19,17234727,Vendor 4-3,Professional Services expense
+TX00431_1,BP00431,2025-12-07,10670250,Vendor 5-1,Travel expense
+TX00431_2,BP00431,2025-12-13,18672938,Vendor 5-2,Travel expense
+TX00431_3,BP00431,2025-12-19,24008064,Vendor 5-3,Travel expense
+TX00432_1,BP00432,2025-12-07,8633692,Vendor 6-1,Training expense
+TX00432_2,BP00432,2025-12-13,15108962,Vendor 6-2,Training expense
+TX00432_3,BP00432,2025-12-19,19425809,Vendor 6-3,Training expense
+TX00433_1,BP00433,2026-01-07,6646657,Vendor 1-1,Personnel expense
+TX00433_2,BP00433,2026-01-13,11631651,Vendor 1-2,Personnel expense
+TX00433_3,BP00433,2026-01-19,14954981,Vendor 1-3,Personnel expense
+TX00434_1,BP00434,2026-01-07,5078067,Vendor 2-1,Software expense
+TX00434_2,BP00434,2026-01-13,8886618,Vendor 2-2,Software expense
+TX00434_3,BP00434,2026-01-19,11425653,Vendor 2-3,Software expense
+TX00435_1,BP00435,2026-01-07,6131301,Vendor 3-1,Infrastructure expense
+TX00435_2,BP00435,2026-01-13,10729777,Vendor 3-2,Infrastructure expense
+TX00435_3,BP00435,2026-01-19,13795429,Vendor 3-3,Infrastructure expense
+TX00436_1,BP00436,2026-01-07,7572908,Vendor 4-1,Professional Services expense
+TX00436_2,BP00436,2026-01-13,13252590,Vendor 4-2,Professional Services expense
+TX00436_3,BP00436,2026-01-19,17039046,Vendor 4-3,Professional Services expense
+TX00437_1,BP00437,2026-01-07,7379181,Vendor 5-1,Travel expense
+TX00437_2,BP00437,2026-01-13,12913568,Vendor 5-2,Travel expense
+TX00437_3,BP00437,2026-01-19,16603160,Vendor 5-3,Travel expense
+TX00438_1,BP00438,2026-01-07,9345652,Vendor 6-1,Training expense
+TX00438_2,BP00438,2026-01-13,16354890,Vendor 6-2,Training expense
+TX00438_3,BP00438,2026-01-19,21027718,Vendor 6-3,Training expense
+TX00439_1,BP00439,2026-01-07,5922112,Vendor 1-1,Personnel expense
+TX00439_2,BP00439,2026-01-13,10363696,Vendor 1-2,Personnel expense
+TX00439_3,BP00439,2026-01-19,13324752,Vendor 1-3,Personnel expense
+TX00440_1,BP00440,2026-01-07,6793593,Vendor 2-1,Software expense
+TX00440_2,BP00440,2026-01-13,11888787,Vendor 2-2,Software expense
+TX00440_3,BP00440,2026-01-19,15285585,Vendor 2-3,Software expense
+TX00441_1,BP00441,2026-01-07,8581245,Vendor 3-1,Infrastructure expense
+TX00441_2,BP00441,2026-01-13,15017179,Vendor 3-2,Infrastructure expense
+TX00441_3,BP00441,2026-01-19,19307802,Vendor 3-3,Infrastructure expense
+TX00442_1,BP00442,2026-01-07,8836315,Vendor 4-1,Professional Services expense
+TX00442_2,BP00442,2026-01-13,15463552,Vendor 4-2,Professional Services expense
+TX00442_3,BP00442,2026-01-19,19881712,Vendor 4-3,Professional Services expense
+TX00443_1,BP00443,2026-01-07,8000332,Vendor 5-1,Travel expense
+TX00443_2,BP00443,2026-01-13,14000581,Vendor 5-2,Travel expense
+TX00443_3,BP00443,2026-01-19,18000749,Vendor 5-3,Travel expense
+TX00444_1,BP00444,2026-01-07,9370610,Vendor 6-1,Training expense
+TX00444_2,BP00444,2026-01-13,16398568,Vendor 6-2,Training expense
+TX00444_3,BP00444,2026-01-19,21083874,Vendor 6-3,Training expense
+TX00445_1,BP00445,2026-01-07,8047201,Vendor 1-1,Personnel expense
+TX00445_2,BP00445,2026-01-13,14082603,Vendor 1-2,Personnel expense
+TX00445_3,BP00445,2026-01-19,18106205,Vendor 1-3,Personnel expense
+TX00446_1,BP00446,2026-01-07,7489755,Vendor 2-1,Software expense
+TX00446_2,BP00446,2026-01-13,13107072,Vendor 2-2,Software expense
+TX00446_3,BP00446,2026-01-19,16851951,Vendor 2-3,Software expense
+TX00447_1,BP00447,2026-01-07,9605379,Vendor 3-1,Infrastructure expense
+TX00447_2,BP00447,2026-01-13,16809414,Vendor 3-2,Infrastructure expense
+TX00447_3,BP00447,2026-01-19,21612106,Vendor 3-3,Infrastructure expense
+TX00448_1,BP00448,2026-01-07,9033980,Vendor 4-1,Professional Services expense
+TX00448_2,BP00448,2026-01-13,15809466,Vendor 4-2,Professional Services expense
+TX00448_3,BP00448,2026-01-19,20326458,Vendor 4-3,Professional Services expense
+TX00449_1,BP00449,2026-01-07,9880043,Vendor 5-1,Travel expense
+TX00449_2,BP00449,2026-01-13,17290075,Vendor 5-2,Travel expense
+TX00449_3,BP00449,2026-01-19,22230098,Vendor 5-3,Travel expense
+TX00450_1,BP00450,2026-01-07,11042656,Vendor 6-1,Training expense
+TX00450_2,BP00450,2026-01-13,19324648,Vendor 6-2,Training expense
+TX00450_3,BP00450,2026-01-19,24845977,Vendor 6-3,Training expense
+TX00451_1,BP00451,2026-01-07,6276668,Vendor 1-1,Personnel expense
+TX00451_2,BP00451,2026-01-13,10984170,Vendor 1-2,Personnel expense
+TX00451_3,BP00451,2026-01-19,14122505,Vendor 1-3,Personnel expense
+TX00452_1,BP00452,2026-01-07,9333544,Vendor 2-1,Software expense
+TX00452_2,BP00452,2026-01-13,16333703,Vendor 2-2,Software expense
+TX00452_3,BP00452,2026-01-19,21000476,Vendor 2-3,Software expense
+TX00453_1,BP00453,2026-01-07,6875431,Vendor 3-1,Infrastructure expense
+TX00453_2,BP00453,2026-01-13,12032005,Vendor 3-2,Infrastructure expense
+TX00453_3,BP00453,2026-01-19,15469723,Vendor 3-3,Infrastructure expense
+TX00454_1,BP00454,2026-01-07,11024530,Vendor 4-1,Professional Services expense
+TX00454_2,BP00454,2026-01-13,19292928,Vendor 4-2,Professional Services expense
+TX00454_3,BP00454,2026-01-19,24805195,Vendor 4-3,Professional Services expense
+TX00455_1,BP00455,2026-01-07,7677204,Vendor 5-1,Travel expense
+TX00455_2,BP00455,2026-01-13,13435107,Vendor 5-2,Travel expense
+TX00455_3,BP00455,2026-01-19,17273710,Vendor 5-3,Travel expense
+TX00456_1,BP00456,2026-01-07,7829232,Vendor 6-1,Training expense
+TX00456_2,BP00456,2026-01-13,13701156,Vendor 6-2,Training expense
+TX00456_3,BP00456,2026-01-19,17615772,Vendor 6-3,Training expense
+TX00457_1,BP00457,2026-01-07,8166776,Vendor 1-1,Personnel expense
+TX00457_2,BP00457,2026-01-13,14291858,Vendor 1-2,Personnel expense
+TX00457_3,BP00457,2026-01-19,18375248,Vendor 1-3,Personnel expense
+TX00458_1,BP00458,2026-01-07,8556694,Vendor 2-1,Software expense
+TX00458_2,BP00458,2026-01-13,14974215,Vendor 2-2,Software expense
+TX00458_3,BP00458,2026-01-19,19252564,Vendor 2-3,Software expense
+TX00459_1,BP00459,2026-01-07,8439306,Vendor 3-1,Infrastructure expense
+TX00459_2,BP00459,2026-01-13,14768785,Vendor 3-2,Infrastructure expense
+TX00459_3,BP00459,2026-01-19,18988440,Vendor 3-3,Infrastructure expense
+TX00460_1,BP00460,2026-01-07,10413198,Vendor 4-1,Professional Services expense
+TX00460_2,BP00460,2026-01-13,18223096,Vendor 4-2,Professional Services expense
+TX00460_3,BP00460,2026-01-19,23429697,Vendor 4-3,Professional Services expense
+TX00461_1,BP00461,2026-01-07,13370383,Vendor 5-1,Travel expense
+TX00461_2,BP00461,2026-01-13,23398171,Vendor 5-2,Travel expense
+TX00461_3,BP00461,2026-01-19,30083365,Vendor 5-3,Travel expense
+TX00462_1,BP00462,2026-01-07,14583172,Vendor 6-1,Training expense
+TX00462_2,BP00462,2026-01-13,25520551,Vendor 6-2,Training expense
+TX00462_3,BP00462,2026-01-19,32812137,Vendor 6-3,Training expense
+TX00463_1,BP00463,2026-01-07,11092154,Vendor 1-1,Personnel expense
+TX00463_2,BP00463,2026-01-13,19411270,Vendor 1-2,Personnel expense
+TX00463_3,BP00463,2026-01-19,24957349,Vendor 1-3,Personnel expense
+TX00464_1,BP00464,2026-01-07,8701677,Vendor 2-1,Software expense
+TX00464_2,BP00464,2026-01-13,15227934,Vendor 2-2,Software expense
+TX00464_3,BP00464,2026-01-19,19578774,Vendor 2-3,Software expense
+TX00465_1,BP00465,2026-01-07,12477371,Vendor 3-1,Infrastructure expense
+TX00465_2,BP00465,2026-01-13,21835400,Vendor 3-2,Infrastructure expense
+TX00465_3,BP00465,2026-01-19,28074087,Vendor 3-3,Infrastructure expense
+TX00466_1,BP00466,2026-01-07,12488201,Vendor 4-1,Professional Services expense
+TX00466_2,BP00466,2026-01-13,21854351,Vendor 4-2,Professional Services expense
+TX00466_3,BP00466,2026-01-19,28098453,Vendor 4-3,Professional Services expense
+TX00467_1,BP00467,2026-01-07,10231614,Vendor 5-1,Travel expense
+TX00467_2,BP00467,2026-01-13,17905325,Vendor 5-2,Travel expense
+TX00467_3,BP00467,2026-01-19,23021134,Vendor 5-3,Travel expense
+TX00468_1,BP00468,2026-01-07,10466976,Vendor 6-1,Training expense
+TX00468_2,BP00468,2026-01-13,18317209,Vendor 6-2,Training expense
+TX00468_3,BP00468,2026-01-19,23550699,Vendor 6-3,Training expense
+TX00469_1,BP00469,2026-02-07,6115740,Vendor 1-1,Personnel expense
+TX00469_2,BP00469,2026-02-13,10702546,Vendor 1-2,Personnel expense
+TX00469_3,BP00469,2026-02-19,13760418,Vendor 1-3,Personnel expense
+TX00470_1,BP00470,2026-02-07,7880735,Vendor 2-1,Software expense
+TX00470_2,BP00470,2026-02-13,13791287,Vendor 2-2,Software expense
+TX00470_3,BP00470,2026-02-19,17731657,Vendor 2-3,Software expense
+TX00471_1,BP00471,2026-02-07,5805233,Vendor 3-1,Infrastructure expense
+TX00471_2,BP00471,2026-02-13,10159158,Vendor 3-2,Infrastructure expense
+TX00471_3,BP00471,2026-02-19,13061775,Vendor 3-3,Infrastructure expense
+TX00472_1,BP00472,2026-02-07,7072715,Vendor 4-1,Professional Services expense
+TX00472_2,BP00472,2026-02-13,12377252,Vendor 4-2,Professional Services expense
+TX00472_3,BP00472,2026-02-19,15913611,Vendor 4-3,Professional Services expense
+TX00473_1,BP00473,2026-02-07,6068064,Vendor 5-1,Travel expense
+TX00473_2,BP00473,2026-02-13,10619113,Vendor 5-2,Travel expense
+TX00473_3,BP00473,2026-02-19,13653146,Vendor 5-3,Travel expense
+TX00474_1,BP00474,2026-02-07,10111203,Vendor 6-1,Training expense
+TX00474_2,BP00474,2026-02-13,17694605,Vendor 6-2,Training expense
+TX00474_3,BP00474,2026-02-19,22750208,Vendor 6-3,Training expense
+TX00475_1,BP00475,2026-02-07,6423356,Vendor 1-1,Personnel expense
+TX00475_2,BP00475,2026-02-13,11240873,Vendor 1-2,Personnel expense
+TX00475_3,BP00475,2026-02-19,14452551,Vendor 1-3,Personnel expense
+TX00476_1,BP00476,2026-02-07,7328439,Vendor 2-1,Software expense
+TX00476_2,BP00476,2026-02-13,12824769,Vendor 2-2,Software expense
+TX00476_3,BP00476,2026-02-19,16488990,Vendor 2-3,Software expense
+TX00477_1,BP00477,2026-02-07,7016324,Vendor 3-1,Infrastructure expense
+TX00477_2,BP00477,2026-02-13,12278567,Vendor 3-2,Infrastructure expense
+TX00477_3,BP00477,2026-02-19,15786729,Vendor 3-3,Infrastructure expense
+TX00478_1,BP00478,2026-02-07,6678149,Vendor 4-1,Professional Services expense
+TX00478_2,BP00478,2026-02-13,11686761,Vendor 4-2,Professional Services expense
+TX00478_3,BP00478,2026-02-19,15025837,Vendor 4-3,Professional Services expense
+TX00479_1,BP00479,2026-02-07,8336267,Vendor 5-1,Travel expense
+TX00479_2,BP00479,2026-02-13,14588467,Vendor 5-2,Travel expense
+TX00479_3,BP00479,2026-02-19,18756603,Vendor 5-3,Travel expense
+TX00480_1,BP00480,2026-02-07,8407672,Vendor 6-1,Training expense
+TX00480_2,BP00480,2026-02-13,14713427,Vendor 6-2,Training expense
+TX00480_3,BP00480,2026-02-19,18917265,Vendor 6-3,Training expense
+TX00481_1,BP00481,2026-02-07,7313585,Vendor 1-1,Personnel expense
+TX00481_2,BP00481,2026-02-13,12798774,Vendor 1-2,Personnel expense
+TX00481_3,BP00481,2026-02-19,16455567,Vendor 1-3,Personnel expense
+TX00482_1,BP00482,2026-02-07,9347662,Vendor 2-1,Software expense
+TX00482_2,BP00482,2026-02-13,16358409,Vendor 2-2,Software expense
+TX00482_3,BP00482,2026-02-19,21032242,Vendor 2-3,Software expense
+TX00483_1,BP00483,2026-02-07,7903840,Vendor 3-1,Infrastructure expense
+TX00483_2,BP00483,2026-02-13,13831721,Vendor 3-2,Infrastructure expense
+TX00483_3,BP00483,2026-02-19,17783643,Vendor 3-3,Infrastructure expense
+TX00484_1,BP00484,2026-02-07,8467470,Vendor 4-1,Professional Services expense
+TX00484_2,BP00484,2026-02-13,14818072,Vendor 4-2,Professional Services expense
+TX00484_3,BP00484,2026-02-19,19051808,Vendor 4-3,Professional Services expense
+TX00485_1,BP00485,2026-02-07,6963676,Vendor 5-1,Travel expense
+TX00485_2,BP00485,2026-02-13,12186434,Vendor 5-2,Travel expense
+TX00485_3,BP00485,2026-02-19,15668273,Vendor 5-3,Travel expense
+TX00486_1,BP00486,2026-02-07,12361247,Vendor 6-1,Training expense
+TX00486_2,BP00486,2026-02-13,21632183,Vendor 6-2,Training expense
+TX00486_3,BP00486,2026-02-19,27812808,Vendor 6-3,Training expense
+TX00487_1,BP00487,2026-02-07,9185962,Vendor 1-1,Personnel expense
+TX00487_2,BP00487,2026-02-13,16075434,Vendor 1-2,Personnel expense
+TX00487_3,BP00487,2026-02-19,20668418,Vendor 1-3,Personnel expense
+TX00488_1,BP00488,2026-02-07,7440162,Vendor 2-1,Software expense
+TX00488_2,BP00488,2026-02-13,13020283,Vendor 2-2,Software expense
+TX00488_3,BP00488,2026-02-19,16740366,Vendor 2-3,Software expense
+TX00489_1,BP00489,2026-02-07,10816575,Vendor 3-1,Infrastructure expense
+TX00489_2,BP00489,2026-02-13,18929007,Vendor 3-2,Infrastructure expense
+TX00489_3,BP00489,2026-02-19,24337297,Vendor 3-3,Infrastructure expense
+TX00490_1,BP00490,2026-02-07,8421592,Vendor 4-1,Professional Services expense
+TX00490_2,BP00490,2026-02-13,14737787,Vendor 4-2,Professional Services expense
+TX00490_3,BP00490,2026-02-19,18948585,Vendor 4-3,Professional Services expense
+TX00491_1,BP00491,2026-02-07,11981139,Vendor 5-1,Travel expense
+TX00491_2,BP00491,2026-02-13,20966993,Vendor 5-2,Travel expense
+TX00491_3,BP00491,2026-02-19,26957565,Vendor 5-3,Travel expense
+TX00492_1,BP00492,2026-02-07,12970667,Vendor 6-1,Training expense
+TX00492_2,BP00492,2026-02-13,22698667,Vendor 6-2,Training expense
+TX00492_3,BP00492,2026-02-19,29184002,Vendor 6-3,Training expense
+TX00493_1,BP00493,2026-02-07,6817361,Vendor 1-1,Personnel expense
+TX00493_2,BP00493,2026-02-13,11930383,Vendor 1-2,Personnel expense
+TX00493_3,BP00493,2026-02-19,15339065,Vendor 1-3,Personnel expense
+TX00494_1,BP00494,2026-02-07,11462073,Vendor 2-1,Software expense
+TX00494_2,BP00494,2026-02-13,20058628,Vendor 2-2,Software expense
+TX00494_3,BP00494,2026-02-19,25789667,Vendor 2-3,Software expense
+TX00495_1,BP00495,2026-02-07,9739857,Vendor 3-1,Infrastructure expense
+TX00495_2,BP00495,2026-02-13,17044750,Vendor 3-2,Infrastructure expense
+TX00495_3,BP00495,2026-02-19,21914679,Vendor 3-3,Infrastructure expense
+TX00496_1,BP00496,2026-02-07,12919176,Vendor 4-1,Professional Services expense
+TX00496_2,BP00496,2026-02-13,22608558,Vendor 4-2,Professional Services expense
+TX00496_3,BP00496,2026-02-19,29068147,Vendor 4-3,Professional Services expense
+TX00497_1,BP00497,2026-02-07,9426825,Vendor 5-1,Travel expense
+TX00497_2,BP00497,2026-02-13,16496945,Vendor 5-2,Travel expense
+TX00497_3,BP00497,2026-02-19,21210359,Vendor 5-3,Travel expense
+TX00498_1,BP00498,2026-02-07,14250358,Vendor 6-1,Training expense
+TX00498_2,BP00498,2026-02-13,24938126,Vendor 6-2,Training expense
+TX00498_3,BP00498,2026-02-19,32063307,Vendor 6-3,Training expense
+TX00499_1,BP00499,2026-02-07,11138935,Vendor 1-1,Personnel expense
+TX00499_2,BP00499,2026-02-13,19493136,Vendor 1-2,Personnel expense
+TX00499_3,BP00499,2026-02-19,25062606,Vendor 1-3,Personnel expense
+TX00500_1,BP00500,2026-02-07,8617142,Vendor 2-1,Software expense
+TX00500_2,BP00500,2026-02-13,15079999,Vendor 2-2,Software expense
+TX00500_3,BP00500,2026-02-19,19388571,Vendor 2-3,Software expense
+TX00501_1,BP00501,2026-02-07,8271526,Vendor 3-1,Infrastructure expense
+TX00501_2,BP00501,2026-02-13,14475171,Vendor 3-2,Infrastructure expense
+TX00501_3,BP00501,2026-02-19,18610935,Vendor 3-3,Infrastructure expense
+TX00502_1,BP00502,2026-02-07,12599444,Vendor 4-1,Professional Services expense
+TX00502_2,BP00502,2026-02-13,22049027,Vendor 4-2,Professional Services expense
+TX00502_3,BP00502,2026-02-19,28348750,Vendor 4-3,Professional Services expense
+TX00503_1,BP00503,2026-02-07,10245127,Vendor 5-1,Travel expense
+TX00503_2,BP00503,2026-02-13,17928972,Vendor 5-2,Travel expense
+TX00503_3,BP00503,2026-02-19,23051538,Vendor 5-3,Travel expense
+TX00504_1,BP00504,2026-02-07,12096434,Vendor 6-1,Training expense
+TX00504_2,BP00504,2026-02-13,21168759,Vendor 6-2,Training expense
+TX00504_3,BP00504,2026-02-19,27216978,Vendor 6-3,Training expense
+TX00505_1,BP00505,2026-03-07,5417202,Vendor 1-1,Personnel expense
+TX00505_2,BP00505,2026-03-13,9480103,Vendor 1-2,Personnel expense
+TX00505_3,BP00505,2026-03-19,12188705,Vendor 1-3,Personnel expense
+TX00506_1,BP00506,2026-03-07,6111838,Vendor 2-1,Software expense
+TX00506_2,BP00506,2026-03-13,10695717,Vendor 2-2,Software expense
+TX00506_3,BP00506,2026-03-19,13751637,Vendor 2-3,Software expense
+TX00507_1,BP00507,2026-03-07,6655269,Vendor 3-1,Infrastructure expense
+TX00507_2,BP00507,2026-03-13,11646720,Vendor 3-2,Infrastructure expense
+TX00507_3,BP00507,2026-03-19,14974356,Vendor 3-3,Infrastructure expense
+TX00508_1,BP00508,2026-03-07,7461803,Vendor 4-1,Professional Services expense
+TX00508_2,BP00508,2026-03-13,13058155,Vendor 4-2,Professional Services expense
+TX00508_3,BP00508,2026-03-19,16789058,Vendor 4-3,Professional Services expense
+TX00509_1,BP00509,2026-03-07,6699731,Vendor 5-1,Travel expense
+TX00509_2,BP00509,2026-03-13,11724529,Vendor 5-2,Travel expense
+TX00509_3,BP00509,2026-03-19,15074395,Vendor 5-3,Travel expense
+TX00510_1,BP00510,2026-03-07,6627940,Vendor 6-1,Training expense
+TX00510_2,BP00510,2026-03-13,11598895,Vendor 6-2,Training expense
+TX00510_3,BP00510,2026-03-19,14912865,Vendor 6-3,Training expense
+TX00511_1,BP00511,2026-03-07,6373624,Vendor 1-1,Personnel expense
+TX00511_2,BP00511,2026-03-13,11153843,Vendor 1-2,Personnel expense
+TX00511_3,BP00511,2026-03-19,14340656,Vendor 1-3,Personnel expense
+TX00512_1,BP00512,2026-03-07,4970069,Vendor 2-1,Software expense
+TX00512_2,BP00512,2026-03-13,8697621,Vendor 2-2,Software expense
+TX00512_3,BP00512,2026-03-19,11182656,Vendor 2-3,Software expense
+TX00513_1,BP00513,2026-03-07,7499512,Vendor 3-1,Infrastructure expense
+TX00513_2,BP00513,2026-03-13,13124146,Vendor 3-2,Infrastructure expense
+TX00513_3,BP00513,2026-03-19,16873904,Vendor 3-3,Infrastructure expense
+TX00514_1,BP00514,2026-03-07,8384798,Vendor 4-1,Professional Services expense
+TX00514_2,BP00514,2026-03-13,14673397,Vendor 4-2,Professional Services expense
+TX00514_3,BP00514,2026-03-19,18865797,Vendor 4-3,Professional Services expense
+TX00515_1,BP00515,2026-03-07,8602880,Vendor 5-1,Travel expense
+TX00515_2,BP00515,2026-03-13,15055040,Vendor 5-2,Travel expense
+TX00515_3,BP00515,2026-03-19,19356481,Vendor 5-3,Travel expense
+TX00516_1,BP00516,2026-03-07,7529431,Vendor 6-1,Training expense
+TX00516_2,BP00516,2026-03-13,13176504,Vendor 6-2,Training expense
+TX00516_3,BP00516,2026-03-19,16941220,Vendor 6-3,Training expense
+TX00517_1,BP00517,2026-03-07,7250551,Vendor 1-1,Personnel expense
+TX00517_2,BP00517,2026-03-13,12688464,Vendor 1-2,Personnel expense
+TX00517_3,BP00517,2026-03-19,16313740,Vendor 1-3,Personnel expense
+TX00518_1,BP00518,2026-03-07,9178652,Vendor 2-1,Software expense
+TX00518_2,BP00518,2026-03-13,16062642,Vendor 2-2,Software expense
+TX00518_3,BP00518,2026-03-19,20651970,Vendor 2-3,Software expense
+TX00519_1,BP00519,2026-03-07,7945898,Vendor 3-1,Infrastructure expense
+TX00519_2,BP00519,2026-03-13,13905321,Vendor 3-2,Infrastructure expense
+TX00519_3,BP00519,2026-03-19,17878271,Vendor 3-3,Infrastructure expense
+TX00520_1,BP00520,2026-03-07,10773115,Vendor 4-1,Professional Services expense
+TX00520_2,BP00520,2026-03-13,18852952,Vendor 4-2,Professional Services expense
+TX00520_3,BP00520,2026-03-19,24239512,Vendor 4-3,Professional Services expense
+TX00521_1,BP00521,2026-03-07,7548158,Vendor 5-1,Travel expense
+TX00521_2,BP00521,2026-03-13,13209276,Vendor 5-2,Travel expense
+TX00521_3,BP00521,2026-03-19,16983356,Vendor 5-3,Travel expense
+TX00522_1,BP00522,2026-03-07,8637180,Vendor 6-1,Training expense
+TX00522_2,BP00522,2026-03-13,15115065,Vendor 6-2,Training expense
+TX00522_3,BP00522,2026-03-19,19433656,Vendor 6-3,Training expense
+TX00523_1,BP00523,2026-03-07,8455557,Vendor 1-1,Personnel expense
+TX00523_2,BP00523,2026-03-13,14797225,Vendor 1-2,Personnel expense
+TX00523_3,BP00523,2026-03-19,19025004,Vendor 1-3,Personnel expense
+TX00524_1,BP00524,2026-03-07,7536525,Vendor 2-1,Software expense
+TX00524_2,BP00524,2026-03-13,13188919,Vendor 2-2,Software expense
+TX00524_3,BP00524,2026-03-19,16957182,Vendor 2-3,Software expense
+TX00525_1,BP00525,2026-03-07,10156226,Vendor 3-1,Infrastructure expense
+TX00525_2,BP00525,2026-03-13,17773396,Vendor 3-2,Infrastructure expense
+TX00525_3,BP00525,2026-03-19,22851511,Vendor 3-3,Infrastructure expense
+TX00526_1,BP00526,2026-03-07,11650590,Vendor 4-1,Professional Services expense
+TX00526_2,BP00526,2026-03-13,20388533,Vendor 4-2,Professional Services expense
+TX00526_3,BP00526,2026-03-19,26213829,Vendor 4-3,Professional Services expense
+TX00527_1,BP00527,2026-03-07,11774472,Vendor 5-1,Travel expense
+TX00527_2,BP00527,2026-03-13,20605327,Vendor 5-2,Travel expense
+TX00527_3,BP00527,2026-03-19,26492565,Vendor 5-3,Travel expense
+TX00528_1,BP00528,2026-03-07,11043813,Vendor 6-1,Training expense
+TX00528_2,BP00528,2026-03-13,19326673,Vendor 6-2,Training expense
+TX00528_3,BP00528,2026-03-19,24848581,Vendor 6-3,Training expense
+TX00529_1,BP00529,2026-03-07,6284790,Vendor 1-1,Personnel expense
+TX00529_2,BP00529,2026-03-13,10998382,Vendor 1-2,Personnel expense
+TX00529_3,BP00529,2026-03-19,14140778,Vendor 1-3,Personnel expense
+TX00530_1,BP00530,2026-03-07,9316156,Vendor 2-1,Software expense
+TX00530_2,BP00530,2026-03-13,16303273,Vendor 2-2,Software expense
+TX00530_3,BP00530,2026-03-19,20961353,Vendor 2-3,Software expense
+TX00531_1,BP00531,2026-03-07,7364216,Vendor 3-1,Infrastructure expense
+TX00531_2,BP00531,2026-03-13,12887379,Vendor 3-2,Infrastructure expense
+TX00531_3,BP00531,2026-03-19,16569488,Vendor 3-3,Infrastructure expense
+TX00532_1,BP00532,2026-03-07,8050987,Vendor 4-1,Professional Services expense
+TX00532_2,BP00532,2026-03-13,14089228,Vendor 4-2,Professional Services expense
+TX00532_3,BP00532,2026-03-19,18114724,Vendor 4-3,Professional Services expense
+TX00533_1,BP00533,2026-03-07,9244882,Vendor 5-1,Travel expense
+TX00533_2,BP00533,2026-03-13,16178544,Vendor 5-2,Travel expense
+TX00533_3,BP00533,2026-03-19,20800986,Vendor 5-3,Travel expense
+TX00534_1,BP00534,2026-03-07,12689213,Vendor 6-1,Training expense
+TX00534_2,BP00534,2026-03-13,22206122,Vendor 6-2,Training expense
+TX00534_3,BP00534,2026-03-19,28550730,Vendor 6-3,Training expense
+TX00535_1,BP00535,2026-03-07,11762203,Vendor 1-1,Personnel expense
+TX00535_2,BP00535,2026-03-13,20583855,Vendor 1-2,Personnel expense
+TX00535_3,BP00535,2026-03-19,26464957,Vendor 1-3,Personnel expense
+TX00536_1,BP00536,2026-03-07,7464040,Vendor 2-1,Software expense
+TX00536_2,BP00536,2026-03-13,13062070,Vendor 2-2,Software expense
+TX00536_3,BP00536,2026-03-19,16794092,Vendor 2-3,Software expense
+TX00537_1,BP00537,2026-03-07,12539417,Vendor 3-1,Infrastructure expense
+TX00537_2,BP00537,2026-03-13,21943980,Vendor 3-2,Infrastructure expense
+TX00537_3,BP00537,2026-03-19,28213691,Vendor 3-3,Infrastructure expense
+TX00538_1,BP00538,2026-03-07,11733748,Vendor 4-1,Professional Services expense
+TX00538_2,BP00538,2026-03-13,20534059,Vendor 4-2,Professional Services expense
+TX00538_3,BP00538,2026-03-19,26400933,Vendor 4-3,Professional Services expense
+TX00539_1,BP00539,2026-03-07,13374791,Vendor 5-1,Travel expense
+TX00539_2,BP00539,2026-03-13,23405884,Vendor 5-2,Travel expense
+TX00539_3,BP00539,2026-03-19,30093282,Vendor 5-3,Travel expense
+TX00540_1,BP00540,2026-03-07,11041219,Vendor 6-1,Training expense
+TX00540_2,BP00540,2026-03-13,19322133,Vendor 6-2,Training expense
+TX00540_3,BP00540,2026-03-19,24842744,Vendor 6-3,Training expense
+TX00541_1,BP00541,2026-04-07,6189134,Vendor 1-1,Personnel expense
+TX00541_2,BP00541,2026-04-13,10830985,Vendor 1-2,Personnel expense
+TX00541_3,BP00541,2026-04-19,13925553,Vendor 1-3,Personnel expense
+TX00542_1,BP00542,2026-04-07,6033660,Vendor 2-1,Software expense
+TX00542_2,BP00542,2026-04-13,10558906,Vendor 2-2,Software expense
+TX00542_3,BP00542,2026-04-19,13575737,Vendor 2-3,Software expense
+TX00543_1,BP00543,2026-04-07,7405075,Vendor 3-1,Infrastructure expense
+TX00543_2,BP00543,2026-04-13,12958881,Vendor 3-2,Infrastructure expense
+TX00543_3,BP00543,2026-04-19,16661419,Vendor 3-3,Infrastructure expense
+TX00544_1,BP00544,2026-04-07,6985622,Vendor 4-1,Professional Services expense
+TX00544_2,BP00544,2026-04-13,12224839,Vendor 4-2,Professional Services expense
+TX00544_3,BP00544,2026-04-19,15717652,Vendor 4-3,Professional Services expense
+TX00545_1,BP00545,2026-04-07,5744640,Vendor 5-1,Travel expense
+TX00545_2,BP00545,2026-04-13,10053121,Vendor 5-2,Travel expense
+TX00545_3,BP00545,2026-04-19,12925442,Vendor 5-3,Travel expense
+TX00546_1,BP00546,2026-04-07,9557592,Vendor 6-1,Training expense
+TX00546_2,BP00546,2026-04-13,16725787,Vendor 6-2,Training expense
+TX00546_3,BP00546,2026-04-19,21504585,Vendor 6-3,Training expense
+TX00547_1,BP00547,2026-04-07,7412667,Vendor 1-1,Personnel expense
+TX00547_2,BP00547,2026-04-13,12972167,Vendor 1-2,Personnel expense
+TX00547_3,BP00547,2026-04-19,16678503,Vendor 1-3,Personnel expense
+TX00548_1,BP00548,2026-04-07,5744606,Vendor 2-1,Software expense
+TX00548_2,BP00548,2026-04-13,10053061,Vendor 2-2,Software expense
+TX00548_3,BP00548,2026-04-19,12925365,Vendor 2-3,Software expense
+TX00549_1,BP00549,2026-04-07,6137641,Vendor 3-1,Infrastructure expense
+TX00549_2,BP00549,2026-04-13,10740872,Vendor 3-2,Infrastructure expense
+TX00549_3,BP00549,2026-04-19,13809695,Vendor 3-3,Infrastructure expense
+TX00550_1,BP00550,2026-04-07,8922823,Vendor 4-1,Professional Services expense
+TX00550_2,BP00550,2026-04-13,15614940,Vendor 4-2,Professional Services expense
+TX00550_3,BP00550,2026-04-19,20076353,Vendor 4-3,Professional Services expense
+TX00551_1,BP00551,2026-04-07,7197091,Vendor 5-1,Travel expense
+TX00551_2,BP00551,2026-04-13,12594910,Vendor 5-2,Travel expense
+TX00551_3,BP00551,2026-04-19,16193458,Vendor 5-3,Travel expense
+TX00552_1,BP00552,2026-04-07,8762898,Vendor 6-1,Training expense
+TX00552_2,BP00552,2026-04-13,15335071,Vendor 6-2,Training expense
+TX00552_3,BP00552,2026-04-19,19716522,Vendor 6-3,Training expense
+TX00553_1,BP00553,2026-04-07,7857663,Vendor 1-1,Personnel expense
+TX00553_2,BP00553,2026-04-13,13750911,Vendor 1-2,Personnel expense
+TX00553_3,BP00553,2026-04-19,17679745,Vendor 1-3,Personnel expense
+TX00554_1,BP00554,2026-04-07,6260892,Vendor 2-1,Software expense
+TX00554_2,BP00554,2026-04-13,10956561,Vendor 2-2,Software expense
+TX00554_3,BP00554,2026-04-19,14087008,Vendor 2-3,Software expense
+TX00555_1,BP00555,2026-04-07,8296309,Vendor 3-1,Infrastructure expense
+TX00555_2,BP00555,2026-04-13,14518540,Vendor 3-2,Infrastructure expense
+TX00555_3,BP00555,2026-04-19,18666696,Vendor 3-3,Infrastructure expense
+TX00556_1,BP00556,2026-04-07,6770968,Vendor 4-1,Professional Services expense
+TX00556_2,BP00556,2026-04-13,11849195,Vendor 4-2,Professional Services expense
+TX00556_3,BP00556,2026-04-19,15234680,Vendor 4-3,Professional Services expense
+TX00557_1,BP00557,2026-04-07,10468038,Vendor 5-1,Travel expense
+TX00557_2,BP00557,2026-04-13,18319067,Vendor 5-2,Travel expense
+TX00557_3,BP00557,2026-04-19,23553088,Vendor 5-3,Travel expense
+TX00558_1,BP00558,2026-04-07,9686589,Vendor 6-1,Training expense
+TX00558_2,BP00558,2026-04-13,16951530,Vendor 6-2,Training expense
+TX00558_3,BP00558,2026-04-19,21794826,Vendor 6-3,Training expense
+TX00559_1,BP00559,2026-04-07,8920650,Vendor 1-1,Personnel expense
+TX00559_2,BP00559,2026-04-13,15611138,Vendor 1-2,Personnel expense
+TX00559_3,BP00559,2026-04-19,20071465,Vendor 1-3,Personnel expense
+TX00560_1,BP00560,2026-04-07,9046791,Vendor 2-1,Software expense
+TX00560_2,BP00560,2026-04-13,15831885,Vendor 2-2,Software expense
+TX00560_3,BP00560,2026-04-19,20355282,Vendor 2-3,Software expense
+TX00561_1,BP00561,2026-04-07,7508932,Vendor 3-1,Infrastructure expense
+TX00561_2,BP00561,2026-04-13,13140632,Vendor 3-2,Infrastructure expense
+TX00561_3,BP00561,2026-04-19,16895099,Vendor 3-3,Infrastructure expense
+TX00562_1,BP00562,2026-04-07,11009829,Vendor 4-1,Professional Services expense
+TX00562_2,BP00562,2026-04-13,19267201,Vendor 4-2,Professional Services expense
+TX00562_3,BP00562,2026-04-19,24772117,Vendor 4-3,Professional Services expense
+TX00563_1,BP00563,2026-04-07,11926652,Vendor 5-1,Travel expense
+TX00563_2,BP00563,2026-04-13,20871642,Vendor 5-2,Travel expense
+TX00563_3,BP00563,2026-04-19,26834969,Vendor 5-3,Travel expense
+TX00564_1,BP00564,2026-04-07,12771980,Vendor 6-1,Training expense
+TX00564_2,BP00564,2026-04-13,22350965,Vendor 6-2,Training expense
+TX00564_3,BP00564,2026-04-19,28736955,Vendor 6-3,Training expense
+TX00565_1,BP00565,2026-04-07,9018880,Vendor 1-1,Personnel expense
+TX00565_2,BP00565,2026-04-13,15783041,Vendor 1-2,Personnel expense
+TX00565_3,BP00565,2026-04-19,20292483,Vendor 1-3,Personnel expense
+TX00566_1,BP00566,2026-04-07,7682615,Vendor 2-1,Software expense
+TX00566_2,BP00566,2026-04-13,13444577,Vendor 2-2,Software expense
+TX00566_3,BP00566,2026-04-19,17285886,Vendor 2-3,Software expense
+TX00567_1,BP00567,2026-04-07,10005636,Vendor 3-1,Infrastructure expense
+TX00567_2,BP00567,2026-04-13,17509864,Vendor 3-2,Infrastructure expense
+TX00567_3,BP00567,2026-04-19,22512684,Vendor 3-3,Infrastructure expense
+TX00568_1,BP00568,2026-04-07,10781661,Vendor 4-1,Professional Services expense
+TX00568_2,BP00568,2026-04-13,18867907,Vendor 4-2,Professional Services expense
+TX00568_3,BP00568,2026-04-19,24258738,Vendor 4-3,Professional Services expense
+TX00569_1,BP00569,2026-04-07,12247983,Vendor 5-1,Travel expense
+TX00569_2,BP00569,2026-04-13,21433971,Vendor 5-2,Travel expense
+TX00569_3,BP00569,2026-04-19,27557964,Vendor 5-3,Travel expense
+TX00570_1,BP00570,2026-04-07,11437663,Vendor 6-1,Training expense
+TX00570_2,BP00570,2026-04-13,20015911,Vendor 6-2,Training expense
+TX00570_3,BP00570,2026-04-19,25734745,Vendor 6-3,Training expense
+TX00571_1,BP00571,2026-04-07,8737670,Vendor 1-1,Personnel expense
+TX00571_2,BP00571,2026-04-13,15290923,Vendor 1-2,Personnel expense
+TX00571_3,BP00571,2026-04-19,19659760,Vendor 1-3,Personnel expense
+TX00572_1,BP00572,2026-04-07,11270032,Vendor 2-1,Software expense
+TX00572_2,BP00572,2026-04-13,19722556,Vendor 2-2,Software expense
+TX00572_3,BP00572,2026-04-19,25357574,Vendor 2-3,Software expense
+TX00573_1,BP00573,2026-04-07,9140910,Vendor 3-1,Infrastructure expense
+TX00573_2,BP00573,2026-04-13,15996593,Vendor 3-2,Infrastructure expense
+TX00573_3,BP00573,2026-04-19,20567049,Vendor 3-3,Infrastructure expense
+TX00574_1,BP00574,2026-04-07,10067015,Vendor 4-1,Professional Services expense
+TX00574_2,BP00574,2026-04-13,17617276,Vendor 4-2,Professional Services expense
+TX00574_3,BP00574,2026-04-19,22650785,Vendor 4-3,Professional Services expense
+TX00575_1,BP00575,2026-04-07,8538119,Vendor 5-1,Travel expense
+TX00575_2,BP00575,2026-04-13,14941708,Vendor 5-2,Travel expense
+TX00575_3,BP00575,2026-04-19,19210770,Vendor 5-3,Travel expense
+TX00576_1,BP00576,2026-04-07,9858701,Vendor 6-1,Training expense
+TX00576_2,BP00576,2026-04-13,17252727,Vendor 6-2,Training expense
+TX00576_3,BP00576,2026-04-19,22182080,Vendor 6-3,Training expense
+TX00577_1,BP00577,2026-05-07,6161044,Vendor 1-1,Personnel expense
+TX00577_2,BP00577,2026-05-13,10781827,Vendor 1-2,Personnel expense
+TX00577_3,BP00577,2026-05-19,13862350,Vendor 1-3,Personnel expense
+TX00578_1,BP00578,2026-05-07,4569547,Vendor 2-1,Software expense
+TX00578_2,BP00578,2026-05-13,7996708,Vendor 2-2,Software expense
+TX00578_3,BP00578,2026-05-19,10281483,Vendor 2-3,Software expense
+TX00579_1,BP00579,2026-05-07,6765695,Vendor 3-1,Infrastructure expense
+TX00579_2,BP00579,2026-05-13,11839967,Vendor 3-2,Infrastructure expense
+TX00579_3,BP00579,2026-05-19,15222816,Vendor 3-3,Infrastructure expense
+TX00580_1,BP00580,2026-05-07,8683485,Vendor 4-1,Professional Services expense
+TX00580_2,BP00580,2026-05-13,15196098,Vendor 4-2,Professional Services expense
+TX00580_3,BP00580,2026-05-19,19537842,Vendor 4-3,Professional Services expense
+TX00581_1,BP00581,2026-05-07,6032338,Vendor 5-1,Travel expense
+TX00581_2,BP00581,2026-05-13,10556592,Vendor 5-2,Travel expense
+TX00581_3,BP00581,2026-05-19,13572764,Vendor 5-3,Travel expense
+TX00582_1,BP00582,2026-05-07,7619461,Vendor 6-1,Training expense
+TX00582_2,BP00582,2026-05-13,13334057,Vendor 6-2,Training expense
+TX00582_3,BP00582,2026-05-19,17143788,Vendor 6-3,Training expense
+TX00583_1,BP00583,2026-05-07,6620701,Vendor 1-1,Personnel expense
+TX00583_2,BP00583,2026-05-13,11586226,Vendor 1-2,Personnel expense
+TX00583_3,BP00583,2026-05-19,14896578,Vendor 1-3,Personnel expense
+TX00584_1,BP00584,2026-05-07,4900186,Vendor 2-1,Software expense
+TX00584_2,BP00584,2026-05-13,8575325,Vendor 2-2,Software expense
+TX00584_3,BP00584,2026-05-19,11025419,Vendor 2-3,Software expense
+TX00585_1,BP00585,2026-05-07,6242760,Vendor 3-1,Infrastructure expense
+TX00585_2,BP00585,2026-05-13,10924831,Vendor 3-2,Infrastructure expense
+TX00585_3,BP00585,2026-05-19,14046213,Vendor 3-3,Infrastructure expense
+TX00586_1,BP00586,2026-05-07,8425952,Vendor 4-1,Professional Services expense
+TX00586_2,BP00586,2026-05-13,14745416,Vendor 4-2,Professional Services expense
+TX00586_3,BP00586,2026-05-19,18958394,Vendor 4-3,Professional Services expense
+TX00587_1,BP00587,2026-05-07,9623723,Vendor 5-1,Travel expense
+TX00587_2,BP00587,2026-05-13,16841516,Vendor 5-2,Travel expense
+TX00587_3,BP00587,2026-05-19,21653380,Vendor 5-3,Travel expense
+TX00588_1,BP00588,2026-05-07,8594544,Vendor 6-1,Training expense
+TX00588_2,BP00588,2026-05-13,15040453,Vendor 6-2,Training expense
+TX00588_3,BP00588,2026-05-19,19337727,Vendor 6-3,Training expense
+TX00589_1,BP00589,2026-05-07,5453322,Vendor 1-1,Personnel expense
+TX00589_2,BP00589,2026-05-13,9543313,Vendor 1-2,Personnel expense
+TX00589_3,BP00589,2026-05-19,12269976,Vendor 1-3,Personnel expense
+TX00590_1,BP00590,2026-05-07,7229970,Vendor 2-1,Software expense
+TX00590_2,BP00590,2026-05-13,12652448,Vendor 2-2,Software expense
+TX00590_3,BP00590,2026-05-19,16267435,Vendor 2-3,Software expense
+TX00591_1,BP00591,2026-05-07,6379156,Vendor 3-1,Infrastructure expense
+TX00591_2,BP00591,2026-05-13,11163524,Vendor 3-2,Infrastructure expense
+TX00591_3,BP00591,2026-05-19,14353103,Vendor 3-3,Infrastructure expense
+TX00592_1,BP00592,2026-05-07,7823093,Vendor 4-1,Professional Services expense
+TX00592_2,BP00592,2026-05-13,13690413,Vendor 4-2,Professional Services expense
+TX00592_3,BP00592,2026-05-19,17601960,Vendor 4-3,Professional Services expense
+TX00593_1,BP00593,2026-05-07,8343995,Vendor 5-1,Travel expense
+TX00593_2,BP00593,2026-05-13,14601992,Vendor 5-2,Travel expense
+TX00593_3,BP00593,2026-05-19,18773992,Vendor 5-3,Travel expense
+TX00594_1,BP00594,2026-05-07,10512157,Vendor 6-1,Training expense
+TX00594_2,BP00594,2026-05-13,18396276,Vendor 6-2,Training expense
+TX00594_3,BP00594,2026-05-19,23652356,Vendor 6-3,Training expense
+TX00595_1,BP00595,2026-05-07,6986631,Vendor 1-1,Personnel expense
+TX00595_2,BP00595,2026-05-13,12226604,Vendor 1-2,Personnel expense
+TX00595_3,BP00595,2026-05-19,15719920,Vendor 1-3,Personnel expense
+TX00596_1,BP00596,2026-05-07,8641785,Vendor 2-1,Software expense
+TX00596_2,BP00596,2026-05-13,15123124,Vendor 2-2,Software expense
+TX00596_3,BP00596,2026-05-19,19444018,Vendor 2-3,Software expense
+TX00597_1,BP00597,2026-05-07,8440296,Vendor 3-1,Infrastructure expense
+TX00597_2,BP00597,2026-05-13,14770518,Vendor 3-2,Infrastructure expense
+TX00597_3,BP00597,2026-05-19,18990668,Vendor 3-3,Infrastructure expense
+TX00598_1,BP00598,2026-05-07,11204508,Vendor 4-1,Professional Services expense
+TX00598_2,BP00598,2026-05-13,19607890,Vendor 4-2,Professional Services expense
+TX00598_3,BP00598,2026-05-19,25210146,Vendor 4-3,Professional Services expense
+TX00599_1,BP00599,2026-05-07,12590908,Vendor 5-1,Travel expense
+TX00599_2,BP00599,2026-05-13,22034089,Vendor 5-2,Travel expense
+TX00599_3,BP00599,2026-05-19,28329543,Vendor 5-3,Travel expense
+TX00600_1,BP00600,2026-05-07,10160033,Vendor 6-1,Training expense
+TX00600_2,BP00600,2026-05-13,17780058,Vendor 6-2,Training expense
+TX00600_3,BP00600,2026-05-19,22860076,Vendor 6-3,Training expense
+TX00601_1,BP00601,2026-05-07,7012270,Vendor 1-1,Personnel expense
+TX00601_2,BP00601,2026-05-13,12271473,Vendor 1-2,Personnel expense
+TX00601_3,BP00601,2026-05-19,15777610,Vendor 1-3,Personnel expense
+TX00602_1,BP00602,2026-05-07,7751655,Vendor 2-1,Software expense
+TX00602_2,BP00602,2026-05-13,13565397,Vendor 2-2,Software expense
+TX00602_3,BP00602,2026-05-19,17441227,Vendor 2-3,Software expense
+TX00603_1,BP00603,2026-05-07,10715840,Vendor 3-1,Infrastructure expense
+TX00603_2,BP00603,2026-05-13,18752720,Vendor 3-2,Infrastructure expense
+TX00603_3,BP00603,2026-05-19,24110640,Vendor 3-3,Infrastructure expense
+TX00604_1,BP00604,2026-05-07,10557092,Vendor 4-1,Professional Services expense
+TX00604_2,BP00604,2026-05-13,18474911,Vendor 4-2,Professional Services expense
+TX00604_3,BP00604,2026-05-19,23753459,Vendor 4-3,Professional Services expense
+TX00605_1,BP00605,2026-05-07,11122503,Vendor 5-1,Travel expense
+TX00605_2,BP00605,2026-05-13,19464380,Vendor 5-2,Travel expense
+TX00605_3,BP00605,2026-05-19,25025633,Vendor 5-3,Travel expense
+TX00606_1,BP00606,2026-05-07,13776831,Vendor 6-1,Training expense
+TX00606_2,BP00606,2026-05-13,24109454,Vendor 6-2,Training expense
+TX00606_3,BP00606,2026-05-19,30997872,Vendor 6-3,Training expense
+TX00607_1,BP00607,2026-05-07,9136553,Vendor 1-1,Personnel expense
+TX00607_2,BP00607,2026-05-13,15988968,Vendor 1-2,Personnel expense
+TX00607_3,BP00607,2026-05-19,20557247,Vendor 1-3,Personnel expense
+TX00608_1,BP00608,2026-05-07,11280940,Vendor 2-1,Software expense
+TX00608_2,BP00608,2026-05-13,19741646,Vendor 2-2,Software expense
+TX00608_3,BP00608,2026-05-19,25382118,Vendor 2-3,Software expense
+TX00609_1,BP00609,2026-05-07,8313978,Vendor 3-1,Infrastructure expense
+TX00609_2,BP00609,2026-05-13,14549462,Vendor 3-2,Infrastructure expense
+TX00609_3,BP00609,2026-05-19,18706453,Vendor 3-3,Infrastructure expense
+TX00610_1,BP00610,2026-05-07,13457610,Vendor 4-1,Professional Services expense
+TX00610_2,BP00610,2026-05-13,23550818,Vendor 4-2,Professional Services expense
+TX00610_3,BP00610,2026-05-19,30279626,Vendor 4-3,Professional Services expense
+TX00611_1,BP00611,2026-05-07,9287982,Vendor 5-1,Travel expense
+TX00611_2,BP00611,2026-05-13,16253969,Vendor 5-2,Travel expense
+TX00611_3,BP00611,2026-05-19,20897962,Vendor 5-3,Travel expense
+TX00612_1,BP00612,2026-05-07,12982947,Vendor 6-1,Training expense
+TX00612_2,BP00612,2026-05-13,22720157,Vendor 6-2,Training expense
+TX00612_3,BP00612,2026-05-19,29211632,Vendor 6-3,Training expense
+TX00613_1,BP00613,2026-06-07,5128587,Vendor 1-1,Personnel expense
+TX00613_2,BP00613,2026-06-13,8975027,Vendor 1-2,Personnel expense
+TX00613_3,BP00613,2026-06-19,11539322,Vendor 1-3,Personnel expense
+TX00614_1,BP00614,2026-06-07,5238210,Vendor 2-1,Software expense
+TX00614_2,BP00614,2026-06-13,9166868,Vendor 2-2,Software expense
+TX00614_3,BP00614,2026-06-19,11785974,Vendor 2-3,Software expense
+TX00615_1,BP00615,2026-06-07,8040959,Vendor 3-1,Infrastructure expense
+TX00615_2,BP00615,2026-06-13,14071679,Vendor 3-2,Infrastructure expense
+TX00615_3,BP00615,2026-06-19,18092161,Vendor 3-3,Infrastructure expense
+TX00616_1,BP00616,2026-06-07,5563379,Vendor 4-1,Professional Services expense
+TX00616_2,BP00616,2026-06-13,9735914,Vendor 4-2,Professional Services expense
+TX00616_3,BP00616,2026-06-19,12517605,Vendor 4-3,Professional Services expense
+TX00617_1,BP00617,2026-06-07,6375921,Vendor 5-1,Travel expense
+TX00617_2,BP00617,2026-06-13,11157862,Vendor 5-2,Travel expense
+TX00617_3,BP00617,2026-06-19,14345825,Vendor 5-3,Travel expense
+TX00618_1,BP00618,2026-06-07,10340943,Vendor 6-1,Training expense
+TX00618_2,BP00618,2026-06-13,18096650,Vendor 6-2,Training expense
+TX00618_3,BP00618,2026-06-19,23267122,Vendor 6-3,Training expense
+TX00619_1,BP00619,2026-06-07,6090560,Vendor 1-1,Personnel expense
+TX00619_2,BP00619,2026-06-13,10658481,Vendor 1-2,Personnel expense
+TX00619_3,BP00619,2026-06-19,13703762,Vendor 1-3,Personnel expense
+TX00620_1,BP00620,2026-06-07,6114116,Vendor 2-1,Software expense
+TX00620_2,BP00620,2026-06-13,10699703,Vendor 2-2,Software expense
+TX00620_3,BP00620,2026-06-19,13756763,Vendor 2-3,Software expense
+TX00621_1,BP00621,2026-06-07,5840171,Vendor 3-1,Infrastructure expense
+TX00621_2,BP00621,2026-06-13,10220299,Vendor 3-2,Infrastructure expense
+TX00621_3,BP00621,2026-06-19,13140386,Vendor 3-3,Infrastructure expense
+TX00622_1,BP00622,2026-06-07,9978543,Vendor 4-1,Professional Services expense
+TX00622_2,BP00622,2026-06-13,17462451,Vendor 4-2,Professional Services expense
+TX00622_3,BP00622,2026-06-19,22451725,Vendor 4-3,Professional Services expense
+TX00623_1,BP00623,2026-06-07,7514149,Vendor 5-1,Travel expense
+TX00623_2,BP00623,2026-06-13,13149760,Vendor 5-2,Travel expense
+TX00623_3,BP00623,2026-06-19,16906836,Vendor 5-3,Travel expense
+TX00624_1,BP00624,2026-06-07,7002133,Vendor 6-1,Training expense
+TX00624_2,BP00624,2026-06-13,12253733,Vendor 6-2,Training expense
+TX00624_3,BP00624,2026-06-19,15754800,Vendor 6-3,Training expense
+TX00625_1,BP00625,2026-06-07,6312031,Vendor 1-1,Personnel expense
+TX00625_2,BP00625,2026-06-13,11046055,Vendor 1-2,Personnel expense
+TX00625_3,BP00625,2026-06-19,14202073,Vendor 1-3,Personnel expense
+TX00626_1,BP00626,2026-06-07,6661641,Vendor 2-1,Software expense
+TX00626_2,BP00626,2026-06-13,11657873,Vendor 2-2,Software expense
+TX00626_3,BP00626,2026-06-19,14988695,Vendor 2-3,Software expense
+TX00627_1,BP00627,2026-06-07,6144870,Vendor 3-1,Infrastructure expense
+TX00627_2,BP00627,2026-06-13,10753522,Vendor 3-2,Infrastructure expense
+TX00627_3,BP00627,2026-06-19,13825958,Vendor 3-3,Infrastructure expense
+TX00628_1,BP00628,2026-06-07,8170039,Vendor 4-1,Professional Services expense
+TX00628_2,BP00628,2026-06-13,14297568,Vendor 4-2,Professional Services expense
+TX00628_3,BP00628,2026-06-19,18382588,Vendor 4-3,Professional Services expense
+TX00629_1,BP00629,2026-06-07,9029105,Vendor 5-1,Travel expense
+TX00629_2,BP00629,2026-06-13,15800934,Vendor 5-2,Travel expense
+TX00629_3,BP00629,2026-06-19,20315488,Vendor 5-3,Travel expense
+TX00630_1,BP00630,2026-06-07,9443817,Vendor 6-1,Training expense
+TX00630_2,BP00630,2026-06-13,16526679,Vendor 6-2,Training expense
+TX00630_3,BP00630,2026-06-19,21248589,Vendor 6-3,Training expense
+TX00631_1,BP00631,2026-06-07,9445448,Vendor 1-1,Personnel expense
+TX00631_2,BP00631,2026-06-13,16529533,Vendor 1-2,Personnel expense
+TX00631_3,BP00631,2026-06-19,21252259,Vendor 1-3,Personnel expense
+TX00632_1,BP00632,2026-06-07,6454098,Vendor 2-1,Software expense
+TX00632_2,BP00632,2026-06-13,11294671,Vendor 2-2,Software expense
+TX00632_3,BP00632,2026-06-19,14521722,Vendor 2-3,Software expense
+TX00633_1,BP00633,2026-06-07,9973885,Vendor 3-1,Infrastructure expense
+TX00633_2,BP00633,2026-06-13,17454299,Vendor 3-2,Infrastructure expense
+TX00633_3,BP00633,2026-06-19,22441244,Vendor 3-3,Infrastructure expense
+TX00634_1,BP00634,2026-06-07,8687404,Vendor 4-1,Professional Services expense
+TX00634_2,BP00634,2026-06-13,15202957,Vendor 4-2,Professional Services expense
+TX00634_3,BP00634,2026-06-19,19546660,Vendor 4-3,Professional Services expense
+TX00635_1,BP00635,2026-06-07,9631301,Vendor 5-1,Travel expense
+TX00635_2,BP00635,2026-06-13,16854778,Vendor 5-2,Travel expense
+TX00635_3,BP00635,2026-06-19,21670430,Vendor 5-3,Travel expense
+TX00636_1,BP00636,2026-06-07,13539057,Vendor 6-1,Training expense
+TX00636_2,BP00636,2026-06-13,23693350,Vendor 6-2,Training expense
+TX00636_3,BP00636,2026-06-19,30462881,Vendor 6-3,Training expense
+TX00637_1,BP00637,2026-06-07,8133334,Vendor 1-1,Personnel expense
+TX00637_2,BP00637,2026-06-13,14233334,Vendor 1-2,Personnel expense
+TX00637_3,BP00637,2026-06-19,18300002,Vendor 1-3,Personnel expense
+TX00638_1,BP00638,2026-06-07,11604319,Vendor 2-1,Software expense
+TX00638_2,BP00638,2026-06-13,20307559,Vendor 2-2,Software expense
+TX00638_3,BP00638,2026-06-19,26109721,Vendor 2-3,Software expense
+TX00639_1,BP00639,2026-06-07,11115555,Vendor 3-1,Infrastructure expense
+TX00639_2,BP00639,2026-06-13,19452221,Vendor 3-2,Infrastructure expense
+TX00639_3,BP00639,2026-06-19,25010000,Vendor 3-3,Infrastructure expense
+TX00640_1,BP00640,2026-06-07,8914301,Vendor 4-1,Professional Services expense
+TX00640_2,BP00640,2026-06-13,15600027,Vendor 4-2,Professional Services expense
+TX00640_3,BP00640,2026-06-19,20057180,Vendor 4-3,Professional Services expense
+TX00641_1,BP00641,2026-06-07,11431837,Vendor 5-1,Travel expense
+TX00641_2,BP00641,2026-06-13,20005715,Vendor 5-2,Travel expense
+TX00641_3,BP00641,2026-06-19,25721634,Vendor 5-3,Travel expense
+TX00642_1,BP00642,2026-06-07,9884324,Vendor 6-1,Training expense
+TX00642_2,BP00642,2026-06-13,17297568,Vendor 6-2,Training expense
+TX00642_3,BP00642,2026-06-19,22239731,Vendor 6-3,Training expense
+TX00643_1,BP00643,2026-06-07,11306307,Vendor 1-1,Personnel expense
+TX00643_2,BP00643,2026-06-13,19786037,Vendor 1-2,Personnel expense
+TX00643_3,BP00643,2026-06-19,25439191,Vendor 1-3,Personnel expense
+TX00644_1,BP00644,2026-06-07,12021609,Vendor 2-1,Software expense
+TX00644_2,BP00644,2026-06-13,21037816,Vendor 2-2,Software expense
+TX00644_3,BP00644,2026-06-19,27048623,Vendor 2-3,Software expense
+TX00645_1,BP00645,2026-06-07,11166820,Vendor 3-1,Infrastructure expense
+TX00645_2,BP00645,2026-06-13,19541936,Vendor 3-2,Infrastructure expense
+TX00645_3,BP00645,2026-06-19,25125348,Vendor 3-3,Infrastructure expense
+TX00646_1,BP00646,2026-06-07,9757557,Vendor 4-1,Professional Services expense
+TX00646_2,BP00646,2026-06-13,17075726,Vendor 4-2,Professional Services expense
+TX00646_3,BP00646,2026-06-19,21954506,Vendor 4-3,Professional Services expense
+TX00647_1,BP00647,2026-06-07,10178864,Vendor 5-1,Travel expense
+TX00647_2,BP00647,2026-06-13,17813012,Vendor 5-2,Travel expense
+TX00647_3,BP00647,2026-06-19,22902444,Vendor 5-3,Travel expense
+TX00648_1,BP00648,2026-06-07,14399859,Vendor 6-1,Training expense
+TX00648_2,BP00648,2026-06-13,25199753,Vendor 6-2,Training expense
+TX00648_3,BP00648,2026-06-19,32399683,Vendor 6-3,Training expense
+TX00649_1,BP00649,2026-07-07,4486641,Vendor 1-1,Personnel expense
+TX00649_2,BP00649,2026-07-13,7851622,Vendor 1-2,Personnel expense
+TX00649_3,BP00649,2026-07-19,10094945,Vendor 1-3,Personnel expense
+TX00650_1,BP00650,2026-07-07,7143614,Vendor 2-1,Software expense
+TX00650_2,BP00650,2026-07-13,12501325,Vendor 2-2,Software expense
+TX00650_3,BP00650,2026-07-19,16073134,Vendor 2-3,Software expense
+TX00651_1,BP00651,2026-07-07,7854378,Vendor 3-1,Infrastructure expense
+TX00651_2,BP00651,2026-07-13,13745162,Vendor 3-2,Infrastructure expense
+TX00651_3,BP00651,2026-07-19,17672354,Vendor 3-3,Infrastructure expense
+TX00652_1,BP00652,2026-07-07,7905770,Vendor 4-1,Professional Services expense
+TX00652_2,BP00652,2026-07-13,13835097,Vendor 4-2,Professional Services expense
+TX00652_3,BP00652,2026-07-19,17787984,Vendor 4-3,Professional Services expense
+TX00653_1,BP00653,2026-07-07,7784824,Vendor 5-1,Travel expense
+TX00653_2,BP00653,2026-07-13,13623443,Vendor 5-2,Travel expense
+TX00653_3,BP00653,2026-07-19,17515857,Vendor 5-3,Travel expense
+TX00654_1,BP00654,2026-07-07,10237755,Vendor 6-1,Training expense
+TX00654_2,BP00654,2026-07-13,17916071,Vendor 6-2,Training expense
+TX00654_3,BP00654,2026-07-19,23034949,Vendor 6-3,Training expense
+TX00655_1,BP00655,2026-07-07,7300911,Vendor 1-1,Personnel expense
+TX00655_2,BP00655,2026-07-13,12776594,Vendor 1-2,Personnel expense
+TX00655_3,BP00655,2026-07-19,16427052,Vendor 1-3,Personnel expense
+TX00656_1,BP00656,2026-07-07,6647235,Vendor 2-1,Software expense
+TX00656_2,BP00656,2026-07-13,11632662,Vendor 2-2,Software expense
+TX00656_3,BP00656,2026-07-19,14956281,Vendor 2-3,Software expense
+TX00657_1,BP00657,2026-07-07,8543439,Vendor 3-1,Infrastructure expense
+TX00657_2,BP00657,2026-07-13,14951018,Vendor 3-2,Infrastructure expense
+TX00657_3,BP00657,2026-07-19,19222738,Vendor 3-3,Infrastructure expense
+TX00658_1,BP00658,2026-07-07,9598298,Vendor 4-1,Professional Services expense
+TX00658_2,BP00658,2026-07-13,16797021,Vendor 4-2,Professional Services expense
+TX00658_3,BP00658,2026-07-19,21596171,Vendor 4-3,Professional Services expense
+TX00659_1,BP00659,2026-07-07,7488648,Vendor 5-1,Travel expense
+TX00659_2,BP00659,2026-07-13,13105135,Vendor 5-2,Travel expense
+TX00659_3,BP00659,2026-07-19,16849461,Vendor 5-3,Travel expense
+TX00660_1,BP00660,2026-07-07,9636148,Vendor 6-1,Training expense
+TX00660_2,BP00660,2026-07-13,16863259,Vendor 6-2,Training expense
+TX00660_3,BP00660,2026-07-19,21681333,Vendor 6-3,Training expense
+TX00661_1,BP00661,2026-07-07,5648811,Vendor 1-1,Personnel expense
+TX00661_2,BP00661,2026-07-13,9885419,Vendor 1-2,Personnel expense
+TX00661_3,BP00661,2026-07-19,12709826,Vendor 1-3,Personnel expense
+TX00662_1,BP00662,2026-07-07,6636806,Vendor 2-1,Software expense
+TX00662_2,BP00662,2026-07-13,11614411,Vendor 2-2,Software expense
+TX00662_3,BP00662,2026-07-19,14932816,Vendor 2-3,Software expense
+TX00663_1,BP00663,2026-07-07,6592325,Vendor 3-1,Infrastructure expense
+TX00663_2,BP00663,2026-07-13,11536569,Vendor 3-2,Infrastructure expense
+TX00663_3,BP00663,2026-07-19,14832732,Vendor 3-3,Infrastructure expense
+TX00664_1,BP00664,2026-07-07,8178877,Vendor 4-1,Professional Services expense
+TX00664_2,BP00664,2026-07-13,14313035,Vendor 4-2,Professional Services expense
+TX00664_3,BP00664,2026-07-19,18402475,Vendor 4-3,Professional Services expense
+TX00665_1,BP00665,2026-07-07,8246223,Vendor 5-1,Travel expense
+TX00665_2,BP00665,2026-07-13,14430891,Vendor 5-2,Travel expense
+TX00665_3,BP00665,2026-07-19,18554005,Vendor 5-3,Travel expense
+TX00666_1,BP00666,2026-07-07,9960346,Vendor 6-1,Training expense
+TX00666_2,BP00666,2026-07-13,17430605,Vendor 6-2,Training expense
+TX00666_3,BP00666,2026-07-19,22410780,Vendor 6-3,Training expense
+TX00667_1,BP00667,2026-07-07,6355678,Vendor 1-1,Personnel expense
+TX00667_2,BP00667,2026-07-13,11122437,Vendor 1-2,Personnel expense
+TX00667_3,BP00667,2026-07-19,14300279,Vendor 1-3,Personnel expense
+TX00668_1,BP00668,2026-07-07,8223307,Vendor 2-1,Software expense
+TX00668_2,BP00668,2026-07-13,14390787,Vendor 2-2,Software expense
+TX00668_3,BP00668,2026-07-19,18502441,Vendor 2-3,Software expense
+TX00669_1,BP00669,2026-07-07,7161933,Vendor 3-1,Infrastructure expense
+TX00669_2,BP00669,2026-07-13,12533382,Vendor 3-2,Infrastructure expense
+TX00669_3,BP00669,2026-07-19,16114350,Vendor 3-3,Infrastructure expense
+TX00670_1,BP00670,2026-07-07,10160519,Vendor 4-1,Professional Services expense
+TX00670_2,BP00670,2026-07-13,17780908,Vendor 4-2,Professional Services expense
+TX00670_3,BP00670,2026-07-19,22861168,Vendor 4-3,Professional Services expense
+TX00671_1,BP00671,2026-07-07,11774352,Vendor 5-1,Travel expense
+TX00671_2,BP00671,2026-07-13,20605116,Vendor 5-2,Travel expense
+TX00671_3,BP00671,2026-07-19,26492294,Vendor 5-3,Travel expense
+TX00672_1,BP00672,2026-07-07,9417741,Vendor 6-1,Training expense
+TX00672_2,BP00672,2026-07-13,16481046,Vendor 6-2,Training expense
+TX00672_3,BP00672,2026-07-19,21189918,Vendor 6-3,Training expense
+TX00673_1,BP00673,2026-07-07,7550582,Vendor 1-1,Personnel expense
+TX00673_2,BP00673,2026-07-13,13213519,Vendor 1-2,Personnel expense
+TX00673_3,BP00673,2026-07-19,16988811,Vendor 1-3,Personnel expense
+TX00674_1,BP00674,2026-07-07,10902468,Vendor 2-1,Software expense
+TX00674_2,BP00674,2026-07-13,19079319,Vendor 2-2,Software expense
+TX00674_3,BP00674,2026-07-19,24530554,Vendor 2-3,Software expense
+TX00675_1,BP00675,2026-07-07,10414251,Vendor 3-1,Infrastructure expense
+TX00675_2,BP00675,2026-07-13,18224940,Vendor 3-2,Infrastructure expense
+TX00675_3,BP00675,2026-07-19,23432067,Vendor 3-3,Infrastructure expense
+TX00676_1,BP00676,2026-07-07,9721082,Vendor 4-1,Professional Services expense
+TX00676_2,BP00676,2026-07-13,17011893,Vendor 4-2,Professional Services expense
+TX00676_3,BP00676,2026-07-19,21872436,Vendor 4-3,Professional Services expense
+TX00677_1,BP00677,2026-07-07,10073032,Vendor 5-1,Travel expense
+TX00677_2,BP00677,2026-07-13,17627806,Vendor 5-2,Travel expense
+TX00677_3,BP00677,2026-07-19,22664322,Vendor 5-3,Travel expense
+TX00678_1,BP00678,2026-07-07,13156738,Vendor 6-1,Training expense
+TX00678_2,BP00678,2026-07-13,23024291,Vendor 6-2,Training expense
+TX00678_3,BP00678,2026-07-19,29602662,Vendor 6-3,Training expense
+TX00679_1,BP00679,2026-07-07,10300428,Vendor 1-1,Personnel expense
+TX00679_2,BP00679,2026-07-13,18025749,Vendor 1-2,Personnel expense
+TX00679_3,BP00679,2026-07-19,23175964,Vendor 1-3,Personnel expense
+TX00680_1,BP00680,2026-07-07,11094115,Vendor 2-1,Software expense
+TX00680_2,BP00680,2026-07-13,19414701,Vendor 2-2,Software expense
+TX00680_3,BP00680,2026-07-19,24961759,Vendor 2-3,Software expense
+TX00681_1,BP00681,2026-07-07,7919509,Vendor 3-1,Infrastructure expense
+TX00681_2,BP00681,2026-07-13,13859141,Vendor 3-2,Infrastructure expense
+TX00681_3,BP00681,2026-07-19,17818896,Vendor 3-3,Infrastructure expense
+TX00682_1,BP00682,2026-07-07,12627350,Vendor 4-1,Professional Services expense
+TX00682_2,BP00682,2026-07-13,22097863,Vendor 4-2,Professional Services expense
+TX00682_3,BP00682,2026-07-19,28411541,Vendor 4-3,Professional Services expense
+TX00683_1,BP00683,2026-07-07,10457146,Vendor 5-1,Travel expense
+TX00683_2,BP00683,2026-07-13,18300006,Vendor 5-2,Travel expense
+TX00683_3,BP00683,2026-07-19,23528582,Vendor 5-3,Travel expense
+TX00684_1,BP00684,2026-07-07,12564252,Vendor 6-1,Training expense
+TX00684_2,BP00684,2026-07-13,21987441,Vendor 6-2,Training expense
+TX00684_3,BP00684,2026-07-19,28269568,Vendor 6-3,Training expense
+TX00685_1,BP00685,2026-08-07,6833089,Vendor 1-1,Personnel expense
+TX00685_2,BP00685,2026-08-13,11957907,Vendor 1-2,Personnel expense
+TX00685_3,BP00685,2026-08-19,15374453,Vendor 1-3,Personnel expense
+TX00686_1,BP00686,2026-08-07,5231068,Vendor 2-1,Software expense
+TX00686_2,BP00686,2026-08-13,9154370,Vendor 2-2,Software expense
+TX00686_3,BP00686,2026-08-19,11769905,Vendor 2-3,Software expense
+TX00687_1,BP00687,2026-08-07,6469030,Vendor 3-1,Infrastructure expense
+TX00687_2,BP00687,2026-08-13,11320802,Vendor 3-2,Infrastructure expense
+TX00687_3,BP00687,2026-08-19,14555319,Vendor 3-3,Infrastructure expense
+TX00688_1,BP00688,2026-08-07,5165612,Vendor 4-1,Professional Services expense
+TX00688_2,BP00688,2026-08-13,9039821,Vendor 4-2,Professional Services expense
+TX00688_3,BP00688,2026-08-19,11622628,Vendor 4-3,Professional Services expense
+TX00689_1,BP00689,2026-08-07,6727269,Vendor 5-1,Travel expense
+TX00689_2,BP00689,2026-08-13,11772721,Vendor 5-2,Travel expense
+TX00689_3,BP00689,2026-08-19,15136356,Vendor 5-3,Travel expense
+TX00690_1,BP00690,2026-08-07,6860399,Vendor 6-1,Training expense
+TX00690_2,BP00690,2026-08-13,12005699,Vendor 6-2,Training expense
+TX00690_3,BP00690,2026-08-19,15435901,Vendor 6-3,Training expense
+TX00691_1,BP00691,2026-08-07,7412642,Vendor 1-1,Personnel expense
+TX00691_2,BP00691,2026-08-13,12972124,Vendor 1-2,Personnel expense
+TX00691_3,BP00691,2026-08-19,16678448,Vendor 1-3,Personnel expense
+TX00692_1,BP00692,2026-08-07,6791986,Vendor 2-1,Software expense
+TX00692_2,BP00692,2026-08-13,11885976,Vendor 2-2,Software expense
+TX00692_3,BP00692,2026-08-19,15281970,Vendor 2-3,Software expense
+TX00693_1,BP00693,2026-08-07,5804014,Vendor 3-1,Infrastructure expense
+TX00693_2,BP00693,2026-08-13,10157024,Vendor 3-2,Infrastructure expense
+TX00693_3,BP00693,2026-08-19,13059032,Vendor 3-3,Infrastructure expense
+TX00694_1,BP00694,2026-08-07,6118871,Vendor 4-1,Professional Services expense
+TX00694_2,BP00694,2026-08-13,10708025,Vendor 4-2,Professional Services expense
+TX00694_3,BP00694,2026-08-19,13767463,Vendor 4-3,Professional Services expense
+TX00695_1,BP00695,2026-08-07,9088604,Vendor 5-1,Travel expense
+TX00695_2,BP00695,2026-08-13,15905056,Vendor 5-2,Travel expense
+TX00695_3,BP00695,2026-08-19,20449360,Vendor 5-3,Travel expense
+TX00696_1,BP00696,2026-08-07,9853578,Vendor 6-1,Training expense
+TX00696_2,BP00696,2026-08-13,17243762,Vendor 6-2,Training expense
+TX00696_3,BP00696,2026-08-19,22170553,Vendor 6-3,Training expense
+TX00697_1,BP00697,2026-08-07,5638455,Vendor 1-1,Personnel expense
+TX00697_2,BP00697,2026-08-13,9867296,Vendor 1-2,Personnel expense
+TX00697_3,BP00697,2026-08-19,12686526,Vendor 1-3,Personnel expense
+TX00698_1,BP00698,2026-08-07,9466259,Vendor 2-1,Software expense
+TX00698_2,BP00698,2026-08-13,16565953,Vendor 2-2,Software expense
+TX00698_3,BP00698,2026-08-19,21299084,Vendor 2-3,Software expense
+TX00699_1,BP00699,2026-08-07,8682192,Vendor 3-1,Infrastructure expense
+TX00699_2,BP00699,2026-08-13,15193836,Vendor 3-2,Infrastructure expense
+TX00699_3,BP00699,2026-08-19,19534933,Vendor 3-3,Infrastructure expense
+TX00700_1,BP00700,2026-08-07,8555748,Vendor 4-1,Professional Services expense
+TX00700_2,BP00700,2026-08-13,14972560,Vendor 4-2,Professional Services expense
+TX00700_3,BP00700,2026-08-19,19250435,Vendor 4-3,Professional Services expense
+TX00701_1,BP00701,2026-08-07,9640387,Vendor 5-1,Travel expense
+TX00701_2,BP00701,2026-08-13,16870677,Vendor 5-2,Travel expense
+TX00701_3,BP00701,2026-08-19,21690872,Vendor 5-3,Travel expense
+TX00702_1,BP00702,2026-08-07,10133686,Vendor 6-1,Training expense
+TX00702_2,BP00702,2026-08-13,17733950,Vendor 6-2,Training expense
+TX00702_3,BP00702,2026-08-19,22800794,Vendor 6-3,Training expense
+TX00703_1,BP00703,2026-08-07,6086810,Vendor 1-1,Personnel expense
+TX00703_2,BP00703,2026-08-13,10651918,Vendor 1-2,Personnel expense
+TX00703_3,BP00703,2026-08-19,13695324,Vendor 1-3,Personnel expense
+TX00704_1,BP00704,2026-08-07,6502874,Vendor 2-1,Software expense
+TX00704_2,BP00704,2026-08-13,11380030,Vendor 2-2,Software expense
+TX00704_3,BP00704,2026-08-19,14631470,Vendor 2-3,Software expense
+TX00705_1,BP00705,2026-08-07,7328306,Vendor 3-1,Infrastructure expense
+TX00705_2,BP00705,2026-08-13,12824536,Vendor 3-2,Infrastructure expense
+TX00705_3,BP00705,2026-08-19,16488692,Vendor 3-3,Infrastructure expense
+TX00706_1,BP00706,2026-08-07,7716119,Vendor 4-1,Professional Services expense
+TX00706_2,BP00706,2026-08-13,13503208,Vendor 4-2,Professional Services expense
+TX00706_3,BP00706,2026-08-19,17361270,Vendor 4-3,Professional Services expense
+TX00707_1,BP00707,2026-08-07,9774159,Vendor 5-1,Travel expense
+TX00707_2,BP00707,2026-08-13,17104778,Vendor 5-2,Travel expense
+TX00707_3,BP00707,2026-08-19,21991859,Vendor 5-3,Travel expense
+TX00708_1,BP00708,2026-08-07,13319923,Vendor 6-1,Training expense
+TX00708_2,BP00708,2026-08-13,23309865,Vendor 6-2,Training expense
+TX00708_3,BP00708,2026-08-19,29969829,Vendor 6-3,Training expense
+TX00709_1,BP00709,2026-08-07,7610438,Vendor 1-1,Personnel expense
+TX00709_2,BP00709,2026-08-13,13318267,Vendor 1-2,Personnel expense
+TX00709_3,BP00709,2026-08-19,17123488,Vendor 1-3,Personnel expense
+TX00710_1,BP00710,2026-08-07,11511549,Vendor 2-1,Software expense
+TX00710_2,BP00710,2026-08-13,20145212,Vendor 2-2,Software expense
+TX00710_3,BP00710,2026-08-19,25900988,Vendor 2-3,Software expense
+TX00711_1,BP00711,2026-08-07,10746504,Vendor 3-1,Infrastructure expense
+TX00711_2,BP00711,2026-08-13,18806383,Vendor 3-2,Infrastructure expense
+TX00711_3,BP00711,2026-08-19,24179637,Vendor 3-3,Infrastructure expense
+TX00712_1,BP00712,2026-08-07,10087115,Vendor 4-1,Professional Services expense
+TX00712_2,BP00712,2026-08-13,17652452,Vendor 4-2,Professional Services expense
+TX00712_3,BP00712,2026-08-19,22696012,Vendor 4-3,Professional Services expense
+TX00713_1,BP00713,2026-08-07,10788371,Vendor 5-1,Travel expense
+TX00713_2,BP00713,2026-08-13,18879650,Vendor 5-2,Travel expense
+TX00713_3,BP00713,2026-08-19,24273837,Vendor 5-3,Travel expense
+TX00714_1,BP00714,2026-08-07,12335436,Vendor 6-1,Training expense
+TX00714_2,BP00714,2026-08-13,21587013,Vendor 6-2,Training expense
+TX00714_3,BP00714,2026-08-19,27754733,Vendor 6-3,Training expense
+TX00715_1,BP00715,2026-08-07,7013155,Vendor 1-1,Personnel expense
+TX00715_2,BP00715,2026-08-13,12273022,Vendor 1-2,Personnel expense
+TX00715_3,BP00715,2026-08-19,15779601,Vendor 1-3,Personnel expense
+TX00716_1,BP00716,2026-08-07,8518200,Vendor 2-1,Software expense
+TX00716_2,BP00716,2026-08-13,14906850,Vendor 2-2,Software expense
+TX00716_3,BP00716,2026-08-19,19165951,Vendor 2-3,Software expense
+TX00717_1,BP00717,2026-08-07,8755149,Vendor 3-1,Infrastructure expense
+TX00717_2,BP00717,2026-08-13,15321511,Vendor 3-2,Infrastructure expense
+TX00717_3,BP00717,2026-08-19,19699087,Vendor 3-3,Infrastructure expense
+TX00718_1,BP00718,2026-08-07,11382399,Vendor 4-1,Professional Services expense
+TX00718_2,BP00718,2026-08-13,19919199,Vendor 4-2,Professional Services expense
+TX00718_3,BP00718,2026-08-19,25610400,Vendor 4-3,Professional Services expense
+TX00719_1,BP00719,2026-08-07,13771113,Vendor 5-1,Travel expense
+TX00719_2,BP00719,2026-08-13,24099447,Vendor 5-2,Travel expense
+TX00719_3,BP00719,2026-08-19,30985005,Vendor 5-3,Travel expense
+TX00720_1,BP00720,2026-08-07,13660777,Vendor 6-1,Training expense
+TX00720_2,BP00720,2026-08-13,23906360,Vendor 6-2,Training expense
+TX00720_3,BP00720,2026-08-19,30736749,Vendor 6-3,Training expense
+TX00721_1,BP00721,2026-09-07,4889742,Vendor 1-1,Personnel expense
+TX00721_2,BP00721,2026-09-13,8557048,Vendor 1-2,Personnel expense
+TX00721_3,BP00721,2026-09-19,11001921,Vendor 1-3,Personnel expense
+TX00722_1,BP00722,2026-09-07,5938477,Vendor 2-1,Software expense
+TX00722_2,BP00722,2026-09-13,10392335,Vendor 2-2,Software expense
+TX00722_3,BP00722,2026-09-19,13361576,Vendor 2-3,Software expense
+TX00723_1,BP00723,2026-09-07,6964593,Vendor 3-1,Infrastructure expense
+TX00723_2,BP00723,2026-09-13,12188038,Vendor 3-2,Infrastructure expense
+TX00723_3,BP00723,2026-09-19,15670335,Vendor 3-3,Infrastructure expense
+TX00724_1,BP00724,2026-09-07,6586776,Vendor 4-1,Professional Services expense
+TX00724_2,BP00724,2026-09-13,11526858,Vendor 4-2,Professional Services expense
+TX00724_3,BP00724,2026-09-19,14820248,Vendor 4-3,Professional Services expense
+TX00725_1,BP00725,2026-09-07,8405782,Vendor 5-1,Travel expense
+TX00725_2,BP00725,2026-09-13,14710119,Vendor 5-2,Travel expense
+TX00725_3,BP00725,2026-09-19,18913013,Vendor 5-3,Travel expense
+TX00726_1,BP00726,2026-09-07,6163056,Vendor 6-1,Training expense
+TX00726_2,BP00726,2026-09-13,10785349,Vendor 6-2,Training expense
+TX00726_3,BP00726,2026-09-19,13866878,Vendor 6-3,Training expense
+TX00727_1,BP00727,2026-09-07,5511198,Vendor 1-1,Personnel expense
+TX00727_2,BP00727,2026-09-13,9644597,Vendor 1-2,Personnel expense
+TX00727_3,BP00727,2026-09-19,12400199,Vendor 1-3,Personnel expense
+TX00728_1,BP00728,2026-09-07,5220121,Vendor 2-1,Software expense
+TX00728_2,BP00728,2026-09-13,9135213,Vendor 2-2,Software expense
+TX00728_3,BP00728,2026-09-19,11745275,Vendor 2-3,Software expense
+TX00729_1,BP00729,2026-09-07,8577088,Vendor 3-1,Infrastructure expense
+TX00729_2,BP00729,2026-09-13,15009903,Vendor 3-2,Infrastructure expense
+TX00729_3,BP00729,2026-09-19,19298449,Vendor 3-3,Infrastructure expense
+TX00730_1,BP00730,2026-09-07,6787835,Vendor 4-1,Professional Services expense
+TX00730_2,BP00730,2026-09-13,11878711,Vendor 4-2,Professional Services expense
+TX00730_3,BP00730,2026-09-19,15272631,Vendor 4-3,Professional Services expense
+TX00731_1,BP00731,2026-09-07,10590692,Vendor 5-1,Travel expense
+TX00731_2,BP00731,2026-09-13,18533711,Vendor 5-2,Travel expense
+TX00731_3,BP00731,2026-09-19,23829058,Vendor 5-3,Travel expense
+TX00732_1,BP00732,2026-09-07,10611734,Vendor 6-1,Training expense
+TX00732_2,BP00732,2026-09-13,18570535,Vendor 6-2,Training expense
+TX00732_3,BP00732,2026-09-19,23876403,Vendor 6-3,Training expense
+TX00733_1,BP00733,2026-09-07,7621165,Vendor 1-1,Personnel expense
+TX00733_2,BP00733,2026-09-13,13337039,Vendor 1-2,Personnel expense
+TX00733_3,BP00733,2026-09-19,17147624,Vendor 1-3,Personnel expense
+TX00734_1,BP00734,2026-09-07,8174922,Vendor 2-1,Software expense
+TX00734_2,BP00734,2026-09-13,14306114,Vendor 2-2,Software expense
+TX00734_3,BP00734,2026-09-19,18393576,Vendor 2-3,Software expense
+TX00735_1,BP00735,2026-09-07,8521680,Vendor 3-1,Infrastructure expense
+TX00735_2,BP00735,2026-09-13,14912940,Vendor 3-2,Infrastructure expense
+TX00735_3,BP00735,2026-09-19,19173782,Vendor 3-3,Infrastructure expense
+TX00736_1,BP00736,2026-09-07,10776097,Vendor 4-1,Professional Services expense
+TX00736_2,BP00736,2026-09-13,18858170,Vendor 4-2,Professional Services expense
+TX00736_3,BP00736,2026-09-19,24246220,Vendor 4-3,Professional Services expense
+TX00737_1,BP00737,2026-09-07,11202737,Vendor 5-1,Travel expense
+TX00737_2,BP00737,2026-09-13,19604790,Vendor 5-2,Travel expense
+TX00737_3,BP00737,2026-09-19,25206161,Vendor 5-3,Travel expense
+TX00738_1,BP00738,2026-09-07,11238540,Vendor 6-1,Training expense
+TX00738_2,BP00738,2026-09-13,19667445,Vendor 6-2,Training expense
+TX00738_3,BP00738,2026-09-19,25286715,Vendor 6-3,Training expense
+TX00739_1,BP00739,2026-09-07,6186699,Vendor 1-1,Personnel expense
+TX00739_2,BP00739,2026-09-13,10826723,Vendor 1-2,Personnel expense
+TX00739_3,BP00739,2026-09-19,13920073,Vendor 1-3,Personnel expense
+TX00740_1,BP00740,2026-09-07,10230740,Vendor 2-1,Software expense
+TX00740_2,BP00740,2026-09-13,17903795,Vendor 2-2,Software expense
+TX00740_3,BP00740,2026-09-19,23019167,Vendor 2-3,Software expense
+TX00741_1,BP00741,2026-09-07,6465530,Vendor 3-1,Infrastructure expense
+TX00741_2,BP00741,2026-09-13,11314677,Vendor 3-2,Infrastructure expense
+TX00741_3,BP00741,2026-09-19,14547443,Vendor 3-3,Infrastructure expense
+TX00742_1,BP00742,2026-09-07,10176923,Vendor 4-1,Professional Services expense
+TX00742_2,BP00742,2026-09-13,17809615,Vendor 4-2,Professional Services expense
+TX00742_3,BP00742,2026-09-19,22898077,Vendor 4-3,Professional Services expense
+TX00743_1,BP00743,2026-09-07,11170409,Vendor 5-1,Travel expense
+TX00743_2,BP00743,2026-09-13,19548216,Vendor 5-2,Travel expense
+TX00743_3,BP00743,2026-09-19,25133422,Vendor 5-3,Travel expense
+TX00744_1,BP00744,2026-09-07,12240810,Vendor 6-1,Training expense
+TX00744_2,BP00744,2026-09-13,21421418,Vendor 6-2,Training expense
+TX00744_3,BP00744,2026-09-19,27541825,Vendor 6-3,Training expense
+TX00745_1,BP00745,2026-09-07,8845331,Vendor 1-1,Personnel expense
+TX00745_2,BP00745,2026-09-13,15479330,Vendor 1-2,Personnel expense
+TX00745_3,BP00745,2026-09-19,19901998,Vendor 1-3,Personnel expense
+TX00746_1,BP00746,2026-09-07,7180537,Vendor 2-1,Software expense
+TX00746_2,BP00746,2026-09-13,12565940,Vendor 2-2,Software expense
+TX00746_3,BP00746,2026-09-19,16156211,Vendor 2-3,Software expense
+TX00747_1,BP00747,2026-09-07,11648780,Vendor 3-1,Infrastructure expense
+TX00747_2,BP00747,2026-09-13,20385366,Vendor 3-2,Infrastructure expense
+TX00747_3,BP00747,2026-09-19,26209758,Vendor 3-3,Infrastructure expense
+TX00748_1,BP00748,2026-09-07,7718362,Vendor 4-1,Professional Services expense
+TX00748_2,BP00748,2026-09-13,13507134,Vendor 4-2,Professional Services expense
+TX00748_3,BP00748,2026-09-19,17366316,Vendor 4-3,Professional Services expense
+TX00749_1,BP00749,2026-09-07,12220969,Vendor 5-1,Travel expense
+TX00749_2,BP00749,2026-09-13,21386696,Vendor 5-2,Travel expense
+TX00749_3,BP00749,2026-09-19,27497181,Vendor 5-3,Travel expense
+TX00750_1,BP00750,2026-09-07,14291388,Vendor 6-1,Training expense
+TX00750_2,BP00750,2026-09-13,25009929,Vendor 6-2,Training expense
+TX00750_3,BP00750,2026-09-19,32155625,Vendor 6-3,Training expense
+TX00751_1,BP00751,2026-09-07,8090853,Vendor 1-1,Personnel expense
+TX00751_2,BP00751,2026-09-13,14158994,Vendor 1-2,Personnel expense
+TX00751_3,BP00751,2026-09-19,18204422,Vendor 1-3,Personnel expense
+TX00752_1,BP00752,2026-09-07,8703125,Vendor 2-1,Software expense
+TX00752_2,BP00752,2026-09-13,15230469,Vendor 2-2,Software expense
+TX00752_3,BP00752,2026-09-19,19582033,Vendor 2-3,Software expense
+TX00753_1,BP00753,2026-09-07,8241531,Vendor 3-1,Infrastructure expense
+TX00753_2,BP00753,2026-09-13,14422680,Vendor 3-2,Infrastructure expense
+TX00753_3,BP00753,2026-09-19,18543447,Vendor 3-3,Infrastructure expense
+TX00754_1,BP00754,2026-09-07,11355992,Vendor 4-1,Professional Services expense
+TX00754_2,BP00754,2026-09-13,19872986,Vendor 4-2,Professional Services expense
+TX00754_3,BP00754,2026-09-19,25550983,Vendor 4-3,Professional Services expense
+TX00755_1,BP00755,2026-09-07,9002296,Vendor 5-1,Travel expense
+TX00755_2,BP00755,2026-09-13,15754019,Vendor 5-2,Travel expense
+TX00755_3,BP00755,2026-09-19,20255169,Vendor 5-3,Travel expense
+TX00756_1,BP00756,2026-09-07,12167793,Vendor 6-1,Training expense
+TX00756_2,BP00756,2026-09-13,21293637,Vendor 6-2,Training expense
+TX00756_3,BP00756,2026-09-19,27377535,Vendor 6-3,Training expense
+TX00757_1,BP00757,2026-10-07,6295586,Vendor 1-1,Personnel expense
+TX00757_2,BP00757,2026-10-13,11017275,Vendor 1-2,Personnel expense
+TX00757_3,BP00757,2026-10-19,14165070,Vendor 1-3,Personnel expense
+TX00758_1,BP00758,2026-10-07,5615865,Vendor 2-1,Software expense
+TX00758_2,BP00758,2026-10-13,9827765,Vendor 2-2,Software expense
+TX00758_3,BP00758,2026-10-19,12635699,Vendor 2-3,Software expense
+TX00759_1,BP00759,2026-10-07,6913427,Vendor 3-1,Infrastructure expense
+TX00759_2,BP00759,2026-10-13,12098497,Vendor 3-2,Infrastructure expense
+TX00759_3,BP00759,2026-10-19,15555211,Vendor 3-3,Infrastructure expense
+TX00760_1,BP00760,2026-10-07,6541023,Vendor 4-1,Professional Services expense
+TX00760_2,BP00760,2026-10-13,11446790,Vendor 4-2,Professional Services expense
+TX00760_3,BP00760,2026-10-19,14717304,Vendor 4-3,Professional Services expense
+TX00761_1,BP00761,2026-10-07,8127926,Vendor 5-1,Travel expense
+TX00761_2,BP00761,2026-10-13,14223871,Vendor 5-2,Travel expense
+TX00761_3,BP00761,2026-10-19,18287836,Vendor 5-3,Travel expense
+TX00762_1,BP00762,2026-10-07,7672360,Vendor 6-1,Training expense
+TX00762_2,BP00762,2026-10-13,13426631,Vendor 6-2,Training expense
+TX00762_3,BP00762,2026-10-19,17262813,Vendor 6-3,Training expense
+TX00763_1,BP00763,2026-10-07,6896707,Vendor 1-1,Personnel expense
+TX00763_2,BP00763,2026-10-13,12069237,Vendor 1-2,Personnel expense
+TX00763_3,BP00763,2026-10-19,15517593,Vendor 1-3,Personnel expense
+TX00764_1,BP00764,2026-10-07,6194962,Vendor 2-1,Software expense
+TX00764_2,BP00764,2026-10-13,10841183,Vendor 2-2,Software expense
+TX00764_3,BP00764,2026-10-19,13938666,Vendor 2-3,Software expense
+TX00765_1,BP00765,2026-10-07,7698184,Vendor 3-1,Infrastructure expense
+TX00765_2,BP00765,2026-10-13,13471822,Vendor 3-2,Infrastructure expense
+TX00765_3,BP00765,2026-10-19,17320915,Vendor 3-3,Infrastructure expense
+TX00766_1,BP00766,2026-10-07,8698194,Vendor 4-1,Professional Services expense
+TX00766_2,BP00766,2026-10-13,15221839,Vendor 4-2,Professional Services expense
+TX00766_3,BP00766,2026-10-19,19570937,Vendor 4-3,Professional Services expense
+TX00767_1,BP00767,2026-10-07,8762354,Vendor 5-1,Travel expense
+TX00767_2,BP00767,2026-10-13,15334120,Vendor 5-2,Travel expense
+TX00767_3,BP00767,2026-10-19,19715299,Vendor 5-3,Travel expense
+TX00768_1,BP00768,2026-10-07,7459438,Vendor 6-1,Training expense
+TX00768_2,BP00768,2026-10-13,13054017,Vendor 6-2,Training expense
+TX00768_3,BP00768,2026-10-19,16783738,Vendor 6-3,Training expense
+TX00769_1,BP00769,2026-10-07,8766508,Vendor 1-1,Personnel expense
+TX00769_2,BP00769,2026-10-13,15341390,Vendor 1-2,Personnel expense
+TX00769_3,BP00769,2026-10-19,19724645,Vendor 1-3,Personnel expense
+TX00770_1,BP00770,2026-10-07,6545592,Vendor 2-1,Software expense
+TX00770_2,BP00770,2026-10-13,11454786,Vendor 2-2,Software expense
+TX00770_3,BP00770,2026-10-19,14727584,Vendor 2-3,Software expense
+TX00771_1,BP00771,2026-10-07,6324014,Vendor 3-1,Infrastructure expense
+TX00771_2,BP00771,2026-10-13,11067025,Vendor 3-2,Infrastructure expense
+TX00771_3,BP00771,2026-10-19,14229035,Vendor 3-3,Infrastructure expense
+TX00772_1,BP00772,2026-10-07,7639949,Vendor 4-1,Professional Services expense
+TX00772_2,BP00772,2026-10-13,13369912,Vendor 4-2,Professional Services expense
+TX00772_3,BP00772,2026-10-19,17189888,Vendor 4-3,Professional Services expense
+TX00773_1,BP00773,2026-10-07,11379484,Vendor 5-1,Travel expense
+TX00773_2,BP00773,2026-10-13,19914098,Vendor 5-2,Travel expense
+TX00773_3,BP00773,2026-10-19,25603841,Vendor 5-3,Travel expense
+TX00774_1,BP00774,2026-10-07,7621400,Vendor 6-1,Training expense
+TX00774_2,BP00774,2026-10-13,13337450,Vendor 6-2,Training expense
+TX00774_3,BP00774,2026-10-19,17148150,Vendor 6-3,Training expense
+TX00775_1,BP00775,2026-10-07,6137235,Vendor 1-1,Personnel expense
+TX00775_2,BP00775,2026-10-13,10740161,Vendor 1-2,Personnel expense
+TX00775_3,BP00775,2026-10-19,13808781,Vendor 1-3,Personnel expense
+TX00776_1,BP00776,2026-10-07,7166420,Vendor 2-1,Software expense
+TX00776_2,BP00776,2026-10-13,12541235,Vendor 2-2,Software expense
+TX00776_3,BP00776,2026-10-19,16124447,Vendor 2-3,Software expense
+TX00777_1,BP00777,2026-10-07,10689273,Vendor 3-1,Infrastructure expense
+TX00777_2,BP00777,2026-10-13,18706228,Vendor 3-2,Infrastructure expense
+TX00777_3,BP00777,2026-10-19,24050867,Vendor 3-3,Infrastructure expense
+TX00778_1,BP00778,2026-10-07,7496776,Vendor 4-1,Professional Services expense
+TX00778_2,BP00778,2026-10-13,13119358,Vendor 4-2,Professional Services expense
+TX00778_3,BP00778,2026-10-19,16867747,Vendor 4-3,Professional Services expense
+TX00779_1,BP00779,2026-10-07,10929043,Vendor 5-1,Travel expense
+TX00779_2,BP00779,2026-10-13,19125826,Vendor 5-2,Travel expense
+TX00779_3,BP00779,2026-10-19,24590349,Vendor 5-3,Travel expense
+TX00780_1,BP00780,2026-10-07,12622668,Vendor 6-1,Training expense
+TX00780_2,BP00780,2026-10-13,22089669,Vendor 6-2,Training expense
+TX00780_3,BP00780,2026-10-19,28401004,Vendor 6-3,Training expense
+TX00781_1,BP00781,2026-10-07,6871828,Vendor 1-1,Personnel expense
+TX00781_2,BP00781,2026-10-13,12025700,Vendor 1-2,Personnel expense
+TX00781_3,BP00781,2026-10-19,15461615,Vendor 1-3,Personnel expense
+TX00782_1,BP00782,2026-10-07,10008490,Vendor 2-1,Software expense
+TX00782_2,BP00782,2026-10-13,17514858,Vendor 2-2,Software expense
+TX00782_3,BP00782,2026-10-19,22519106,Vendor 2-3,Software expense
+TX00783_1,BP00783,2026-10-07,11032144,Vendor 3-1,Infrastructure expense
+TX00783_2,BP00783,2026-10-13,19306252,Vendor 3-2,Infrastructure expense
+TX00783_3,BP00783,2026-10-19,24822324,Vendor 3-3,Infrastructure expense
+TX00784_1,BP00784,2026-10-07,10801151,Vendor 4-1,Professional Services expense
+TX00784_2,BP00784,2026-10-13,18902014,Vendor 4-2,Professional Services expense
+TX00784_3,BP00784,2026-10-19,24302590,Vendor 4-3,Professional Services expense
+TX00785_1,BP00785,2026-10-07,9597030,Vendor 5-1,Travel expense
+TX00785_2,BP00785,2026-10-13,16794803,Vendor 5-2,Travel expense
+TX00785_3,BP00785,2026-10-19,21593321,Vendor 5-3,Travel expense
+TX00786_1,BP00786,2026-10-07,10836964,Vendor 6-1,Training expense
+TX00786_2,BP00786,2026-10-13,18964688,Vendor 6-2,Training expense
+TX00786_3,BP00786,2026-10-19,24383171,Vendor 6-3,Training expense
+TX00787_1,BP00787,2026-10-07,8185734,Vendor 1-1,Personnel expense
+TX00787_2,BP00787,2026-10-13,14325035,Vendor 1-2,Personnel expense
+TX00787_3,BP00787,2026-10-19,18417905,Vendor 1-3,Personnel expense
+TX00788_1,BP00788,2026-10-07,8222790,Vendor 2-1,Software expense
+TX00788_2,BP00788,2026-10-13,14389883,Vendor 2-2,Software expense
+TX00788_3,BP00788,2026-10-19,18501281,Vendor 2-3,Software expense
+TX00789_1,BP00789,2026-10-07,10829003,Vendor 3-1,Infrastructure expense
+TX00789_2,BP00789,2026-10-13,18950756,Vendor 3-2,Infrastructure expense
+TX00789_3,BP00789,2026-10-19,24365259,Vendor 3-3,Infrastructure expense
+TX00790_1,BP00790,2026-10-07,13222689,Vendor 4-1,Professional Services expense
+TX00790_2,BP00790,2026-10-13,23139706,Vendor 4-2,Professional Services expense
+TX00790_3,BP00790,2026-10-19,29751051,Vendor 4-3,Professional Services expense
+TX00791_1,BP00791,2026-10-07,13777452,Vendor 5-1,Travel expense
+TX00791_2,BP00791,2026-10-13,24110541,Vendor 5-2,Travel expense
+TX00791_3,BP00791,2026-10-19,30999268,Vendor 5-3,Travel expense
+TX00792_1,BP00792,2026-10-07,9941247,Vendor 6-1,Training expense
+TX00792_2,BP00792,2026-10-13,17397182,Vendor 6-2,Training expense
+TX00792_3,BP00792,2026-10-19,22367808,Vendor 6-3,Training expense
+TX00793_1,BP00793,2026-11-07,4971953,Vendor 1-1,Personnel expense
+TX00793_2,BP00793,2026-11-13,8700918,Vendor 1-2,Personnel expense
+TX00793_3,BP00793,2026-11-19,11186897,Vendor 1-3,Personnel expense
+TX00794_1,BP00794,2026-11-07,7016911,Vendor 2-1,Software expense
+TX00794_2,BP00794,2026-11-13,12279595,Vendor 2-2,Software expense
+TX00794_3,BP00794,2026-11-19,15788053,Vendor 2-3,Software expense
+TX00795_1,BP00795,2026-11-07,5459284,Vendor 3-1,Infrastructure expense
+TX00795_2,BP00795,2026-11-13,9553747,Vendor 3-2,Infrastructure expense
+TX00795_3,BP00795,2026-11-19,12283390,Vendor 3-3,Infrastructure expense
+TX00796_1,BP00796,2026-11-07,8409576,Vendor 4-1,Professional Services expense
+TX00796_2,BP00796,2026-11-13,14716759,Vendor 4-2,Professional Services expense
+TX00796_3,BP00796,2026-11-19,18921548,Vendor 4-3,Professional Services expense
+TX00797_1,BP00797,2026-11-07,7625071,Vendor 5-1,Travel expense
+TX00797_2,BP00797,2026-11-13,13343874,Vendor 5-2,Travel expense
+TX00797_3,BP00797,2026-11-19,17156411,Vendor 5-3,Travel expense
+TX00798_1,BP00798,2026-11-07,7336970,Vendor 6-1,Training expense
+TX00798_2,BP00798,2026-11-13,12839697,Vendor 6-2,Training expense
+TX00798_3,BP00798,2026-11-19,16508184,Vendor 6-3,Training expense
+TX00799_1,BP00799,2026-11-07,7180886,Vendor 1-1,Personnel expense
+TX00799_2,BP00799,2026-11-13,12566550,Vendor 1-2,Personnel expense
+TX00799_3,BP00799,2026-11-19,16156994,Vendor 1-3,Personnel expense
+TX00800_1,BP00800,2026-11-07,8461340,Vendor 2-1,Software expense
+TX00800_2,BP00800,2026-11-13,14807346,Vendor 2-2,Software expense
+TX00800_3,BP00800,2026-11-19,19038018,Vendor 2-3,Software expense
+TX00801_1,BP00801,2026-11-07,8332506,Vendor 3-1,Infrastructure expense
+TX00801_2,BP00801,2026-11-13,14581886,Vendor 3-2,Infrastructure expense
+TX00801_3,BP00801,2026-11-19,18748142,Vendor 3-3,Infrastructure expense
+TX00802_1,BP00802,2026-11-07,8119284,Vendor 4-1,Professional Services expense
+TX00802_2,BP00802,2026-11-13,14208747,Vendor 4-2,Professional Services expense
+TX00802_3,BP00802,2026-11-19,18268390,Vendor 4-3,Professional Services expense
+TX00803_1,BP00803,2026-11-07,10140027,Vendor 5-1,Travel expense
+TX00803_2,BP00803,2026-11-13,17745048,Vendor 5-2,Travel expense
+TX00803_3,BP00803,2026-11-19,22815064,Vendor 5-3,Travel expense
+TX00804_1,BP00804,2026-11-07,8806304,Vendor 6-1,Training expense
+TX00804_2,BP00804,2026-11-13,15411033,Vendor 6-2,Training expense
+TX00804_3,BP00804,2026-11-19,19814186,Vendor 6-3,Training expense
+TX00805_1,BP00805,2026-11-07,5467229,Vendor 1-1,Personnel expense
+TX00805_2,BP00805,2026-11-13,9567650,Vendor 1-2,Personnel expense
+TX00805_3,BP00805,2026-11-19,12301266,Vendor 1-3,Personnel expense
+TX00806_1,BP00806,2026-11-07,9199359,Vendor 2-1,Software expense
+TX00806_2,BP00806,2026-11-13,16098878,Vendor 2-2,Software expense
+TX00806_3,BP00806,2026-11-19,20698559,Vendor 2-3,Software expense
+TX00807_1,BP00807,2026-11-07,8460810,Vendor 3-1,Infrastructure expense
+TX00807_2,BP00807,2026-11-13,14806418,Vendor 3-2,Infrastructure expense
+TX00807_3,BP00807,2026-11-19,19036824,Vendor 3-3,Infrastructure expense
+TX00808_1,BP00808,2026-11-07,10232359,Vendor 4-1,Professional Services expense
+TX00808_2,BP00808,2026-11-13,17906628,Vendor 4-2,Professional Services expense
+TX00808_3,BP00808,2026-11-19,23022808,Vendor 4-3,Professional Services expense
+TX00809_1,BP00809,2026-11-07,9889292,Vendor 5-1,Travel expense
+TX00809_2,BP00809,2026-11-13,17306262,Vendor 5-2,Travel expense
+TX00809_3,BP00809,2026-11-19,22250909,Vendor 5-3,Travel expense
+TX00810_1,BP00810,2026-11-07,7305008,Vendor 6-1,Training expense
+TX00810_2,BP00810,2026-11-13,12783765,Vendor 6-2,Training expense
+TX00810_3,BP00810,2026-11-19,16436270,Vendor 6-3,Training expense
+TX00811_1,BP00811,2026-11-07,7645024,Vendor 1-1,Personnel expense
+TX00811_2,BP00811,2026-11-13,13378793,Vendor 1-2,Personnel expense
+TX00811_3,BP00811,2026-11-19,17201306,Vendor 1-3,Personnel expense
+TX00812_1,BP00812,2026-11-07,8020497,Vendor 2-1,Software expense
+TX00812_2,BP00812,2026-11-13,14035871,Vendor 2-2,Software expense
+TX00812_3,BP00812,2026-11-19,18046121,Vendor 2-3,Software expense
+TX00813_1,BP00813,2026-11-07,9400848,Vendor 3-1,Infrastructure expense
+TX00813_2,BP00813,2026-11-13,16451485,Vendor 3-2,Infrastructure expense
+TX00813_3,BP00813,2026-11-19,21151910,Vendor 3-3,Infrastructure expense
+TX00814_1,BP00814,2026-11-07,9780873,Vendor 4-1,Professional Services expense
+TX00814_2,BP00814,2026-11-13,17116528,Vendor 4-2,Professional Services expense
+TX00814_3,BP00814,2026-11-19,22006966,Vendor 4-3,Professional Services expense
+TX00815_1,BP00815,2026-11-07,11507532,Vendor 5-1,Travel expense
+TX00815_2,BP00815,2026-11-13,20138181,Vendor 5-2,Travel expense
+TX00815_3,BP00815,2026-11-19,25891948,Vendor 5-3,Travel expense
+TX00816_1,BP00816,2026-11-07,13033729,Vendor 6-1,Training expense
+TX00816_2,BP00816,2026-11-13,22809027,Vendor 6-2,Training expense
+TX00816_3,BP00816,2026-11-19,29325893,Vendor 6-3,Training expense
+TX00817_1,BP00817,2026-11-07,6975501,Vendor 1-1,Personnel expense
+TX00817_2,BP00817,2026-11-13,12207127,Vendor 1-2,Personnel expense
+TX00817_3,BP00817,2026-11-19,15694879,Vendor 1-3,Personnel expense
+TX00818_1,BP00818,2026-11-07,8471924,Vendor 2-1,Software expense
+TX00818_2,BP00818,2026-11-13,14825868,Vendor 2-2,Software expense
+TX00818_3,BP00818,2026-11-19,19061831,Vendor 2-3,Software expense
+TX00819_1,BP00819,2026-11-07,9658974,Vendor 3-1,Infrastructure expense
+TX00819_2,BP00819,2026-11-13,16903205,Vendor 3-2,Infrastructure expense
+TX00819_3,BP00819,2026-11-19,21732695,Vendor 3-3,Infrastructure expense
+TX00820_1,BP00820,2026-11-07,9799955,Vendor 4-1,Professional Services expense
+TX00820_2,BP00820,2026-11-13,17149922,Vendor 4-2,Professional Services expense
+TX00820_3,BP00820,2026-11-19,22049901,Vendor 4-3,Professional Services expense
+TX00821_1,BP00821,2026-11-07,12208234,Vendor 5-1,Travel expense
+TX00821_2,BP00821,2026-11-13,21364410,Vendor 5-2,Travel expense
+TX00821_3,BP00821,2026-11-19,27468529,Vendor 5-3,Travel expense
+TX00822_1,BP00822,2026-11-07,9951417,Vendor 6-1,Training expense
+TX00822_2,BP00822,2026-11-13,17414979,Vendor 6-2,Training expense
+TX00822_3,BP00822,2026-11-19,22390689,Vendor 6-3,Training expense
+TX00823_1,BP00823,2026-11-07,10654125,Vendor 1-1,Personnel expense
+TX00823_2,BP00823,2026-11-13,18644718,Vendor 1-2,Personnel expense
+TX00823_3,BP00823,2026-11-19,23971782,Vendor 1-3,Personnel expense
+TX00824_1,BP00824,2026-11-07,8133365,Vendor 2-1,Software expense
+TX00824_2,BP00824,2026-11-13,14233388,Vendor 2-2,Software expense
+TX00824_3,BP00824,2026-11-19,18300072,Vendor 2-3,Software expense
+TX00825_1,BP00825,2026-11-07,10800277,Vendor 3-1,Infrastructure expense
+TX00825_2,BP00825,2026-11-13,18900484,Vendor 3-2,Infrastructure expense
+TX00825_3,BP00825,2026-11-19,24300624,Vendor 3-3,Infrastructure expense
+TX00826_1,BP00826,2026-11-07,9799579,Vendor 4-1,Professional Services expense
+TX00826_2,BP00826,2026-11-13,17149263,Vendor 4-2,Professional Services expense
+TX00826_3,BP00826,2026-11-19,22049055,Vendor 4-3,Professional Services expense
+TX00827_1,BP00827,2026-11-07,9404472,Vendor 5-1,Travel expense
+TX00827_2,BP00827,2026-11-13,16457825,Vendor 5-2,Travel expense
+TX00827_3,BP00827,2026-11-19,21160063,Vendor 5-3,Travel expense
+TX00828_1,BP00828,2026-11-07,14466481,Vendor 6-1,Training expense
+TX00828_2,BP00828,2026-11-13,25316343,Vendor 6-2,Training expense
+TX00828_3,BP00828,2026-11-19,32549585,Vendor 6-3,Training expense
+TX00829_1,BP00829,2026-12-07,4239527,Vendor 1-1,Personnel expense
+TX00829_2,BP00829,2026-12-13,7419172,Vendor 1-2,Personnel expense
+TX00829_3,BP00829,2026-12-19,9538938,Vendor 1-3,Personnel expense
+TX00830_1,BP00830,2026-12-07,7587122,Vendor 2-1,Software expense
+TX00830_2,BP00830,2026-12-13,13277463,Vendor 2-2,Software expense
+TX00830_3,BP00830,2026-12-19,17071026,Vendor 2-3,Software expense
+TX00831_1,BP00831,2026-12-07,8352973,Vendor 3-1,Infrastructure expense
+TX00831_2,BP00831,2026-12-13,14617703,Vendor 3-2,Infrastructure expense
+TX00831_3,BP00831,2026-12-19,18794190,Vendor 3-3,Infrastructure expense
+TX00832_1,BP00832,2026-12-07,6119327,Vendor 4-1,Professional Services expense
+TX00832_2,BP00832,2026-12-13,10708823,Vendor 4-2,Professional Services expense
+TX00832_3,BP00832,2026-12-19,13768488,Vendor 4-3,Professional Services expense
+TX00833_1,BP00833,2026-12-07,8598754,Vendor 5-1,Travel expense
+TX00833_2,BP00833,2026-12-13,15047820,Vendor 5-2,Travel expense
+TX00833_3,BP00833,2026-12-19,19347200,Vendor 5-3,Travel expense
+TX00834_1,BP00834,2026-12-07,9213143,Vendor 6-1,Training expense
+TX00834_2,BP00834,2026-12-13,16123000,Vendor 6-2,Training expense
+TX00834_3,BP00834,2026-12-19,20729574,Vendor 6-3,Training expense
+TX00835_1,BP00835,2026-12-07,6152789,Vendor 1-1,Personnel expense
+TX00835_2,BP00835,2026-12-13,10767380,Vendor 1-2,Personnel expense
+TX00835_3,BP00835,2026-12-19,13843776,Vendor 1-3,Personnel expense
+TX00836_1,BP00836,2026-12-07,6208738,Vendor 2-1,Software expense
+TX00836_2,BP00836,2026-12-13,10865292,Vendor 2-2,Software expense
+TX00836_3,BP00836,2026-12-19,13969662,Vendor 2-3,Software expense
+TX00837_1,BP00837,2026-12-07,6008287,Vendor 3-1,Infrastructure expense
+TX00837_2,BP00837,2026-12-13,10514503,Vendor 3-2,Infrastructure expense
+TX00837_3,BP00837,2026-12-19,13518649,Vendor 3-3,Infrastructure expense
+TX00838_1,BP00838,2026-12-07,9612803,Vendor 4-1,Professional Services expense
+TX00838_2,BP00838,2026-12-13,16822405,Vendor 4-2,Professional Services expense
+TX00838_3,BP00838,2026-12-19,21628807,Vendor 4-3,Professional Services expense
+TX00839_1,BP00839,2026-12-07,6653420,Vendor 5-1,Travel expense
+TX00839_2,BP00839,2026-12-13,11643486,Vendor 5-2,Travel expense
+TX00839_3,BP00839,2026-12-19,14970198,Vendor 5-3,Travel expense
+TX00840_1,BP00840,2026-12-07,9803220,Vendor 6-1,Training expense
+TX00840_2,BP00840,2026-12-13,17155636,Vendor 6-2,Training expense
+TX00840_3,BP00840,2026-12-19,22057248,Vendor 6-3,Training expense
+TX00841_1,BP00841,2026-12-07,6032924,Vendor 1-1,Personnel expense
+TX00841_2,BP00841,2026-12-13,10557617,Vendor 1-2,Personnel expense
+TX00841_3,BP00841,2026-12-19,13574079,Vendor 1-3,Personnel expense
+TX00842_1,BP00842,2026-12-07,6339448,Vendor 2-1,Software expense
+TX00842_2,BP00842,2026-12-13,11094034,Vendor 2-2,Software expense
+TX00842_3,BP00842,2026-12-19,14263758,Vendor 2-3,Software expense
+TX00843_1,BP00843,2026-12-07,7645091,Vendor 3-1,Infrastructure expense
+TX00843_2,BP00843,2026-12-13,13378909,Vendor 3-2,Infrastructure expense
+TX00843_3,BP00843,2026-12-19,17201455,Vendor 3-3,Infrastructure expense
+TX00844_1,BP00844,2026-12-07,8341825,Vendor 4-1,Professional Services expense
+TX00844_2,BP00844,2026-12-13,14598195,Vendor 4-2,Professional Services expense
+TX00844_3,BP00844,2026-12-19,18769109,Vendor 4-3,Professional Services expense
+TX00845_1,BP00845,2026-12-07,10242802,Vendor 5-1,Travel expense
+TX00845_2,BP00845,2026-12-13,17924904,Vendor 5-2,Travel expense
+TX00845_3,BP00845,2026-12-19,23046307,Vendor 5-3,Travel expense
+TX00846_1,BP00846,2026-12-07,10246744,Vendor 6-1,Training expense
+TX00846_2,BP00846,2026-12-13,17931802,Vendor 6-2,Training expense
+TX00846_3,BP00846,2026-12-19,23055176,Vendor 6-3,Training expense
+TX00847_1,BP00847,2026-12-07,5633115,Vendor 1-1,Personnel expense
+TX00847_2,BP00847,2026-12-13,9857951,Vendor 1-2,Personnel expense
+TX00847_3,BP00847,2026-12-19,12674509,Vendor 1-3,Personnel expense
+TX00848_1,BP00848,2026-12-07,9402740,Vendor 2-1,Software expense
+TX00848_2,BP00848,2026-12-13,16454794,Vendor 2-2,Software expense
+TX00848_3,BP00848,2026-12-19,21156166,Vendor 2-3,Software expense
+TX00849_1,BP00849,2026-12-07,10512347,Vendor 3-1,Infrastructure expense
+TX00849_2,BP00849,2026-12-13,18396607,Vendor 3-2,Infrastructure expense
+TX00849_3,BP00849,2026-12-19,23652783,Vendor 3-3,Infrastructure expense
+TX00850_1,BP00850,2026-12-07,8708614,Vendor 4-1,Professional Services expense
+TX00850_2,BP00850,2026-12-13,15240075,Vendor 4-2,Professional Services expense
+TX00850_3,BP00850,2026-12-19,19594385,Vendor 4-3,Professional Services expense
+TX00851_1,BP00851,2026-12-07,10363583,Vendor 5-1,Travel expense
+TX00851_2,BP00851,2026-12-13,18136271,Vendor 5-2,Travel expense
+TX00851_3,BP00851,2026-12-19,23318064,Vendor 5-3,Travel expense
+TX00852_1,BP00852,2026-12-07,11496702,Vendor 6-1,Training expense
+TX00852_2,BP00852,2026-12-13,20119229,Vendor 6-2,Training expense
+TX00852_3,BP00852,2026-12-19,25867583,Vendor 6-3,Training expense
+TX00853_1,BP00853,2026-12-07,8401843,Vendor 1-1,Personnel expense
+TX00853_2,BP00853,2026-12-13,14703225,Vendor 1-2,Personnel expense
+TX00853_3,BP00853,2026-12-19,18904147,Vendor 1-3,Personnel expense
+TX00854_1,BP00854,2026-12-07,8376037,Vendor 2-1,Software expense
+TX00854_2,BP00854,2026-12-13,14658065,Vendor 2-2,Software expense
+TX00854_3,BP00854,2026-12-19,18846086,Vendor 2-3,Software expense
+TX00855_1,BP00855,2026-12-07,8236968,Vendor 3-1,Infrastructure expense
+TX00855_2,BP00855,2026-12-13,14414695,Vendor 3-2,Infrastructure expense
+TX00855_3,BP00855,2026-12-19,18533181,Vendor 3-3,Infrastructure expense
+TX00856_1,BP00856,2026-12-07,10133999,Vendor 4-1,Professional Services expense
+TX00856_2,BP00856,2026-12-13,17734499,Vendor 4-2,Professional Services expense
+TX00856_3,BP00856,2026-12-19,22801501,Vendor 4-3,Professional Services expense
+TX00857_1,BP00857,2026-12-07,11789163,Vendor 5-1,Travel expense
+TX00857_2,BP00857,2026-12-13,20631036,Vendor 5-2,Travel expense
+TX00857_3,BP00857,2026-12-19,26525619,Vendor 5-3,Travel expense
+TX00858_1,BP00858,2026-12-07,9495213,Vendor 6-1,Training expense
+TX00858_2,BP00858,2026-12-13,16616623,Vendor 6-2,Training expense
+TX00858_3,BP00858,2026-12-19,21364231,Vendor 6-3,Training expense
+TX00859_1,BP00859,2026-12-07,7823468,Vendor 1-1,Personnel expense
+TX00859_2,BP00859,2026-12-13,13691070,Vendor 1-2,Personnel expense
+TX00859_3,BP00859,2026-12-19,17602805,Vendor 1-3,Personnel expense
+TX00860_1,BP00860,2026-12-07,9347792,Vendor 2-1,Software expense
+TX00860_2,BP00860,2026-12-13,16358635,Vendor 2-2,Software expense
+TX00860_3,BP00860,2026-12-19,21032533,Vendor 2-3,Software expense
+TX00861_1,BP00861,2026-12-07,11761361,Vendor 3-1,Infrastructure expense
+TX00861_2,BP00861,2026-12-13,20582381,Vendor 3-2,Infrastructure expense
+TX00861_3,BP00861,2026-12-19,26463063,Vendor 3-3,Infrastructure expense
+TX00862_1,BP00862,2026-12-07,8306234,Vendor 4-1,Professional Services expense
+TX00862_2,BP00862,2026-12-13,14535909,Vendor 4-2,Professional Services expense
+TX00862_3,BP00862,2026-12-19,18689028,Vendor 4-3,Professional Services expense
+TX00863_1,BP00863,2026-12-07,8502228,Vendor 5-1,Travel expense
+TX00863_2,BP00863,2026-12-13,14878898,Vendor 5-2,Travel expense
+TX00863_3,BP00863,2026-12-19,19130014,Vendor 5-3,Travel expense
+TX00864_1,BP00864,2026-12-07,8914234,Vendor 6-1,Training expense
+TX00864_2,BP00864,2026-12-13,15599910,Vendor 6-2,Training expense
+TX00864_3,BP00864,2026-12-19,20057028,Vendor 6-3,Training expense

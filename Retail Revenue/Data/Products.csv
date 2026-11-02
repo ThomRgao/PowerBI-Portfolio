@@ -1,0 +1,81 @@
+﻿ProductID,ProductName,Category,ListPrice,UnitCost
+1,Electronics Product 001,Electronics,300000,191208
+2,Electronics Product 002,Electronics,220000,130107
+3,Electronics Product 003,Electronics,550000,329816
+4,Electronics Product 004,Electronics,530000,392848
+5,Electronics Product 005,Electronics,470000,297071
+6,Electronics Product 006,Electronics,600000,446786
+7,Electronics Product 007,Electronics,220000,129829
+8,Electronics Product 008,Electronics,300000,193111
+9,Electronics Product 009,Electronics,270000,213131
+10,Electronics Product 010,Electronics,450000,264346
+11,Electronics Product 011,Electronics,670000,529520
+12,Electronics Product 012,Electronics,360000,215196
+13,Electronics Product 013,Electronics,400000,297979
+14,Electronics Product 014,Electronics,550000,335228
+15,Electronics Product 015,Electronics,770000,431154
+16,Electronics Product 016,Electronics,740000,409944
+17,Home & Living Product 017,Home & Living,750000,381056
+18,Home & Living Product 018,Home & Living,640000,501051
+19,Home & Living Product 019,Home & Living,310000,195776
+20,Home & Living Product 020,Home & Living,420000,314742
+21,Home & Living Product 021,Home & Living,130000,96940
+22,Home & Living Product 022,Home & Living,570000,400079
+23,Home & Living Product 023,Home & Living,220000,151800
+24,Home & Living Product 024,Home & Living,350000,201532
+25,Home & Living Product 025,Home & Living,240000,171497
+26,Home & Living Product 026,Home & Living,530000,276760
+27,Home & Living Product 027,Home & Living,660000,445284
+28,Home & Living Product 028,Home & Living,730000,475948
+29,Home & Living Product 029,Home & Living,580000,384594
+30,Home & Living Product 030,Home & Living,510000,362350
+31,Home & Living Product 031,Home & Living,730000,495047
+32,Home & Living Product 032,Home & Living,150000,79922
+33,Fashion Product 033,Fashion,360000,251021
+34,Fashion Product 034,Fashion,500000,274951
+35,Fashion Product 035,Fashion,100000,66897
+36,Fashion Product 036,Fashion,560000,442424
+37,Fashion Product 037,Fashion,470000,371166
+38,Fashion Product 038,Fashion,600000,319070
+39,Fashion Product 039,Fashion,170000,98196
+40,Fashion Product 040,Fashion,700000,506839
+41,Fashion Product 041,Fashion,760000,512358
+42,Fashion Product 042,Fashion,780000,441721
+43,Fashion Product 043,Fashion,520000,321017
+44,Fashion Product 044,Fashion,690000,376204
+45,Fashion Product 045,Fashion,80000,51587
+46,Fashion Product 046,Fashion,420000,262413
+47,Fashion Product 047,Fashion,150000,80223
+48,Fashion Product 048,Fashion,230000,139035
+49,Beauty Product 049,Beauty,480000,305568
+50,Beauty Product 050,Beauty,310000,203464
+51,Beauty Product 051,Beauty,490000,314996
+52,Beauty Product 052,Beauty,610000,437125
+53,Beauty Product 053,Beauty,620000,369317
+54,Beauty Product 054,Beauty,430000,220764
+55,Beauty Product 055,Beauty,190000,96287
+56,Beauty Product 056,Beauty,480000,333308
+57,Beauty Product 057,Beauty,260000,202534
+58,Beauty Product 058,Beauty,360000,235727
+59,Beauty Product 059,Beauty,750000,411031
+60,Beauty Product 060,Beauty,760000,477212
+61,Beauty Product 061,Beauty,640000,364516
+62,Beauty Product 062,Beauty,560000,385800
+63,Beauty Product 063,Beauty,280000,193800
+64,Beauty Product 064,Beauty,600000,371205
+65,Sports Product 065,Sports,300000,190462
+66,Sports Product 066,Sports,590000,363824
+67,Sports Product 067,Sports,320000,179755
+68,Sports Product 068,Sports,130000,87517
+69,Sports Product 069,Sports,730000,405944
+70,Sports Product 070,Sports,460000,257196
+71,Sports Product 071,Sports,190000,109954
+72,Sports Product 072,Sports,670000,441071
+73,Sports Product 073,Sports,450000,305591
+74,Sports Product 074,Sports,550000,371856
+75,Sports Product 075,Sports,490000,296742
+76,Sports Product 076,Sports,630000,431682
+77,Sports Product 077,Sports,430000,333510
+78,Sports Product 078,Sports,150000,105245
+79,Sports Product 079,Sports,450000,240911
+80,Sports Product 080,Sports,440000,235437
